@@ -333,7 +333,32 @@
 > - [horizon and locality]
 > - [references]
 
-## TAXA to be replaced or added.
+## TAXA to be added to replace high-rank taxa above
+## Osteostraci
+[*Ateleaspis tessellata*](https://deepbone.org/public/#/explor?s_id=168810&functionId=Deepbone_header_searchResultOpen) Traquair, 1900
+> upper Wenlock to lower Ludlow (Gorstian), 430.5, 425.6
 
+> - Lanarkshire, Ayrshire and Peeblesshire, Scotland.
+> - [Ritchie, 1967](https://academic.oup.com/zoolinnean/article-abstract/47/311/69/2680215).
+
+## Galeaspida
+[*Shuyu zhejiangensis*](https://deepbone.org/public/#/explor?s_id=328&functionId=Deepbone_header_searchResultOpen) (Pan, 1986)
+> lower Telychian, 438.5, 436.8 
+
+> - Kangshan Formation; Changxing County, Zhejiang Province, China
+> - Pan, 1986; [Gai *et al*., 2011](https://www.nature.com/articles/nature10276).
+
+[*Hanyangaspis guodingshanensis*](https://deepbone.org/public/#/explor?s_id=201&functionId=Deepbone_header_searchResultOpen) P'an and Liu, 1975
+> lower to middle Telychian, 438.5, 435.1 
+
+> - Qingshui Formation; Fentou Formation; Wuhan City, Hubei Province, China
+> - [Pan *et al*., 1975](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9oGBdUgjfj7BRcJ6xgYtJe1GJEKZitogzBEMEatsOrGGHDzYKT-DCL0v6HVmDYm8vJ-Z4ZTTDhJFB0Nu725PbPbrGdMi5il8yXdjRjHn5p0AP3BxzZSPQN1libeRhw25aM=&uniplatform=NZKPT&language=CHS); [Shan *et al*., 2023](http://journal09.magtechjournal.com/gdlxb/article/2023/1671-1505-25-2-327.html)
+>
+
+[*Duyunolepis paoyangensis*](https://deepbone.org/public/#/explor?s_id=455&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+> upper Emsian, 400.45, 393.3
+
+> - Shujiaping Formation； Dunyun City, Guizhou Province, China
+> - [Halstead, 1979](https://www.nature.com/articles/282833a0); Pan, 1992; P'an and Wang, 1978; [Pan and Wang, 1982](https://kns.cnki.net/kcms2/article/abstract?v=v5HVlYuqh9q9MIXcst7zt24C6J3OTk7-5YYeUmeJQSF7BCGi-1IB5w6XIqQ2tN6pDAzfCU9qWwSNlD2cH08et0Z0Zz0m1STkTkK_9DrSsUUWZLoCnxbZfGI55VK6Qd-oF3JPDcBloU0=&uniplatform=NZKPT&language=CHS) 
 
 **References**
