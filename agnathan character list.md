@@ -6,6 +6,7 @@ From Miyashita *et al*. (2021) to Dearden *et al*. (2023), Arandaspida and Heter
 
 CMC, Conway Morris and Caron (2014); GCR, Gess et al. (2006); GDS, Gabbott et al. (2016); HSM, Heimberg et al. (2010); KLV, Khonsari et al. (2009); KD, Keating and Donoghue (2016); MH, Mallatt and Holland (2013); MSL, McCoy et al. (2016).
 
+## Brain, Sensory, and Nervous systems
 1. Skeletal derivatives of neural crest: 0, absent; 1, present.
 > Conway Morris and Caron (2014), Character 1: definition modified; Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
@@ -40,15 +41,7 @@ chondrichthyans (155–159), and they are tentatively coded as separated. This c
 7. Tripartite division of facial nerve into pharyngeal, 'pretrematic', and 'postrematic' branches: 0, absent; 1, present.
 > CMC #8, KLV #50: definition modified; Miyashita *et al*. (2019), Character 7; Miyashita *et al*. (2021), Character 7; Dearden *et al*. (2023), Character 7.
 
-> - Miyashita *et al*. (2019): "The original definition in the CMC dataset concerned the presence of pretrematic branch in 
-branchial nerves, where jawless vertebrates were coded as lacking the branch. Cyclostomes 
-clearly have pretrematic branch in the glossopharyngeal and vagus nerves (160). The facial 
-nerve, however, lacks the bipartite organization of pre- and post-trematic branches being 
-separated by the hyomandibular pouch (29, 161). What appears to correspond to a pretrematic 
-branch is a split of the postrematic branch. The lack of the pretrematic branch in the facial nerve 
-is also consistent with the lack of pseudobranch (gill-like folded epithelium in hyomandibular 
-position) in cyclostomes, suggesting that the structure represents a derived state acquired in the 
-stem of gnathostomes (115)."
+> - Miyashita *et al*. (2019): "The original definition in the CMC dataset concerned the presence of pretrematic branch in branchial nerves, where jawless vertebrates were coded as lacking the branch. Cyclostomes clearly have pretrematic branch in the glossopharyngeal and vagus nerves (160). The facial nerve, however, lacks the bipartite organization of pre- and post-trematic branches being separated by the hyomandibular pouch (29, 161). What appears to correspond to a pretrematic branch is a split of the postrematic branch. The lack of the pretrematic branch in the facial nerve is also consistent with the lack of pseudobranch (gill-like folded epithelium in hyomandibular position) in cyclostomes, suggesting that the structure represents a derived state acquired in the stem of gnathostomes (115)."
 
 8. Spinal cord in cross section: 0, round; 1, flattened.
 > CMC #9: definition modified; Miyashita *et al*. (2019), Character 8; Miyashita *et al*. (2021), Character 8; Dearden *et al*. (2023), Character 8.
@@ -59,198 +52,313 @@ stem of gnathostomes (115)."
 10. Ventral and dorsal roots of spinal nerve originates: 0, intersegmentally; 1, intrasegmentally.
 > Miyashita *et al*. (2019), Character 10; Miyashita *et al*. (2021), Character 10; Dearden *et al*. (2023), Character 10.
 
-> - Miyashita *et al*. (2019): "This character supplements character #9 (ventral and dorsal roots united). Indeed, hagfish and 
-gnathostomes are similar to each other for having the dorsal and ventral roots united (they are 
-separate in lampreys). However, both roots originate at the intra-segmental level (medial to 
-myomeres) in lampreys and gnathostomes, whereas the origin is at the inter-segmental level 
-(medial to myosepta) in hagfish (162). To capture the full range of this variation, this addition 
-to CMC #10 is required."
+> - Miyashita *et al*. (2019): "This character supplements character #9 (ventral and dorsal roots united). Indeed, hagfish and gnathostomes are similar to each other for having the dorsal and ventral roots united (they are separate in lampreys). However, both roots originate at the intra-segmental level (medial to myomeres) in lampreys and gnathostomes, whereas the origin is at the inter-segmental level (medial to myosepta) in hagfish (162). To capture the full range of this variation, this addition to CMC #10 is required."
 
 11. Mauthner fibers at rhombomere 4: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 11; Miyashita *et al*. (2021), Character 11; Dearden *et al*. (2023), Character 11.
+> CMC #11: definition modified; Miyashita *et al*. (2019), Character 11; Miyashita *et al*. (2021), Character 11; Dearden *et al*. (2023), Character 11.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The Mauthner fibers are identified primarily by their position at rhombomere 4. Therefore, the 
+character is inapplicable (‘-‘) for outgroups without a tripartite brain (#4, this analysis)."
 
 12. Pineal organ (extra-ocular photoreceptor region expressing pineal opsins): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 12; Miyashita *et al*. (2021), Character 12; Dearden *et al*. (2023), Character 12.
-
-> - Miyashita *et al*. (2019): ""
+> CMC #3; Miyashita *et al*. (2019), Character 12; Miyashita *et al*. (2021), Character 12; Dearden *et al*. (2023), Character 12.
 
 > - Dearden *et al*. (2023): “We scored *Eriptychius* as present based on the pineal opening tentatively identified in the median dorsal cartilage. For *Sacabambaspis* we have followed the interpretation of Gagnier (1993), however see Zhang et al. (2023) for an alternative anatomical interpretation.“
 
 13. Pineal opening: 0, covered; 1, uncovered.
-> Miyashita *et al*. (2019), Character 13; Miyashita *et al*. (2021), Character 13; Dearden *et al*. (2023), Character 13.
+> CMC #100; coding modified; Miyashita *et al*. (2019), Character 13; Miyashita *et al*. (2021), Character 13; Dearden *et al*. (2023), Character 13.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The character is inapplicable to taxa lacking a pineal organ (#12, this analysis) and/or a skull 
+(#3, this analysis)."
 
 > - Dearden *et al*. (2023): “We scored *Eriptychius* as unknown as it is unclear whether the tessera overlying the median dorsal plates is in life position or whether it has an opening in.” 
 
 14. Adenohypophysis: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 14; Miyashita *et al*. (2021), Character 14; Dearden *et al*. (2023), Character 14.
-
-> - Miyashita *et al*. (2019): ""
+> CMC #4; Miyashita *et al*. (2019), Character 14; Miyashita *et al*. (2021), Character 14; Dearden *et al*. (2023), Character 14.
 
 15. Olfactory peduncles: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 15; Miyashita *et al*. (2021), Character 15; Dearden *et al*. (2023), Character 15.
+> CMC #2; Miyashita *et al*. (2019), Character 15; Miyashita *et al*. (2021), Character 15; Dearden *et al*. (2023), Character 15.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Any taxon that scores for 0 in character #4 (tripartite vesicles at anterior end of neural tube, 
+absent) is coded as inapplicable (-)."
 
 16. Encapsulated olfactory epithelium with external opening: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 16; Miyashita *et al*. (2021), Character 16; Dearden *et al*. (2023), Character 16.
+> CMC #13: definition modified; Miyashita *et al*. (2019), Character 16; Miyashita *et al*. (2021), Character 16; Dearden *et al*. (2023), Character 16.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Haikouichthys and Metaspriggina were coded as having olfactory capsules, following the 
+original descriptions (35, 163)."
 
 17. Position of nasohypophyseal/nasal opening: 0, terminal; 1, dorsal.
-> Miyashita *et al*. (2019), Character 17; Miyashita *et al*. (2021), Character 17; Dearden *et al*. (2023), Character 17.
+> CMC #16: coding modified; Miyashita *et al*. (2019), Character 17; Miyashita *et al*. (2021), Character 17; Dearden *et al*. (2023), Character 17.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character describes the extent of posthypophyseal/internasohypophyseal skeleton in the 
+snout (39, 164–166) — or, as superficially interpreted, the distance between the mouth and the 
+nostril. If the pertinent structures in Haikouichthys (163) and Metaspriggina (35) are correlates 
+of the nasohypophyseal system, the openings would have been terminal, not dorsal. This 
+character is inapplicable to those without adenohypophysis or olfactory capsules (#14 and 16, 
+this analysis). Myxinikela is coded for the plesiomorphic state (0, terminal). As done for other 
+controversial taxa and characters throughout this analysis, this was verified independently by 
+multiple authors on the original material that preserves the snout."
 
 18. Nasohypophyseal canal: 0, blind; 1, opening into pharynx.
-> Miyashita *et al*. (2019), Character 18; Miyashita *et al*. (2021), Character 18; Dearden *et al*. (2023), Character 18.
+> CMC #14: definition modified; Miyashita *et al*. (2019), Character 18; Miyashita *et al*. (2021), Character 18; Dearden *et al*. (2023), Character 18.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Galeaspids are coded as unknown (‘?’) for this character. The existing reconstruction of their 
+internal anatomy (152) does not indicate whether or not the nasal cavity was open to the 
+oropharyngeal cavity. The hypophyseal canal opened into the oral cavity, but that system is 
+separate from the nasal passage in this lineage (152), like in crown-group gnathostomes.
+Palaeospondylus is coded as having a blind nasohypophyseal canal, both under the 
+cyclostome and gnathostome models. The cyclostome model posits a basket of longitudinal bars 
+at the anterior end of the skull as the olfactory capsule (95). If true, the olfactory cavity would 
+be closed posteriorly by contact between this element and the neurocranium, or else the 
+nasohypophyseal canal would have to extend below the commissure — unlike any known cyclostomes. Thus, the canal of Palaeospondylus was coded as blind, consistent with a 
+cyclostome interpretation. The character is contingent on the presence of the 
+nasohypophyseal/nasal cavity (#14 and #16, this analysis)."
 
 19. Nasohypophyseal opening: 0, single; 1, paired.
-> Miyashita *et al*. (2019), Character 19; Miyashita *et al*. (2021), Character 19; Dearden *et al*. (2023), Character 19.
+> CMC #15, 101: definition modified; Miyashita *et al*. (2019), Character 19; Miyashita *et al*. (2021), Character 19; Dearden *et al*. (2023), Character 19.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character likely correlates with the organization of nasal (olfactory) capsules (#20, this 
+analysis). On the basis of paired capsules with a single aperture in stem gnathostomes and 
+possibly in myllokunmingiids, the primitive state (single) does not assume a particular state in 
+character #20. However, there is no example of paired apertures with a single capsule, 
+suggesting that the derived state (paired) in this character is contingent on the derived state of 
+character #20. One way to treat this likely contingency is to code only those with the derived 
+state of character #20. However, multiple stem gnathostomes (anaspids, arandaspids, 
+thelodonts, Jamoytius, Athenaegis, etc.) are preserved with no imprints of the capsules and 
+therefore can only be scored for the organization of the aperture. Some of them are also highly 
+incomplete with a limited number of characters scored. To compare them with the maximum 
+range of OTUs, this character is coded without contingency on character #20."
 
 > - Dearden *et al*. (2023): “Miyashita et al. (2019, 2021) coded this character on the basis of the number of olfactory openings. Based on Gagnier’s (1993) interpretation *Sacabambaspis* had two openings; we have coded it as 
 paired. Heterostracan taxa are coded ?: the anatomy nasohypophyseal openings has never been conclusively shown."
 
-> - Miyashita *et al*. (2019): ""
-
 20. Nasal (olfactory) capsule: 0, unpaired; 1, paired.
-> Miyashita *et al*. (2019), Character 20; Miyashita *et al*. (2021), Character 20; Dearden *et al*. (2023), Character 20.
+> CMC #17: definition modified; Miyashita *et al*. (2019), Character 20; Miyashita *et al*. (2021), Character 20; Dearden *et al*. (2023), Character 20.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Organization of the olfactory capsules can vary independent of the number of the 
+nasohypophyseal opening. The olfactory tracts have paired organization in all known 
+vertebrates, but the olfactory organ may be single or paired (29). Sometimes the olfactory tracts 
+clearly split from one another as in heterostracans and crown gnathostomes."
 
 21. Nasohypophyseal canal: 0, maintains width and height anteriorly; 1, tapers anteriorly.
 > Miyashita *et al*. (2019), Character 21; Miyashita *et al*. (2021), Character 21; Dearden *et al*. (2023), Character 21.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character only applies to myxinoids (or putative myxinoids). Among living hagfish, 
+Rubicundus spp. have a tapering snout with tubular extension and with barbels originating 
+posterior to the aperture (70, 167–169)."
 
 22. External opening of nasohypophyseal canal: 0, terminal aperture; 1, tubular extension.
 > Miyashita *et al*. (2019), Character 22; Miyashita *et al*. (2021), Character 22; Dearden *et al*. (2023), Character 22.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character only applies to myxinoids."
 
 23. Nasohypophyseal barbels extend from: 0, rim of nasohypophyseal aperture; 1, posteriorly to nasohypophyseal aperture.
 > Miyashita *et al*. (2019), Character 23; Miyashita *et al*. (2021), Character 23; Dearden *et al*. (2023), Character 23.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character only applies to myxinoids."
 
 24. Nasohypophyseal papillae, ventral element: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 24; Miyashita *et al*. (2021), Character 24; Dearden *et al*. (2023), Character 24.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character only applies to myxinoids. The characters regarding the nasohypophyseal 
+papillae originate from a comparative analysis by Mok (170)."
 
 25. Nasohypophyseal papillae, dorsal element(s): 0, midline; 1, paired.
 > Miyashita *et al*. (2019), Character 25; Miyashita *et al*. (2021), Character 25; Dearden *et al*. (2023), Character 25.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character only applies to myxinoids."
 
 26. Eyes with pigmented retinal epithelium: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 26; Miyashita *et al*. (2021), Character 26; Dearden *et al*. (2023), Character 26.
+> CMC #12: definition modified; HSM #19; Miyashita *et al*. (2019), Character 26; Miyashita *et al*. (2021), Character 26; Dearden *et al*. (2023), Character 26.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Pigmented retinal epithelium is characteristic of vertebrate eyes (102, 171)."
 
 > - Dearden *et al*. (2023): “*Eriptychius* is assumed to have pigmented eyes on the basis of the orbits and orbital scales and so we scored it present."
 
 27. Eyes: 0, exposed; 1, covered by dermis; 2, covered by trunk muscles.
 > Miyashita *et al*. (2019), Character 27; Miyashita *et al*. (2021), Character 27; Dearden *et al*. (2023), Character 27.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is compound, as the state 2 assumes coverage by the dermis as well. However, 
+the character is included in the current form as the state 2 only applies to a nested ingroup 
+within the crown group Myxinoidea, which is the only group of taxa with covered eyes in this 
+dataset. The character is contingent on character #26 (presence of eye)."
 
 > - Dearden *et al*. (2023): “This is unknown in all fossil vertebrates. For consistency’s sake with the other fossil vertebrates in the analysis, and as a full reworking of the phylogenetic dataset is beyond the 
 scope of this paper, here *Eriptychius*, *Sacabambaspis*, *Astraspis* and heterostracan taxa are assumed to have uncovered eyes and we have scored them absent in keeping with the scoring approach of Miyashita et al. (2019, 2021).
 
 28. Extrinsic eye musculature: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 28; Miyashita *et al*. (2021), Character 28; Dearden *et al*. (2023), Character 28.
+> CMC #18: coding modified; Miyashita *et al*. (2019), Character 28; Miyashita *et al*. (2021), Character 28; Dearden *et al*. (2023), Character 28.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The character is contingent on the presence of eyes (#26, this analysis). Euconodonts are 
+typically coded as having extraocular muscles on the basis of the fibrous soft tissues preserved 
+in the Carboniferous euconodont Promissum (172). This observation constitutes one of the 
+prominent inferences for the vertebrate affinity of conodonts, but also has attracted controversy
+(27). Certainly, the extraocular muscles are a collection of individual bundles of muscles, whereas the supposed structure in Promissum shows no such organization. Two lines of 
+evidence consistent with the original interpretation are the position close to the posited eye and 
+the fibrous texture unlike typical cartilages (172). Alternatively, the tissues may be preserved in 
+a more advanced stage of decay than assumed originally (22). In that case, it would be difficult 
+to identify the tissue as anything more specific than remnants of cranial musculature.
+Another possible interpretation is that the ‘extraocular muscles’ of Promissum represent 
+a patch of mucocartilage-like supporting tissue. Mucocartilages in modern larval lampreys
+(173–177) appear morphologically similar and compatible in anatomical position with the 
+‘muscles’ of Promissum. All of these interpretations are compatible with the currently available 
+evidence, and none can be readily ruled out. To highlight uncertain identity of the preserved 
+tissues, euconodonts were scored as unknown (‘?’) for this character."
 
 29. Muscles innervated by oculomotor nerve: 0, three; 1, four.
 > Miyashita *et al*. (2019), Character 29; Miyashita *et al*. (2021), Character 29; Dearden *et al*. (2023), Character 29.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The following characters describe three major character transitions in the extraocular muscles 
+before the chondrichthyan-osteichthyan divergence. The oculomotor nerve innervates three 
+muscles in lampreys (dorsal ramus: superior rectus; ventral ramus: anterior oblique, internal 
+rectus) and four in gnathostomes (dorsal ramus: superior rectus; ventral ramus: inferior oblique, 
+inferior rectus; internal rectus [dorsal ramus in chondrichthyans; ventral ramus in 
+osteichthyans]) (178). Osteostracans were coded as unknown (‘?’) for this character, because 
+only two muscle attachments exist for the muscles of the oculomotor nerve and because neither 
+provides direct evidence for multiple elements attached as in other vertebrate lineages (179). 
+This character explicitly refers only to the numbers of elements so as not to assume any one of 
+multiple possible schemes of homology among these muscles a priori. A reference to number
+of elements (and not to interpretations of homology for the individual components) allows 
+placoderms to be scored for this character.
+Depending on the identification schemes, additional characters may be formulated to resolve ingroup relationships among gnathostomes, but this is beyond the schope of this 
+analysis. In a brief summary, correspondence with the counterparts in crown gnathostomes is 
+unclear for the four muscles innervated by the oculomotor nerve in placoderms. The anterior 
+oblique (corresponding to inferior oblique in crown gnathostomes) is undisputed. The rectus 
+inserting dorsally appears to correspond superior rectus topographically and probably received 
+innervation from the dorsal ramus, but has been identified as internal rectus on the basis of its 
+insertion dorsally to the anterior oblique (178). Problematically, identification of this muscle as 
+internal rectus assumes either: (a) the superior rectus was lost and one additional muscle added 
+in placoderms; or (b) the superior rectus independently evolved in lampreys and gnathostomes. 
+Transposition of the extraocular muscles is necessary no matter which assignment is followed 
+— the internal rectus passes below the anterior oblique in lampreys, whereas it typically inserts 
+dorsal to the inferior oblique in crown gnathostomes. Therefore, it appears most parsimonious 
+to recognize the four muscles in placoderms as homologous to those of crown gnathostomes 
+(anterior oblique [inferior oblique], internal rectus, inferior rectus, and superior rectus; the last 
+probably being the only muscle innervated by the dorsal ramus). This character is contingent on 
+the presence of extraocular muscles (#28, this analysis)."
 
 30. Oblique muscle innervated by trochlear nerve: 0, posterior; 1, superior.
 > Miyashita *et al*. (2019), Character 30; Miyashita *et al*. (2021), Character 30; Dearden *et al*. (2023), Character 30.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This shift of the oblique muscle correlates with the shift of another oblique muscle from 
+anterior to inferior. This character is contingent on the presence of extraocular muscles (#28, 
+this analysis)."
 
 31. Rectus muscles innervated by abducens nerve: 0, two; 1, one.
 > Miyashita *et al*. (2019), Character 31; Miyashita *et al*. (2021), Character 31; Dearden *et al*. (2023), Character 31.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Lampreys have an external and posterior rectus — only the external rectus persists in crown 
+gnathostomes (retractor bulbi are tetrapod-specific condition). On the basis of the insertion 
+scars, placoderms likely had two muscles innervated by the abducens nerve, although the 
+homology of the second muscle to the posterior rectus remains unresolved (178). In osteostracans, a single myodome sits in the corresponding position, and it remains unclear 
+whether one or two muscles attached here despite reconstructions typically depict two (179). It 
+is scored as unknown (‘?’) in the present analysis. This character is contingent on the presence 
+of extraocular muscles (#28, this analysis)."
 
 32. Eyes: 0, laterally placed (interorbital distance equal to width of head at that position); 1, close together near midline (interorbital distance substantially less than width of head at that position); 2, on prominent eyestalk.
 > Miyashita *et al*. (2019), Character 32; Miyashita *et al*. (2021), Character 32; Dearden *et al*. (2023), Character 32.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of eyes (#26, this analysis). The tertiary state (2, on 
+prominent eyestalk) would be required only if Tullimonstrum were to be included. For the 
+current analysis, this character is binary."
 
 > - Dearden *et al*. (2023): “Although the eyes are oriented anteriorly rather than laterally *Sacabambaspis* has been scored 0 as the eyes are placed laterally relative to the head width at that position. We have scored *Eriptychius* absent based on the inferred position of the orbits and orbital scales."
 
 33. Cartilaginous otic capsules: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 33; Miyashita *et al*. (2021), Character 33; Dearden *et al*. (2023), Character 33.
+> GDS #111; definition modified； Miyashita *et al*. (2019), Character 33; Miyashita *et al*. (2021), Character 33; Dearden *et al*. (2023), Character 33.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original definition (otic capsules, absent or present) is modified to predict distribution of 
+the character in the stem branches with respect to general decay sequences. The otic capsules 
+are among the most resistant skeletal structures to decay (1, 2, 78, 109). Therefore, the absence 
+of the structure may be inferred in specimens preserved with an extensive set of soft tissues that 
+would have otherwise decayed well before the otic capsules, from the localities where cartilages 
+and other soft tissues are readily preserved. These conditions rule out the Lesmahagow and 
+Achanarras forms (Achanarella, Ciderius, Cornovichthys, Jamoytius) and the Miguasha forms 
+(Euphanerops: most cartilages preserved in this taxon are calcified) (77, 180) from 
+consideration — unless the structure is clearly present in fossils (e.g., Lasanius: MNHN 
+specimens under study) (181). These leave several taxa from the Mazon Creek fauna and from 
+the Chengjiang and Burgess/Marble Canyon fauna (35, 94, 117, 163, 182, 183). Among them, 
+the identification of an otic capsule in Haikouichthys (182) is accepted, whereas the 
+corresponding region is not well represented in Myllokunmingia. For all others, the capsule is 
+coded as absent. This does not rule out the presence of otic placodes or capsules in those taxa (Haikouella, Pikaia, and Metaspriggina), but if present, they are unlikely to have been 
+extensively chondrified."
 
 > - Dearden *et al*. (2023): “Cartilaginous otic capsules are not preserved in *Eriptychius* PF 1795. However, it is unclear whether they were present in life as they could have either been unmineralized and thus not fossilised, or alternatively lost prior due to disruption to the carcass during fossilisation. Thus we have scored this character as unknown. We have also changed the scoring for heterostracan taxa from 1 to ?."
 
 34. Vertical semicircular canals forming loops that are separate from roof of utriculus: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 34; Miyashita *et al*. (2021), Character 34; Dearden *et al*. (2023), Character 34.
+> CMC #21; coding modified; Miyashita *et al*. (2019), Character 34; Miyashita *et al*. (2021), Character 34; Dearden *et al*. (2023), Character 34.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "All characters concerning the inner ear anatomy are inapplicable to taxa that lack an otic 
+capsule (#33, this analysis)."
 
 35. Anterior and posterior semicircular canals: 0, share a canal toward utriculus after meeting in a confluence; 1, meet each other to form a single loop.
 > Miyashita *et al*. (2019), Character 35; Miyashita *et al*. (2021), Character 35; Dearden *et al*. (2023), Character 35.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Although the single semicircular canal in hagfish is often described as a ‘horizontal’ canal, a 
+series of stem gnathostome lineages (heterostracans, galeaspids, and osteostracans) clearly 
+indicates that the horizontal canal is unique to jawed gnathostomes. So the anterior and 
+posterior canals have broader distributions, and the condition in lampreys is compatible with 
+that assignment. Given that hagfish have the two cristae in positions corresponding to the 
+anterior and posterior canals in lampreys (184), the ‘horizontal’ canal of hagfish is the fusion of 
+the anterior and posterior canals partway in their loops. Its state is best interpreted as the loss of 
+the confluent part of the anterior and posterior loops. This character is contingent on the 
+presence of an otic capsule (#33, this analysis)."
 
 36. Horizontal semicircular canal: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 36; Miyashita *et al*. (2021), Character 36; Dearden *et al*. (2023), Character 36.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The character is contingent of character #33."
 
 37. Statoliths composed of calcium phosphate: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 37; Miyashita *et al*. (2021), Character 37; Dearden *et al*. (2023), Character 37.
+> HSM #38; Miyashita *et al*. (2019), Character 37; Miyashita *et al*. (2021), Character 37; Dearden *et al*. (2023), Character 37.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Cyclostomes have calcium phosphatic condensations in the inner ear (79). Calcium phosphatic 
+condensation in the otic capsule of Hardistiella is accepted provisionally as a statolith, 
+following the description by Janvier and Lund (185)."
 
 38. Endolymphatic duct: 0, is blind; 1, opens externally.
-> Miyashita *et al*. (2019), Character 38; Miyashita *et al*. (2021), Character 38; Dearden *et al*. (2023), Character 38.
+> CMC #22; definition modified; Miyashita *et al*. (2019), Character 38; Miyashita *et al*. (2021), Character 38; Dearden *et al*. (2023), Character 38.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original definition (presence/absence of open endolymphatic duct) confounds the presence/absence of endolymphatic duct with its states (externally open/closed). In that original 
+definition, presence/absence cannot be assessed for outgroups that lack an otic capsule 
+altogether, and the character would have been parsimony-uninformative. The character 
+definition was thus modified. The character is contingent on character #33."
 
 > - Dearden *et al*. (2023): “Based on articulated headshields that have no evidence of an endolymphatic opening we have scored both *Sacabambaspis* and *Astraspis* as blind (0) for this character. In *Eriptychius* this is 
 unknown. As with the pineal for *Sacabambaspis* we have followed the interpretation of Gagnier (1993), but see Zhang et al. (2023) for an alternative anatomical interpretation."
 
 39. Electroreceptive cells: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 39; Miyashita *et al*. (2021), Character 39; Dearden *et al*. (2023), Character 39.
-
-> - Miyashita *et al*. (2019): ""
+> CMC #23; Miyashita *et al*. (2019), Character 39; Miyashita *et al*. (2021), Character 39; Dearden *et al*. (2023), Character 39.
 
 40. Sensory lines: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 40; Miyashita *et al*. (2021), Character 40; Dearden *et al*. (2023), Character 40.
-
-> - Miyashita *et al*. (2019): ""
+> CMC #24; Miyashita *et al*. (2019), Character 40; Miyashita *et al*. (2021), Character 40; Dearden *et al*. (2023), Character 40.
 
 41. Sensory-lines: 0, on head only; 1, on head plus body.
-> Miyashita *et al*. (2019), Character 41; Miyashita *et al*. (2021), Character 41; Dearden *et al*. (2023), Character 41.
+> CMC #25; Miyashita *et al*. (2019), Character 41; Miyashita *et al*. (2021), Character 41; Dearden *et al*. (2023), Character 41.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The character is contingent on the presence of sensory lines (#40, this analysis)."
 
 42. Sensory-line: 0, enclosed in grooves; 1, enclosed in canals.
-> Miyashita *et al*. (2019), Character 42; Miyashita *et al*. (2021), Character 42; Dearden *et al*. (2023), Character 42.
+> CMC #26; Miyashita *et al*. (2019), Character 42; Miyashita *et al*. (2021), Character 42; Dearden *et al*. (2023), Character 42.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The character is contingent on the presence of sensory lines (#40, this analysis)."
 
 43. Internal taste buds, or functionally equivalent end chemosensory organs innervated by cranial nerves in head: 0, absent; 1, present; 2, lacking internal taste buds but function replaced by Schreiner organs.
-> Miyashita *et al*. (2019), Character 43; Miyashita *et al*. (2021), Character 43; Dearden *et al*. (2023), Character 43.
+> HSM #27; definition modified; Miyashita *et al*. (2019), Character 43; Miyashita *et al*. (2021), Character 43; Dearden *et al*. (2023), Character 43.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The absence of internal taste buds in hagfish should not be confused with that in non-vertebrate 
+chordates and hemichordates, as the function is replaced by the unique epidermal structure 
+Schreiner organs (innervated by the non-gustatory trigeminal nerve; not requiring purinergic 
+signaling) (130, 131). This is a specialization unique to hagfish and reported in multiple extant 
+species. The implication is that internal taste buds and Schreiner organs are mutually exclusive, 
+so these are treated as separate states in a single character. Alternatively, this character may be 
+coded in two characters: (a) end chemosensory organs innervated by cranial nerves in head: 0, 
+absent; 1, present; and contingent on the presence, (b) end chemosensory organs: 0, internal 
+taste buds; 1, Schreiner organs. However, the character (a) will be constant because the 
+character cannot be coded for outgroups that lack cranial nerves."
+
+## Mouth and Branchial System
 
 44. Branchial apparatus: 0, retains arrangement of pharyngula such that first branchial opening assumes infra- to postotic position; 1, displaced anteriorly; 2, displaced posteriorly.
 > Miyashita *et al*. (2019), Character 45; Miyashita *et al*. (2021), Character 44; Dearden *et al*. (2023), Character 44.
@@ -401,6 +509,8 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, *Astraspis*, 
 
 > - Miyashita *et al*. (2019): ""
 
+## Circulatory System
+
 71. Multi-chamber heart: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
@@ -445,6 +555,8 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, *Astraspis*, 
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
+
+## Fins and Fin-folds
 
 80. Body forms, width against height: 0, compressed or subcircular so that branchial openings are lateral; 1, depressed so that branchial openings are ventral.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
@@ -516,6 +628,8 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, *Astraspis*, 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “We scored this 1 for *Anglaspis* and *Errivaspis* but ? for *Athenaegis*."
+
+## Skeletal System
 
 93. Skeletal elements consisting of calcium phosphate: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
@@ -877,6 +991,8 @@ surface of the plates adjacent to the mouth."
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
 > - Miyashita *et al*. (2019): ""
+
+## Miscellaneous Characters
 
 159. Male gametes shed directly through the coelom: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
