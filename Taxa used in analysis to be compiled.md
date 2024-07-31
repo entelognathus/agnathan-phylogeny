@@ -1,66 +1,124 @@
-# **List of galeaspid taxa, geological range, and references**
+# **List of early chordate taxa, geological range, and references**
 > example:
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
 
 > - [horizon and locality]
 > - [references]
+
 > - **any comments on this species added here**
 
-Hemichordata
-Cephalochordata
-Tunicata
-Pikaia
-Haikouella
-Myllokunmingia
-Metaspriggina
-Haikouichthys
-Euconodonta
-Gilpichthys
-Myxinikela
-Tethymyxine
-Eptatretus Paramyxine spp.
-Eptatretus burgeri
-Eptatretus stoutii
-Myxine spp.
-Rubicundus eos
-Rubicundus lopheliae
-Neomyxine biniplicata
-Priscomyzon
-Mayomyzon
-Hardistiella
-Pipiscius
-Myxineidus
-Mesomyzon
-Geotria australis
-Mordacia spp.
-Lampetra fluviatilis
-Lethenteron camtschaticum
-Petromyzon marinus
-Jamoytius
-Euphanerops
-Achanarella
-Ciderius
-Cornovichthys
-Lasanius
-Birkenia
-Rhyncholepis
-Astraspis
-Eriptychius
-Sacabambaspis
-Athenaegis
-Errivaspis
-Anglaspis
-Furcacaudiforms
-Turinia
-Loganellia
-Galeaspida
-Pituriaspida
-Osteostraci
-Chondrichthyes
-Osteichthyes
-Antiarchs
-Arthrodires
+## Taxa used in Dearden et al. (2023).
+1. Hemichordata
+
+2. Cephalochordata
+
+3. Tunicata
+
+4. *Pikaia*
+
+5. *Haikouella*
+
+6. *Myllokunmingia*
+
+7. *Metaspriggina*
+
+8. *Haikouichthys*
+
+9. Euconodonta
+
+10. *Gilpichthys*
+
+11. *Myxinikela*
+
+12. *Tethymyxine*
+
+13. *Eptatretus 'Paramyxine'* spp.
+
+14. *Eptatretus burgeri*
+
+15. *Eptatretus stoutii*
+
+16. *Myxine* spp.
+
+17. *Rubicundus eos*
+
+18. *Rubicundus lopheliae*
+
+19. *Neomyxine biniplicata*
+
+20. *Priscomyzon*
+
+21. *Mayomyzon*
+
+22. *Hardistiella*
+
+23. *Pipiscius*
+
+24. *Myxineidus*
+
+25. *Mesomyzon*
+
+26. *Geotria australis*
+
+27. *Mordacia* spp.
+
+28. *Lampetra fluviatilis*
+
+29. *Lethenteron camtschaticum*
+
+30. *Petromyzon marinus*
+
+31. *Jamoytius*
+
+32. *Euphanerops*
+
+33. *Achanarella*
+
+34. *Ciderius*
+
+35. *Cornovichthys*
+
+36. *Lasanius*
+
+37. *Birkenia*
+
+38. *Rhyncholepis*
+
+39. *Astraspis*
+
+40. *Eriptychius*
+
+41. *Sacabambaspis*
+
+42. *Athenaegis*
+
+43. *Errivaspis*
+
+44. *Anglaspis*
+
+45. Furcacaudiforms
+
+46. *Turinia*
+
+47. *Loganellia*
+
+48. Galeaspida
+
+49. Pituriaspida
+
+50. Osteostraci
+
+51. Chondrichthyes
+
+52. Osteichthyes
+
+53. Antiarchs
+
+54. Arthrodires
+
+## TAXA to be replaced or added.
+
 
 1. [*Altigibbaspis huiqingae*](https://deepbone.org/public/#/explor?s_id=73601functionId=Deepbone_header_searchResultOpen)  Liu *et al*., 2018
 > lower Lochkovian, 419.2, 415.0
