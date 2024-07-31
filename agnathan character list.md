@@ -495,10 +495,12 @@ surface of the plates adjacent to the mouth."
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
 143. Radially organized circumoral denticulate/cuspidate plates: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 143; Dearden *et al*. (2023), Character 143.
 
 144. Circumoral feeding elements, radially organized: 0, individual cuspidates; 1, petaliform plates.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+> Miyashita *et al*. (2021), Character 144; Dearden *et al*. (2023), Character 144.
+
+> -  Miyashita *et al*. (2021): "This character represents a new addition to the dataset. It codes for the similarity identified between the specimens of *Pipiscius* and *Priscomyzon* in the circumoral feeding apparatus, formed by the grooved petaliform plates (Figures 1c, 2; Extended Data Figures 2m, n, 6e–g). The character is contingent on the foregoing character (#143: Radial organization of circumoral structures: 0, absent; 1, present)."
 
 145. Circumoral keratinous teeth, number of tooth rows in lateral field: 0, three; 1, four; 2, five or greater.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
