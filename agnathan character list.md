@@ -2,6 +2,8 @@
 
 From the original dataset of Miyashita *et al*. (2019), two characters (#44, #81) are excluded and one new character (#144) is added in Miyashita *et al*. (2021).
 
+From Miyashita *et al*. (2021) to Dearden *et al*. (2023), Arandaspida and Heterostraci are removed;  *Anglaspis*, *Eriptychius*, *Errivaspis*, *Sacabambaspis* are added; *Astraspis* and *Athenaegis* are modified.
+
 1. Skeletal derivatives of neural crest: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
@@ -9,21 +11,25 @@ From the original dataset of Miyashita *et al*. (2019), two characters (#44, #81
 > Miyashita *et al*. (2019), Character 2; Miyashita *et al*. (2021), Character 2; Dearden *et al*. (2023), Character 2.
 
 3. Distinct prechordal head: 0, absent or weakly developed; 1, prominent.
-> Miyashita *et al*. (2019), Character 2; Miyashita *et al*. (2021), Character 2; Dearden *et al*. (2023), Character 2.
+> Miyashita *et al*. (2019), Character 3; Miyashita *et al*. (2021), Character 3; Dearden *et al*. (2023), Character 3.
+
 4. Tripartite vesicles at anterior end of neural tube (prosencephalon, mesencephalon, rhombencephalon): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 2; Miyashita *et al*. (2021), Character 2; Dearden *et al*. (2023), Character 2.
+> Miyashita *et al*. (2019), Character 4; Miyashita *et al*. (2021), Character 4; Dearden *et al*. (2023), Character 4.
+
 5. Morphologically distinct cerebellum with corpus cerebelli: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 2; Miyashita *et al*. (2021), Character 2; Dearden *et al*. (2023), Character 2.
+> Miyashita *et al*. (2019), Character 5; Miyashita *et al*. (2021), Character 5; Dearden *et al*. (2023), Character 5.
+
 6. Profundal nerve ganglion: 0, separate from trigeminal ganglion; 1, fused with trigeminal ganglion.
-> Miyashita *et al*. (2019), Character 2; Miyashita *et al*. (2021), Character 2; Dearden *et al*. (2023), Character 2.
+> Miyashita *et al*. (2019), Character 6; Miyashita *et al*. (2021), Character 6; Dearden *et al*. (2023), Character 6.
+
 7. Tripartite division of facial nerve into pharyngeal, 'pretrematic', and 'postrematic' branches: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 7; Miyashita *et al*. (2021), Character 7; Dearden *et al*. (2023), Character 7.
 
 8. Spinal cord in cross section: 0, round; 1, flattened.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 8; Miyashita *et al*. (2021), Character 8; Dearden *et al*. (2023), Character 8.
 
 9. Ventral and dorsal roots of spinal nerve: 0, separated; 1, united.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 9; Miyashita *et al*. (2021), Character 9; Dearden *et al*. (2023), Character 9.
 
 10. Ventral and dorsal roots of spinal nerve originates: 0, intersegmentally; 1, intrasegmentally.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
