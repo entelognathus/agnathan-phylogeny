@@ -38,71 +38,80 @@ chondrichthyans (155–159), and they are tentatively coded as separated. This c
 > - **A potential character to unite galeaspids and jawed vertebrates.**
 >
 7. Tripartite division of facial nerve into pharyngeal, 'pretrematic', and 'postrematic' branches: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 7; Miyashita *et al*. (2021), Character 7; Dearden *et al*. (2023), Character 7.
+> CMC #8, KLV #50: definition modified; Miyashita *et al*. (2019), Character 7; Miyashita *et al*. (2021), Character 7; Dearden *et al*. (2023), Character 7.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original definition in the CMC dataset concerned the presence of pretrematic branch in 
+branchial nerves, where jawless vertebrates were coded as lacking the branch. Cyclostomes 
+clearly have pretrematic branch in the glossopharyngeal and vagus nerves (160). The facial 
+nerve, however, lacks the bipartite organization of pre- and post-trematic branches being 
+separated by the hyomandibular pouch (29, 161). What appears to correspond to a pretrematic 
+branch is a split of the postrematic branch. The lack of the pretrematic branch in the facial nerve 
+is also consistent with the lack of pseudobranch (gill-like folded epithelium in hyomandibular 
+position) in cyclostomes, suggesting that the structure represents a derived state acquired in the 
+stem of gnathostomes (115)."
 
 8. Spinal cord in cross section: 0, round; 1, flattened.
-> Miyashita *et al*. (2019), Character 8; Miyashita *et al*. (2021), Character 8; Dearden *et al*. (2023), Character 8.
-
-> - Miyashita *et al*. (2019): ""
+> CMC #9: definition modified; Miyashita *et al*. (2019), Character 8; Miyashita *et al*. (2021), Character 8; Dearden *et al*. (2023), Character 8.
 
 9. Ventral and dorsal roots of spinal nerve: 0, separated; 1, united.
-> Miyashita *et al*. (2019), Character 9; Miyashita *et al*. (2021), Character 9; Dearden *et al*. (2023), Character 9.
-
-> - Miyashita *et al*. (2019): ""
+> CMC #10: definition modified; Miyashita *et al*. (2019), Character 9; Miyashita *et al*. (2021), Character 9; Dearden *et al*. (2023), Character 9.
 
 10. Ventral and dorsal roots of spinal nerve originates: 0, intersegmentally; 1, intrasegmentally.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 10; Miyashita *et al*. (2021), Character 10; Dearden *et al*. (2023), Character 10.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character supplements character #9 (ventral and dorsal roots united). Indeed, hagfish and 
+gnathostomes are similar to each other for having the dorsal and ventral roots united (they are 
+separate in lampreys). However, both roots originate at the intra-segmental level (medial to 
+myomeres) in lampreys and gnathostomes, whereas the origin is at the inter-segmental level 
+(medial to myosepta) in hagfish (162). To capture the full range of this variation, this addition 
+to CMC #10 is required."
 
 11. Mauthner fibers at rhombomere 4: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 11; Miyashita *et al*. (2021), Character 11; Dearden *et al*. (2023), Character 11.
 
 > - Miyashita *et al*. (2019): ""
 
 12. Pineal organ (extra-ocular photoreceptor region expressing pineal opsins): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 12; Miyashita *et al*. (2021), Character 12; Dearden *et al*. (2023), Character 12.
 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “We scored *Eriptychius* as present based on the pineal opening tentatively identified in the median dorsal cartilage. For *Sacabambaspis* we have followed the interpretation of Gagnier (1993), however see Zhang et al. (2023) for an alternative anatomical interpretation.“
 
 13. Pineal opening: 0, covered; 1, uncovered.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 13; Miyashita *et al*. (2021), Character 13; Dearden *et al*. (2023), Character 13.
 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “We scored *Eriptychius* as unknown as it is unclear whether the tessera overlying the median dorsal plates is in life position or whether it has an opening in.” 
 
 14. Adenohypophysis: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 14; Miyashita *et al*. (2021), Character 14; Dearden *et al*. (2023), Character 14.
 
 > - Miyashita *et al*. (2019): ""
 
 15. Olfactory peduncles: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 15; Miyashita *et al*. (2021), Character 15; Dearden *et al*. (2023), Character 15.
 
 > - Miyashita *et al*. (2019): ""
 
 16. Encapsulated olfactory epithelium with external opening: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 16; Miyashita *et al*. (2021), Character 16; Dearden *et al*. (2023), Character 16.
 
 > - Miyashita *et al*. (2019): ""
 
 17. Position of nasohypophyseal/nasal opening: 0, terminal; 1, dorsal.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 17; Miyashita *et al*. (2021), Character 17; Dearden *et al*. (2023), Character 17.
 
 > - Miyashita *et al*. (2019): ""
 
 18. Nasohypophyseal canal: 0, blind; 1, opening into pharynx.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 18; Miyashita *et al*. (2021), Character 18; Dearden *et al*. (2023), Character 18.
 
 > - Miyashita *et al*. (2019): ""
 
 19. Nasohypophyseal opening: 0, single; 1, paired.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 19; Miyashita *et al*. (2021), Character 19; Dearden *et al*. (2023), Character 19.
 
 > - Miyashita *et al*. (2019): ""
 
@@ -112,44 +121,44 @@ paired. Heterostracan taxa are coded ?: the anatomy nasohypophyseal openings has
 > - Miyashita *et al*. (2019): ""
 
 20. Nasal (olfactory) capsule: 0, unpaired; 1, paired.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 20; Miyashita *et al*. (2021), Character 20; Dearden *et al*. (2023), Character 20.
 
 > - Miyashita *et al*. (2019): ""
 
 21. Nasohypophyseal canal: 0, maintains width and height anteriorly; 1, tapers anteriorly.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 21; Miyashita *et al*. (2021), Character 21; Dearden *et al*. (2023), Character 21.
 
 > - Miyashita *et al*. (2019): ""
 
 22. External opening of nasohypophyseal canal: 0, terminal aperture; 1, tubular extension.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 22; Miyashita *et al*. (2021), Character 22; Dearden *et al*. (2023), Character 22.
 
 > - Miyashita *et al*. (2019): ""
 
 23. Nasohypophyseal barbels extend from: 0, rim of nasohypophyseal aperture; 1, posteriorly to nasohypophyseal aperture.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 23; Miyashita *et al*. (2021), Character 23; Dearden *et al*. (2023), Character 23.
 
 > - Miyashita *et al*. (2019): ""
 
 24. Nasohypophyseal papillae, ventral element: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 24; Miyashita *et al*. (2021), Character 24; Dearden *et al*. (2023), Character 24.
 
 > - Miyashita *et al*. (2019): ""
 
 25. Nasohypophyseal papillae, dorsal element(s): 0, midline; 1, paired.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 25; Miyashita *et al*. (2021), Character 25; Dearden *et al*. (2023), Character 25.
 
 > - Miyashita *et al*. (2019): ""
 
 26. Eyes with pigmented retinal epithelium: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 26; Miyashita *et al*. (2021), Character 26; Dearden *et al*. (2023), Character 26.
 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “*Eriptychius* is assumed to have pigmented eyes on the basis of the orbits and orbital scales and so we scored it present."
 
 27. Eyes: 0, exposed; 1, covered by dermis; 2, covered by trunk muscles.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 27; Miyashita *et al*. (2021), Character 27; Dearden *et al*. (2023), Character 27.
 
 > - Miyashita *et al*. (2019): ""
 
@@ -157,61 +166,61 @@ paired. Heterostracan taxa are coded ?: the anatomy nasohypophyseal openings has
 scope of this paper, here *Eriptychius*, *Sacabambaspis*, *Astraspis* and heterostracan taxa are assumed to have uncovered eyes and we have scored them absent in keeping with the scoring approach of Miyashita et al. (2019, 2021).
 
 28. Extrinsic eye musculature: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 28; Miyashita *et al*. (2021), Character 28; Dearden *et al*. (2023), Character 28.
 
 > - Miyashita *et al*. (2019): ""
 
 29. Muscles innervated by oculomotor nerve: 0, three; 1, four.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 29; Miyashita *et al*. (2021), Character 29; Dearden *et al*. (2023), Character 29.
 
 > - Miyashita *et al*. (2019): ""
 
 30. Oblique muscle innervated by trochlear nerve: 0, posterior; 1, superior.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 30; Miyashita *et al*. (2021), Character 30; Dearden *et al*. (2023), Character 30.
 
 > - Miyashita *et al*. (2019): ""
 
 31. Rectus muscles innervated by abducens nerve: 0, two; 1, one.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 31; Miyashita *et al*. (2021), Character 31; Dearden *et al*. (2023), Character 31.
 
 > - Miyashita *et al*. (2019): ""
 
 32. Eyes: 0, laterally placed (interorbital distance equal to width of head at that position); 1, close together near midline (interorbital distance substantially less than width of head at that position); 2, on prominent eyestalk.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 32; Miyashita *et al*. (2021), Character 32; Dearden *et al*. (2023), Character 32.
 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “Although the eyes are oriented anteriorly rather than laterally *Sacabambaspis* has been scored 0 as the eyes are placed laterally relative to the head width at that position. We have scored *Eriptychius* absent based on the inferred position of the orbits and orbital scales."
 
 33. Cartilaginous otic capsules: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 33; Miyashita *et al*. (2021), Character 33; Dearden *et al*. (2023), Character 33.
 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “Cartilaginous otic capsules are not preserved in *Eriptychius* PF 1795. However, it is unclear whether they were present in life as they could have either been unmineralized and thus not fossilised, or alternatively lost prior due to disruption to the carcass during fossilisation. Thus we have scored this character as unknown. We have also changed the scoring for heterostracan taxa from 1 to ?."
 
 34. Vertical semicircular canals forming loops that are separate from roof of utriculus: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 34; Miyashita *et al*. (2021), Character 34; Dearden *et al*. (2023), Character 34.
 
 > - Miyashita *et al*. (2019): ""
 
 35. Anterior and posterior semicircular canals: 0, share a canal toward utriculus after meeting in a confluence; 1, meet each other to form a single loop.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 35; Miyashita *et al*. (2021), Character 35; Dearden *et al*. (2023), Character 35.
 
 > - Miyashita *et al*. (2019): ""
 
 36. Horizontal semicircular canal: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 36; Miyashita *et al*. (2021), Character 36; Dearden *et al*. (2023), Character 36.
 
 > - Miyashita *et al*. (2019): ""
 
 37. Statoliths composed of calcium phosphate: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 37; Miyashita *et al*. (2021), Character 37; Dearden *et al*. (2023), Character 37.
 
 > - Miyashita *et al*. (2019): ""
 
 38. Endolymphatic duct: 0, is blind; 1, opens externally.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 38; Miyashita *et al*. (2021), Character 38; Dearden *et al*. (2023), Character 38.
 
 > - Miyashita *et al*. (2019): ""
 
@@ -219,32 +228,32 @@ scope of this paper, here *Eriptychius*, *Sacabambaspis*, *Astraspis* and hetero
 unknown. As with the pineal for *Sacabambaspis* we have followed the interpretation of Gagnier (1993), but see Zhang et al. (2023) for an alternative anatomical interpretation."
 
 39. Electroreceptive cells: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 39; Miyashita *et al*. (2021), Character 39; Dearden *et al*. (2023), Character 39.
 
 > - Miyashita *et al*. (2019): ""
 
 40. Sensory lines: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 40; Miyashita *et al*. (2021), Character 40; Dearden *et al*. (2023), Character 40.
 
 > - Miyashita *et al*. (2019): ""
 
 41. Sensory-lines: 0, on head only; 1, on head plus body.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 41; Miyashita *et al*. (2021), Character 41; Dearden *et al*. (2023), Character 41.
 
 > - Miyashita *et al*. (2019): ""
 
 42. Sensory-line: 0, enclosed in grooves; 1, enclosed in canals.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 42; Miyashita *et al*. (2021), Character 42; Dearden *et al*. (2023), Character 42.
 
 > - Miyashita *et al*. (2019): ""
 
 43. Internal taste buds, or functionally equivalent end chemosensory organs innervated by cranial nerves in head: 0, absent; 1, present; 2, lacking internal taste buds but function replaced by Schreiner organs.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 43; Miyashita *et al*. (2021), Character 43; Dearden *et al*. (2023), Character 43.
 
 > - Miyashita *et al*. (2019): ""
 
 44. Branchial apparatus: 0, retains arrangement of pharyngula such that first branchial opening assumes infra- to postotic position; 1, displaced anteriorly; 2, displaced posteriorly.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 45; Miyashita *et al*. (2021), Character 44; Dearden *et al*. (2023), Character 44.
 
 > - Miyashita *et al*. (2019): ""
 
