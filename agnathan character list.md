@@ -12,6 +12,9 @@ From Miyashita *et al*. (2021) to Dearden *et al*. (2023), Arandaspida and Heter
 
 3. Distinct prechordal head: 0, absent or weakly developed; 1, prominent.
 > Miyashita *et al*. (2019), Character 3; Miyashita *et al*. (2021), Character 3; Dearden *et al*. (2023), Character 3.
+>
+> - Dearden *et al*. (2023): “In previous versions of this matrix *Sacabambaspis* was scored 1 based on a heterostracan-like  anatomical interpretation (see discussion in supplement of Miyashita et al. 2019). However, 
+as discussed in the main text, the incoherency of pteraspidomorphs and the dissimilarity of the placement of the orbits in *Sacabambaspis* compared to *Eriptychius*, *Astraspis*, and  heterostracans leaves open the possibility that the orbital position in *Sacabambaspis* reflects a weakly developed prechordal head rather than being derived from a heterostracan-like form. Thus we score *Sacabambaspis* 0 which we believe to be more consistent with the observed state in the fossils. We note though that either of these interpretations are plausible until more is known about the internal anatomy of arandaspids.”
 
 4. Tripartite vesicles at anterior end of neural tube (prosencephalon, mesencephalon, rhombencephalon): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 4; Miyashita *et al*. (2021), Character 4; Dearden *et al*. (2023), Character 4.
