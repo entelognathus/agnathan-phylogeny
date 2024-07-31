@@ -45,8 +45,16 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 12. Pineal organ (extra-ocular photoreceptor region expressing pineal opsins): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+We scored Eriptychius as present based on the pineal opening tentatively identified in the 
+median dorsal cartilage. For Sacabambaspis we have followed the interpretation of Gagnier
+31, however see Zhang et al. 53 for an alternative anatomical interpretation
+
+
 13. Pineal opening: 0, covered; 1, uncovered.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+We scored Eriptychius as unknown as it is unclear whether the tessera overlying the median 
+dorsal plates is in life position or whether it has an opening in. 
 
 14. Adenohypophysis: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
@@ -65,6 +73,12 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 
 19. Nasohypophyseal opening: 0, single; 1, paired.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+Miyashita et al.45,46 coded this character on the basis of the number of olfactory openings. 
+Based on Gagnier’s31 interpretation Sacabambaspis had two openings; we have coded it as 
+paired. Heterostracan taxa are coded ?: the anatomy nasohypophyseal openings has never 
+been conclusively shown.
+
 
 20. Nasal (olfactory) capsule: 0, unpaired; 1, paired.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
@@ -87,8 +101,20 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 26. Eyes with pigmented retinal epithelium: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+Eriptychius is assumed to have pigmented eyes on the basis of the orbits and orbital scales 
+and so we scored it present.
+
+
 27. Eyes: 0, exposed; 1, covered by dermis; 2, covered by trunk muscles.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+This is unknown in all fossil vertebrates. For consistency’s sake with the other fossil 
+vertebrates in the analysis, and as a full reworking of the phylogenetic dataset is beyond the 
+scope of this paper, here Eriptychius, Sacabambaspis, Astraspis and heterostracan taxa are 
+assumed to have uncovered eyes and we have scored them absent in keeping with the scoring 
+approach of Miyashita et al. 45,46
+.
+
 
 28. Extrinsic eye musculature: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
@@ -105,8 +131,20 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 32. Eyes: 0, laterally placed (interorbital distance equal to width of head at that position); 1, close together near midline (interorbital distance substantially less than width of head at that position); 2, on prominent eyestalk.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+Although the eyes are oriented anteriorly rather than laterally Sacabambaspis has been scored 
+0 as the eyes are placed laterally relative to the head width at that position. We have scored 
+Eriptychius absent based on the inferred position of the orbits and orbital scales.
+
+
 33. Cartilaginous otic capsules: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+Cartilaginous otic capsules are not preserved in Eriptychius PF 1795. However, it is unclear 
+whether they were present in life as they could have either been unmineralized and thus not 
+fossilised, or alternatively lost prior due to disruption to the carcass during fossilisation. Thus 
+we have scored this character as unknown. We have also changed the scoring for 
+heterostracan taxa from 1 to ?
+
 
 34. Vertical semicircular canals forming loops that are separate from roof of utriculus: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
@@ -122,6 +160,11 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 
 38. Endolymphatic duct: 0, is blind; 1, opens externally.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+Based on articulated headshields that have no evidence of an endolymphatic opening we have 
+scored both Sacabambaspis and Astraspis as blind (0) for this character. In Eriptychius this is 
+unknown. As with the pineal for Sacabambaspis we have followed the interpretation of 
+Gagnier31, but see Zhang et al. 53 for an alternative anatomical interpretation
 
 39. Electroreceptive cells: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
@@ -165,11 +208,17 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 52. Single confluent branchial opening: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+We have changed the scoring for Athenaegis from 0 to ? for this and contingent characters as 
+the condition is described as unknown by Soehn and Wilson 56
+
 53. Branchial excurrent duct: 0, opens roughly at position of branchial pouch; 1, extends posteriorly.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 54. Branchial openings: 0, spaced accordingly with dimensions of branchial cavities; 1, packed closely together; 2, organized into multiple parallel rows.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+This was scored inapplicable for heterostracans with a single confluent branchial opening, 
+following the approach for hagfishes with a single branchial opening.
 
 55. Number of arches (or pouches) in branchial apparatus: 0, unconstrained to five; 1, held constant at five.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
@@ -198,11 +247,25 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 63. Position of mouth: 0, terminal; 1, subterminal.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+The mouth in Athenaegis is subterminal , although it lacks the elongate rostrum of pteraspid 
+heterostracans the oral plates are positioned ventrally relative to the rostral plate Soehn and 
+Wilson 56
+. Scoring is changed from 0 to 1.
+
 64. Epidermal oral cirri: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+This is unknowable in most fossil vertebrates. For consistency’s sake with the other fossil 
+vertebrates in the analysis, and as a full reworking of the phylogenetic dataset is beyond the 
+scope of this paper we have scored Eriptychius, Sacabambaspis, Astraspis, and heterostracan 
+taxa absent in keeping with the scoring approach of Miyashita et al. 45,46
+.
+
+
 65. Postoptically derived ectomsenchyme anterior to mandibular arch gives rise to palatal structures that: 0, meet at midline under nasal/nasohypophyseal organs; 1, meet at dorsal midline anterior to nasohypophyseal organs and form a prominent oral roof.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+We consider the palate of Sacabambaspis and heterostracans to be insufficiently wellcharacterised to score this character and so have scored them as unknown.
 
 66. Velum: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
@@ -255,6 +318,9 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 82. Distinct dorsal fin: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+This is judged to be absent in Astraspis, in which two specimens show the articulated dorsal 
+headshield with no evidence for a dorsal fin30,33; we have scored it absent
+
 83. Dorsal fins: 1, continuous or adjacent to one another; 1, set apart from each other widely.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
@@ -282,8 +348,12 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 91. Caudal fin shape: 0, no distinct lobes developed; 1, ventral lobe much larger than dorsal; 2, dorsal lobe much larger than ventral; 3, dorsal and ventral lobes almost equally developed.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+We have scored this 1 for Anglaspis and Errivaspis
+
 92. Chordal disposition relative to tail development: 0, isochordal; 1, hypochordal; 2, hyperchordal.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+We scored this 1 for Anglaspis and Errivaspis but ? for Athenaegis
 
 93. Skeletal elements consisting of calcium phosphate: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
@@ -294,6 +364,9 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 95. Cellular bone: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+We have scored Athenaegis ? for this and subsequent characters , as no histological detail is 
+known for the taxon
+
 96. Lamellar acellular bone (isopedine): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
@@ -302,6 +375,12 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 
 98. Calcified cartilage: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+We have scored this present in Eriptychius, following Denison8
+, as we consider it the most 
+plausible interpretation, but we note that the identity of the endoskeletal tissue is not firmly 
+established. Sacabambaspis and Astraspis are scored ? as only dermal elements are preserved 
+in fossils: the taphonomic loss of calcified cartilage cannot be ruled out.
 
 99. Cellular cartilages with large mature chondrocytes (30-50 ¦Ìm in diameter): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
@@ -336,8 +415,14 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 109. Calcification/ossification occurs in endoskeleton: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+Following the same approach as for character 98 we have scored Sacabambaspis and 
+Astraspis unknown for this character and Eriptychius present.
+
+
 110. Calcification/ossification occurs in exoskeleton: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+We have scored Sacabambaspis present for this character
 
 111. Mineralized integumentary skeleton in trunk, surface coverage: 0, extensive; 1, limited (with evidence for variation and potentials for reduction).
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
@@ -362,6 +447,13 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 
 118. Oak-leaf-shaped tubercles: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+Although in previous versions of this matrix they were scored present, oak-leaf shaped 
+tubercles are absent in Astraspis 30,33. They are also absent in Eriptychius8
+. We have scored 
+both taxa absent for this character. At present the only taxon with this character present is 
+Sacabambaspis, so the character is uninformative but is kept in to preserve the character 
+number scheme
 
 119. Triradiate postbranchial spines: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
@@ -390,6 +482,12 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 127. Dermal head covering in adult state: 0, micromeric; 1, large (macromeric) dermal plates or shield.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+In previous versions of this matrix (Miyashita et al.45,46) Astraspis is scored as micromeric for 
+this character despite the fact that is has a dermal skeleton formed from polyodontode 
+tesserae30,33. For the sake of consistency with other scorings we have kept this and scored 
+Astraspis and Eriptychius as micromeric, but we note that mesomery is arguably as similar to 
+macromery as it is to micromery.
+
 128. Dermal head covering, macromeric: 0, large unpaired plates covering dorsal and ventral sides; 1, covered by tesserae; 2, multiple plates.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
@@ -414,6 +512,11 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 135. Denticulate/cuspidate elements of feeding apparatus, perioral: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+Following the original scoring strategy for this character we have scored heterostracans as 1 
+based on the ornamentation of their oral plates, and Eriptychius 1 due to denticles on the 
+surface of the plates adjacent to the mouth.
+
+
 136. Perioral feeding elements: 0, continuous epidermal covering; 1, discontinuous arrangement.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
@@ -428,6 +531,9 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 
 140. Feeding apparatus forming a pulley-like system of cartilages and protractor-retractor complex derived from mandibular arch: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+This is unknown in heterostracans, where no cartilages are preserved, and is changed from 0 
+to ?
 
 141. Jaws (dorsoventral bite): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
@@ -465,6 +571,10 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 152. Braincase with lateral walls: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+Due to the preservation of only the preorbital region in Eriptychius we have coded it 
+unknown for this character.
+
+
 153. Occiput enclosing vagus and glossopharyngeal nerves: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
@@ -476,6 +586,8 @@ as discussed in the main text, the incoherency of pteraspidomorphs and the dissi
 
 156. Barbels supported by cartilages: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+Cartilages are not preserved in heterostracans, so this is scored ? for those taxa
 
 157. Forked subnasal cartilage: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
