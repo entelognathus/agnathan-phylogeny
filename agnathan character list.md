@@ -40,74 +40,118 @@ chondrichthyans (155–159), and they are tentatively coded as separated. This c
 7. Tripartite division of facial nerve into pharyngeal, 'pretrematic', and 'postrematic' branches: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 7; Miyashita *et al*. (2021), Character 7; Dearden *et al*. (2023), Character 7.
 
+> - Miyashita *et al*. (2019): ""
+
 8. Spinal cord in cross section: 0, round; 1, flattened.
 > Miyashita *et al*. (2019), Character 8; Miyashita *et al*. (2021), Character 8; Dearden *et al*. (2023), Character 8.
+
+> - Miyashita *et al*. (2019): ""
 
 9. Ventral and dorsal roots of spinal nerve: 0, separated; 1, united.
 > Miyashita *et al*. (2019), Character 9; Miyashita *et al*. (2021), Character 9; Dearden *et al*. (2023), Character 9.
 
+> - Miyashita *et al*. (2019): ""
+
 10. Ventral and dorsal roots of spinal nerve originates: 0, intersegmentally; 1, intrasegmentally.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 11. Mauthner fibers at rhombomere 4: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 12. Pineal organ (extra-ocular photoreceptor region expressing pineal opsins): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “We scored *Eriptychius* as present based on the pineal opening tentatively identified in the median dorsal cartilage. For *Sacabambaspis* we have followed the interpretation of Gagnier (1993), however see Zhang et al. (2023) for an alternative anatomical interpretation.“
 
 13. Pineal opening: 0, covered; 1, uncovered.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 > - Dearden *et al*. (2023): “We scored *Eriptychius* as unknown as it is unclear whether the tessera overlying the median dorsal plates is in life position or whether it has an opening in.” 
 
 14. Adenohypophysis: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 15. Olfactory peduncles: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 16. Encapsulated olfactory epithelium with external opening: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 17. Position of nasohypophyseal/nasal opening: 0, terminal; 1, dorsal.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 18. Nasohypophyseal canal: 0, blind; 1, opening into pharynx.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 19. Nasohypophyseal opening: 0, single; 1, paired.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “Miyashita et al. (2019, 2021) coded this character on the basis of the number of olfactory openings. Based on Gagnier’s (1993) interpretation *Sacabambaspis* had two openings; we have coded it as 
 paired. Heterostracan taxa are coded ?: the anatomy nasohypophyseal openings has never been conclusively shown."
 
+> - Miyashita *et al*. (2019): ""
+
 20. Nasal (olfactory) capsule: 0, unpaired; 1, paired.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 21. Nasohypophyseal canal: 0, maintains width and height anteriorly; 1, tapers anteriorly.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 22. External opening of nasohypophyseal canal: 0, terminal aperture; 1, tubular extension.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 23. Nasohypophyseal barbels extend from: 0, rim of nasohypophyseal aperture; 1, posteriorly to nasohypophyseal aperture.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 24. Nasohypophyseal papillae, ventral element: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 25. Nasohypophyseal papillae, dorsal element(s): 0, midline; 1, paired.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 26. Eyes with pigmented retinal epithelium: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “*Eriptychius* is assumed to have pigmented eyes on the basis of the orbits and orbital scales and so we scored it present."
 
 27. Eyes: 0, exposed; 1, covered by dermis; 2, covered by trunk muscles.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “This is unknown in all fossil vertebrates. For consistency’s sake with the other fossil vertebrates in the analysis, and as a full reworking of the phylogenetic dataset is beyond the 
 scope of this paper, here *Eriptychius*, *Sacabambaspis*, *Astraspis* and heterostracan taxa are assumed to have uncovered eyes and we have scored them absent in keeping with the scoring approach of Miyashita et al. (2019, 2021).
@@ -115,39 +159,61 @@ scope of this paper, here *Eriptychius*, *Sacabambaspis*, *Astraspis* and hetero
 28. Extrinsic eye musculature: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 29. Muscles innervated by oculomotor nerve: 0, three; 1, four.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 30. Oblique muscle innervated by trochlear nerve: 0, posterior; 1, superior.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 31. Rectus muscles innervated by abducens nerve: 0, two; 1, one.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 32. Eyes: 0, laterally placed (interorbital distance equal to width of head at that position); 1, close together near midline (interorbital distance substantially less than width of head at that position); 2, on prominent eyestalk.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “Although the eyes are oriented anteriorly rather than laterally *Sacabambaspis* has been scored 0 as the eyes are placed laterally relative to the head width at that position. We have scored *Eriptychius* absent based on the inferred position of the orbits and orbital scales."
 
 33. Cartilaginous otic capsules: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 > - Dearden *et al*. (2023): “Cartilaginous otic capsules are not preserved in *Eriptychius* PF 1795. However, it is unclear whether they were present in life as they could have either been unmineralized and thus not fossilised, or alternatively lost prior due to disruption to the carcass during fossilisation. Thus we have scored this character as unknown. We have also changed the scoring for heterostracan taxa from 1 to ?."
 
 34. Vertical semicircular canals forming loops that are separate from roof of utriculus: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 35. Anterior and posterior semicircular canals: 0, share a canal toward utriculus after meeting in a confluence; 1, meet each other to form a single loop.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 36. Horizontal semicircular canal: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 37. Statoliths composed of calcium phosphate: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 38. Endolymphatic duct: 0, is blind; 1, opens externally.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “Based on articulated headshields that have no evidence of an endolymphatic opening we have scored both *Sacabambaspis* and *Astraspis* as blind (0) for this character. In *Eriptychius* this is 
 unknown. As with the pineal for *Sacabambaspis* we have followed the interpretation of Gagnier (1993), but see Zhang et al. (2023) for an alternative anatomical interpretation."
@@ -155,87 +221,141 @@ unknown. As with the pineal for *Sacabambaspis* we have followed the interpretat
 39. Electroreceptive cells: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 40. Sensory lines: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 41. Sensory-lines: 0, on head only; 1, on head plus body.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 42. Sensory-line: 0, enclosed in grooves; 1, enclosed in canals.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 43. Internal taste buds, or functionally equivalent end chemosensory organs innervated by cranial nerves in head: 0, absent; 1, present; 2, lacking internal taste buds but function replaced by Schreiner organs.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 44. Branchial apparatus: 0, retains arrangement of pharyngula such that first branchial opening assumes infra- to postotic position; 1, displaced anteriorly; 2, displaced posteriorly.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 45. Branchial apparatus, displaced anteriorly such that: 0, first branchial opening assume preotic position; 1, multiple branchial arches occupy preotic position.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 46. Branchial apparatus, displaced posteriorly such that prebranchial length is: 0, less than a quarter; 1, approximately quarter; 1, greater than a third of body length.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 47. Pharyngeal skeleton: 0, delineates pharyngeal slits with ciliary band; 1, supports well-developed branchial lamellae.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 48. Main skeletal support for branchial apparatus with respect to lamellae: 0, lateral; 1, medial.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 49. Pharyngeal skeleton: 0, skeletal arches fused with each other; 1, arches isolated (CMC #111; ).
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 50. Hyomandibular pouch: 0, blind; 1, externally open (spiracle).
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 51. Respiratory current exits through: 0, atrial space; 1, excurrent duct (=branchial pouch); 2, parabranchial cavity.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 52. Single confluent branchial opening: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “We have changed the scoring for *Athenaegis* from 0 to ? for this and contingent characters as the condition is described as unknown by Soehn and Wilson (1990).”
 
 53. Branchial excurrent duct: 0, opens roughly at position of branchial pouch; 1, extends posteriorly.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 54. Branchial openings: 0, spaced accordingly with dimensions of branchial cavities; 1, packed closely together; 2, organized into multiple parallel rows.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “This was scored inapplicable for heterostracans with a single confluent branchial opening, following the approach for hagfishes with a single branchial opening.“
 
 55. Number of arches (or pouches) in branchial apparatus: 0, unconstrained to five; 1, held constant at five.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 56. Number of arches (or pouches) in branchial apparatus (unconstrained to five), maximum number: 0, greater than five and fewer than 20; 1, greater than 20.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 57. Number of arches (or pouches) in branchial apparatus (unconstrained to five): 0, four or five; 1, six or seven; 2, eight to ten; 3, greater than ten.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 58. Branchial series extends: 0, substantially less than half the body length; 1, semiequal to or greater than half the body length.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 59. Lateral branchial openings: 0, at similar horizontal level; 1, in a posteroventrally inclined row.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 60. Opercular flaps associated with branchial openings: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 61. Branchial epithelium: 0, internal; 1, external.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 62. External branchial openings, demarcated by: 0, single element entirely; 1, single element dorsally; 2, multiple plates; 3, a framework of multiple spines; 4, micromeres; 5, naked (mineralized exoskeleton locally absent around the openings).
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 63. Position of mouth: 0, terminal; 1, subterminal.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 > - Dearden *et al*. (2023): “The mouth in Athenaegis is subterminal , although it lacks the elongate rostrum of pteraspid heterostracans the oral plates are positioned ventrally relative to the rostral plate Soehn and 
 Wilson (1990). Scoring is changed from 0 to 1."
 
+> - Miyashita *et al*. (2019): ""
+
 64. Epidermal oral cirri: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “This is unknowable in most fossil vertebrates. For consistency’s sake with the other fossil vertebrates in the analysis, and as a full reworking of the phylogenetic dataset is beyond the 
 scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, *Astraspis*, and heterostracan taxa absent in keeping with the scoring approach of Miyashita et al. (2019, 2021)."
@@ -243,114 +363,182 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, *Astraspis*, 
 65. Postoptically derived ectomsenchyme anterior to mandibular arch gives rise to palatal structures that: 0, meet at midline under nasal/nasohypophyseal organs; 1, meet at dorsal midline anterior to nasohypophyseal organs and form a prominent oral roof.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 > - Dearden *et al*. (2023): “We consider the palate of *Sacabambaspis* and heterostracans to be insufficiently wellcharacterised to score this character and so have scored them as unknown."
 
 66. Velum: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 67. Velar cartilages: 0, at hyomandibular position; 1, extend posteriorly.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 68. Velar cartilages, functions at terminal ontogenetic stages: 0, pump and valve; 1, valve.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 69. Velar wings: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 70. Velar tentacles, papillae or tubercles: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 71. Multi-chamber heart: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 72. Closed pericardium: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 73. Circulatory system: 0, open; 1, closed.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 74. Massive subcutaneous sinus: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 75. Paired dorsal aortae: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 76. Lateral head vein: 0, drains into anterior cardinal vein or its derivative; 1, continues into (or functions as anterior extension of) anterior cardinal vein or its derivative.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 77. Lymphocytes: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 78. Lymphocytes antigen receptors: 0, VLR; 1, T and B.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 79. Subaponeurotic vascular plexus: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 80. Body forms, width against height: 0, compressed or subcircular so that branchial openings are lateral; 1, depressed so that branchial openings are ventral.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 81. Endoskeletal fin supports: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 82. Distinct dorsal fin: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “This is judged to be absent in *Astraspis*, in which two specimens show the articulated dorsal headshield with no evidence for a dorsal fin (Elliott, 1987; Sansom et al., (1997); we have scored it absent。”
 
 83. Dorsal fins: 1, continuous or adjacent to one another; 1, set apart from each other widely.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 84. Fin(s) along dorsal midline originates: 0, above branchial series or anterior to mid-trunk; 1, above anus/anal fin or anterior; 2, posteriorly to anus/anal fin.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 85. Separate anal fin, or a distinct median ventral fin in postanal tail: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 86. Paired skin folds (epidermal ridges) at suprapharyngeal position: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 87. Constricted pectoral fins with endoskeletal elements: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 88. Conspicuous preanal skin fold (epidermal ridge): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 89. Preanal skin fold (epidermal ridge): 0, midline; 1, paired.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 90. Preanal skin fold (epidermal ridge): 0, longitudinal; 1, discrete pelvic fins.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 91. Caudal fin shape: 0, no distinct lobes developed; 1, ventral lobe much larger than dorsal; 2, dorsal lobe much larger than ventral; 3, dorsal and ventral lobes almost equally developed.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “We have scored this 1 for *Anglaspis* and *Errivaspis*."
 
 92. Chordal disposition relative to tail development: 0, isochordal; 1, hypochordal; 2, hyperchordal.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 > - Dearden *et al*. (2023): “We scored this 1 for *Anglaspis* and *Errivaspis* but ? for *Athenaegis*."
 
 93. Skeletal elements consisting of calcium phosphate: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 94. Bone: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 95. Cellular bone: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “We have scored *Athenaegis* ? for this and subsequent characters, as no histological detail is known for the taxon."
 
 96. Lamellar acellular bone (isopedine): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 97. Perichondral bone: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 98. Calcified cartilage: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “We have scored this present in *Eriptychius*, following Denison (1967), as we consider it the most plausible interpretation, but we note that the identity of the endoskeletal tissue is not firmly 
 established. *Sacabambaspis* and *Astraspis* are scored ? as only dermal elements are preserved in fossils: the taphonomic loss of calcified cartilage cannot be ruled out."
@@ -358,125 +546,202 @@ established. *Sacabambaspis* and *Astraspis* are scored ? as only dermal element
 99. Cellular cartilages with large mature chondrocytes (30-50 ¦Ìm in diameter): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
+> - Miyashita *et al*. (2019): ""
+
 100. Mature chondrocytes: 0, become separated and generally even spaced by extracellular matrix; 1, remain nested in a pair.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 101. Dentine: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 102. Spherical/globular dentine: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 103. Tubular dentine: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 104. Tubular dentine, odontoblasts tend to: 0, retreat into pulp cavity; 1, remain in dentinous matrix.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 105. Tubular dentine, interconnections of tubules/canaliculi for odontoblasts tend to be: 0, polarized; 1, non-polarized.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 106. Tubular dentine, interconnections of canaliculi and spacing between odontoblasts tend to be: 0, regular; 1, irregular.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 107. Enamel/oid: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 108. Enamel/oid: 0, monotypic; 1, bitypic.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 109. Calcification/ossification occurs in endoskeleton: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
-> - Dearden *et al*. (2023): “Following the same approach as for character 98 we have scored Sacabambaspis and 
-Astraspis unknown for this character and Eriptychius present.
+> - Miyashita *et al*. (2019): ""
 
+> - Dearden *et al*. (2023): “Following the same approach as for character 98 we have scored Sacabambaspis and 
+Astraspis unknown for this character and Eriptychius present."
 
 110. Calcification/ossification occurs in exoskeleton: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “We have scored *Sacabambaspis* present for this character。“
 
 111. Mineralized integumentary skeleton in trunk, surface coverage: 0, extensive; 1, limited (with evidence for variation and potentials for reduction).
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 112. Odontodes: 0, monodontodes; 1, polyodontodes.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 113. Exoskeleton, organization of superficial layer: 0, spherical; 1, tubular; 2, lamellar.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 114. Exoskeleton, vascular/cancellar layer of osteons: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 115. Exoskeleton, basal tissue: 0, basal lamella; 1, basal attachment.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 116. Cancellar layer in exoskeleton, with honeycomb-shaped cavities: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 117. Scale shape: 0, diamond-shaped; 1, rod-shaped.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 118. Oak-leaf-shaped tubercles: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 > - Dearden *et al*. (2023): “Although in previous versions of this matrix they were scored present, oak-leaf shaped tubercles are absent in *Astraspis* (Elliott, 1987; Sansom et al., 1997). They are also absent in Eriptychius (Denison, 1967). We have scored both taxa absent for this character. At present the only taxon with this character present is *Sacabambaspis*, so the character is uninformative but is kept in to preserve the character number scheme."
+
+> - Miyashita *et al*. (2019): ""
 
 119. Triradiate postbranchial spines: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 120. Median dorsal ridge scales: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 121. Median dorsal ridge scales: 0, simple; 1, hooked.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 122. Vascular canal systems in integumentary skeleton: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 123. Scales: 0, without visceral ribs; 1, with visceral ribs.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 124. Oral plates; 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 125. Odontodes: 0, restricted to exoskeleton; 1, extend into in oral cavity; 2, into pharynx.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 126. Dermal head covering in adult state: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 127. Dermal head covering in adult state: 0, micromeric; 1, large (macromeric) dermal plates or shield.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “In previous versions of this matrix (Miyashita et al. 2019, 2021) *Astraspis* is scored as micromeric for this character despite the fact that is has a dermal skeleton formed from polyodontode 
 tesserae (Elliott, 1987; Sansom et al., 1997). For the sake of consistency with other scorings we have kept this and scored *Astraspis* and *Eriptychius* as micromeric, but we note that mesomery is arguably as similar to 
 macromery as it is to micromery."
 
+> - Miyashita *et al*. (2019): ""
+
 128. Dermal head covering, macromeric: 0, large unpaired plates covering dorsal and ventral sides; 1, covered by tesserae; 2, multiple plates.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 129. Dermal head covering, macromeric/shield: 0, head and anterior trunk continuous; 1, head and anterior trunk decoupled.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 130. Endoskeletal contribution to dermal head covering: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 131. Mineralized exoskeletal circumocular elements: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 132. Mineralized endoskeletal circumocular elements (sclerotic elements): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 133. Sclerotic endoskeleton: 0, isolated circumocular elements; 1, eye capsule or stalk.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 134. Fusion of visceral (pharyngeal) skeletal arches to neurocranium: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 135. Denticulate/cuspidate elements of feeding apparatus, perioral: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “Following the original scoring strategy for this character we have scored heterostracans as 1 based on the ornamentation of their oral plates, and *Eriptychius* 1 due to denticles on the 
 surface of the plates adjacent to the mouth."
@@ -484,106 +749,173 @@ surface of the plates adjacent to the mouth."
 136. Perioral feeding elements: 0, continuous epidermal covering; 1, discontinuous arrangement.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 137. Denticulate/cuspidate elements of feeding apparatus, housed within buccal cavity: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 138. Longitudinally aligned tooth rows providing transverse bite: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 139. Perioral/buccal feeding structure consisting of keratin: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 140. Feeding apparatus forming a pulley-like system of cartilages and protractor-retractor complex derived from mandibular arch: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “This is unknown in heterostracans, where no cartilages are preserved, and is changed from 0 to ?."
 
 141. Jaws (dorsoventral bite): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 142. Keratinous tooth plate, anterior element, number of fused cusps: 0, two; 1, three.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 143. Radially organized circumoral denticulate/cuspidate plates: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 143; Dearden *et al*. (2023), Character 143.
 
+> - Miyashita *et al*. (2019): ""
+
 144. Circumoral feeding elements, radially organized: 0, individual cuspidates; 1, petaliform plates.
 > Miyashita *et al*. (2021), Character 144; Dearden *et al*. (2023), Character 144.
+
+> - Miyashita *et al*. (2019): ""
 
 > -  Miyashita *et al*. (2021): "This character represents a new addition to the dataset. It codes for the similarity identified between the specimens of *Pipiscius* and *Priscomyzon* in the circumoral feeding apparatus, formed by the grooved petaliform plates (Figures 1c, 2; Extended Data Figures 2m, n, 6e–g). The character is contingent on the foregoing character (#143: Radial organization of circumoral structures: 0, absent; 1, present)."
 
 145. Circumoral keratinous teeth, number of tooth rows in lateral field: 0, three; 1, four; 2, five or greater.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 146. Cartilaginous trematic rings: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 147. Axial skeleton (in addition to notochord): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 148. Axial skeletons around dorsal nerve cord (=neural arches): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 149. Axial skeletons around notochord (=centra): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 150. Axial skeletons around dorsal aorta (=haemal arches): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 151. Parachordal cartilages: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 152. Braincase with lateral walls: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “Due to the preservation of only the preorbital region in *Eriptychius* we have coded it unknown for this character."
 
 153. Occiput enclosing vagus and glossopharyngeal nerves: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 154. Annular cartilage: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 155. Large oral disc: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 156. Barbels supported by cartilages: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “Cartilages are not preserved in heterostracans, so this is scored ? for those taxa."
 
 157. Forked subnasal cartilage: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 158. Tectal cartilages: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 159. Male gametes shed directly through the coelom: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 160. Postotic myomeres migrate anteriorly to the position of eye: 0, absent; 1, present absent.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 161. Inflected myomeres: 0, Z-shaped; 1, W-shaped.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 162. Digestive tract: 0, follows pharynx; 1, passes (or loops) over branchial apparatus.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 163. Anus, with respect to distribution of mesoderm: 0, terminal or subterminal; 1, non-terminal.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 164. Globular slime glands: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
 
 165. Number of slime glands: 0, approximately 100 or fewer; 1, substantially greater than 100.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 166. Slime pores: 0, overlap region of external branchial openings; 1, do not overlap region of external branchial openings.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
+> - Miyashita *et al*. (2019): ""
+
 167. Gular pouch in adult male: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+
+> - Miyashita *et al*. (2019): ""
+
+## MORE Characters to be added.
+
 
 Keating and Donoghue (2016), combined from Sansom et al, 2010; Blom, 2012; Conway-Maris and Caron, 2014; and Donoghue et al. (2000).
 1 Neural_crest_, 2 Olfactory_peduncles, 3 Pineal_organ_, 4 Adenohypophysis, 5 Adenohypophysis, 6 Optic_tectum_, 7 Cerebellar_primordia_, 8 Pretrematic_branches_in_branchial_nerves, 9 Flattened_spinal_chord_, 10 Ventral_and_dorsal_spinal_nerve_roots_united, 11 Mauthner_fibres_in_central_nervous_system, 12 Retina, 13 Olfactory_organ_with_external_opening_, 14 'Nasohypophyseal opening serving respiration (nasohypophyseal duct)', 15 Single_nasohypophyseal_opening, 16 Position_of_nasohypophyseal_opening, 17 Olfactory_organ_unpaired_, 18 Extrinsic_eye_musculature, 19 Otic_capsule_anterior_to_branchial_series, 20 Semicircular_canals_in_labyrinth, 21 Vertical_semicircular_canals_forming_loops_that_are_separate_from_the_roof_of_the_utriculus, 22 Externally_open_endolymphatic_ducts, 23 Electroreceptive_cells_, 24 Sensory_lines_, 25 'Sensory-lines on head only', 26 'Sensory-line enclosed in grooves ', 27 'Pouch-shaped gills', 28 Single_confluent_branchial_opening, 29 Elongate_branchial_series, 30 Gill_openings_lateral_and_arranged_in_slanting_row, 31 Position_of_gill_openings, 32 Opercular_flaps_associated_with_gill_openings, 33 Endodermal_gill_lamellae, 34 Gill_lamellae_with_filaments, 35 Mouth, 36 Oral_hood_, 37 Velum, 38 'Multi-chamber heart ', 39 Closed_pericardium, 40 Open_blood_system, 41 Paired_dorsal_aortae, 42 Large_lateral_head_vein_, 43 Lymphocytes, 44 Subaponeurotic_vascular_plexus_, 45 Dorsal_fin, 46 'Dorsal fin (position)', 47 Anal_fin_separate, 48 Fin_ray_supports, 49 'Paired antero-posterior skin folds ', 50 Constricted_pectoral_fins_with_endoskeletal_elements_, 51 'Pelvic fins/flap', 52 Tail_shape, 53 Chordal_disposition_relative_to_tail_development, 54 Preanal_median_fold_, 55 Ability_to_synthesise_creatine_phosphatase, 56 Visceral_arches_fused_to_the_neurocranium_, 57 Keratinous_teeth, 58 Circumoral_teeth_, 59 Circumoral_teeth_arranged_in_radiating_series, 60 Trematic_rings, 61 Arcualia_, 62 Piston_cartilage_and_apical_plate, 63 Midline_retractor_muscle_and_paired_protractor_muscles, 64 Transversely_biting_teeth_, 65 'Jaws (dorsoventral bite', 66 'Chondroitin 6-sulphate in cartilage', 67 Braincase_with_lateral_walls, 68 Neurocranium_entirely_closed_dorsally_and_covering_the_brain, 69 Occiput_enclosing_vagus_and_glossopharyngeal_nerves, 70 Annular_cartilage_, 71 Large_oral_disc, 72 Tentacle_cartilages, 73 Trunk_dermal_skeleton_, 74 Perichondral_bone_, 75 Calcified_cartilage, 76 Cartilage_composed_of_huge_clumped_chondrocytes, 77 Calcified_dermal_skeleton_, 78 Odontogenic_superficial_layer_of_dermal_skeleton, 79 Osteonal_vascular_middle_layer_of_the_dermal_skeleton, 80 Basal_laminated_layer_of_the_dermal_skeleton, 81 Isopedine, 82 Cellular_bone, 83 Dentine_, 84 Tubular_dentine, 85 'Tubular dentine present as mesodentine = 0, orthodentine = 1', 86 Enameloid, 87 'Cancellar layer in exoskeleton, with honeycomb-shaped cavities', 88 Scale_shape, 89 Costulate_tubercles, 90 'Oak-leaf-shaped tubercles', 91 Oral_plates, 92 Denticles_in_pharynx_, 93 Dermal_head_covering_in_adult_state_, 94 Large_unpaired_ventral_and_dorsal_dermal_plates_on_head, 95 Pineal_plate, 96 Massive_endoskeletal_head_shield_covering_the_gills_dorsally, 97 Sclerotic_ossicles_, 98 Ossified_endoskeletal_sclera_encapsulating_the_eyeCharacter_96, 99 High_blood_pressure, 100 Hyperosmoregulation, 101 Male_gametes_shed_directly_through_the_coelom, 102 Forward_migration_of_postotic_myomeres, 103 Larval_phase, 104 Pineal_opening, 105 External_nasal_opening, 106 Number_of_semicircular_canals_, 107 Neuromasts_in_sensory_lines_, 108 Relative_position_of_atrium_and_ventricle_of_heart, 109 Lymphocytes_antigen_receptors_, 110 'Paired antero-posterior skin folds extend along the trunk', 111 Ventral_arcualia, 112 Odontodes, 113 Head_skeleton, 114 'Inflected myomeres present in post-larval stage ', 115 Complex_myomere_shape, 116 Triradiate_postbranchial_spine, 117 Median_Dorsal_ridge_scales, 118 Hook_shaped_median_dorsal_ridge_scales, 119 Vascular_canal_system_in_dermal_scales_and_plates, 120 Scales_with_visceral_ribs ; 
