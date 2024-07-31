@@ -1,32 +1,42 @@
-**Character list of aganthans and comments**
+# Character list of aganthans and comments
 
 From the original dataset of Miyashita *et al*. (2019), two characters (#44, #81) are excluded and one new character (#144) is added in Miyashita *et al*. (2021).
 
 From Miyashita *et al*. (2021) to Dearden *et al*. (2023), Arandaspida and Heterostraci are removed;  *Anglaspis*, *Eriptychius*, *Errivaspis*, *Sacabambaspis* are added; *Astraspis* and *Athenaegis* are modified.
 
+CMC, Conway Morris and Caron (2014); GCR, Gess et al. (2006); GDS, Gabbott et al. (2016); HSM, Heimberg et al. (2010); KLV, Khonsari et al. (2009); KD, Keating and Donoghue (2016); MH, Mallatt and Holland (2013); MSL, McCoy et al. (2016).
+
 1. Skeletal derivatives of neural crest: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+> Conway Morris and Caron (2014), Character 1: definition modified; Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
 2. Ectodermal placodes: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 2; Miyashita *et al*. (2021), Character 2; Dearden *et al*. (2023), Character 2.
 
+> - Miyashita *et al*. (2019): "For fossil taxa and those for which embryos are not known, the presence of sensory capsules was used as an indicator."
+
 3. Distinct prechordal head: 0, absent or weakly developed; 1, prominent.
 > Miyashita *et al*. (2019), Character 3; Miyashita *et al*. (2021), Character 3; Dearden *et al*. (2023), Character 3.
 >
-> - Dearden *et al*. (2023): “In previous versions of this matrix *Sacabambaspis* was scored 1 based on a heterostracan-like  anatomical interpretation (see discussion in supplement of Miyashita et al. 2019). However, 
-as discussed in the main text, the incoherency of pteraspidomorphs and the dissimilarity of the placement of the orbits in *Sacabambaspis* compared to *Eriptychius*, *Astraspis*, and  heterostracans leaves open the possibility that the orbital position in *Sacabambaspis* reflects a weakly developed prechordal head rather than being derived from a heterostracan-like form. Thus we score *Sacabambaspis* 0 which we believe to be more consistent with the observed state in the fossils. We note though that either of these interpretations are plausible until more is known about the internal anatomy of arandaspids.”
+> - Dearden *et al*. (2023): “In previous versions of this matrix *Sacabambaspis* was scored 1 based on a heterostracan-like  anatomical interpretation (see discussion in supplement of Miyashita et al. 2019). However, as discussed in the main text, the incoherency of pteraspidomorphs and the dissimilarity of the placement of the orbits in *Sacabambaspis* compared to *Eriptychius*, *Astraspis*, and  heterostracans leaves open the possibility that the orbital position in *Sacabambaspis* reflects a weakly developed prechordal head rather than being derived from a heterostracan-like form. Thus we score *Sacabambaspis* 0 which we believe to be more consistent with the observed state in the fossils. We note though that either of these interpretations are plausible until more is known about the internal anatomy of arandaspids.”
 
 4. Tripartite vesicles at anterior end of neural tube (prosencephalon, mesencephalon, rhombencephalon): 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 4; Miyashita *et al*. (2021), Character 4; Dearden *et al*. (2023), Character 4.
 
 5. Morphologically distinct cerebellum with corpus cerebelli: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 5; Miyashita *et al*. (2021), Character 5; Dearden *et al*. (2023), Character 5.
+> Conway Morris and Caron (2014), #7, Khonsari et al. (2009) #71, definition modified; Miyashita *et al*. (2019), Character 5; Miyashita *et al*. (2021), Character 5; Dearden *et al*. (2023), Character 5.
+
+> - Miyashita *et al*. (2019): "Non-vertebrates lack a tripartite brain (#4, this analysis). They are coded as inapplicable (-) for this character. This character is contingent on having a vertebrate brain and cranial nerves (#4, this analysis)."
 
 > - Dearden *et al*. (2023): “Following Miyashita et al. (2019, 2021) scoring for heterostracans *Anglaspis* has been scored 1, but note it has been disputed whether this constitutes the cerebellum (summarised in Janvier 1996, pg. 273)."
 
 6. Profundal nerve ganglion: 0, separate from trigeminal ganglion; 1, fused with trigeminal ganglion.
-> Miyashita *et al*. (2019), Character 6; Miyashita *et al*. (2021), Character 6; Dearden *et al*. (2023), Character 6.
+> Heimberg et al. (2010) #46; character addition; Miyashita *et al*. (2019), Character 6; Miyashita *et al*. (2021), Character 6; Dearden *et al*. (2023), Character 6.
 
+> - Miyashita *et al*. (2019): "In the galeaspid Shuyu, the roots for V1+0 and V2+3 are well separated (152) so the ganglia were likely independent as well. In osteostracans, these nerves share a narrow root under the myodome of the orbital cavity (153, 154) so the ganglia were likely fused. One conspicuous example is seen in Belonaspis (MNHN SVD 1005). It is difficult to assess this character in arthrodires, but the size and shape of the trigeminal canal are comparable to those in 
+chondrichthyans (155–159), and they are tentatively coded as separated. This character is contingent on having a vertebrate brain and cranial nerves (#4, this analysis)." 
+
+> - **A potential character to unite galeaspids and jawed vertebrates.**
+>
 7. Tripartite division of facial nerve into pharyngeal, 'pretrematic', and 'postrematic' branches: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 7; Miyashita *et al*. (2021), Character 7; Dearden *et al*. (2023), Character 7.
 
