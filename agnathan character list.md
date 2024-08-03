@@ -511,21 +511,18 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 > - Miyashita *et al*. (2019): "This character only applies to petromyzontiforms. The coding follows Gill and colleagues (72) and Renaud and colleagues (73)."
 
 ## Circulatory System
-
 71. Multi-chamber heart: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #38, coding modified; Miyashita *et al*. (2019), Character 72; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "It is unknown (‘?’) whether the heart has multiple chambers in Haikouichthys, Metaspriggina, and Myllokunmingia."
 
 72. Closed pericardium: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
-
-> - Miyashita *et al*. (2019): ""
+> CMC #39; Miyashita *et al*. (2019), Character 73; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 73. Circulatory system: 0, open; 1, closed.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #40, definition modified; Miyashita *et al*. (2019), Character 74; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original character in the CMC dataset was defined and scored as if the circulatory system was open in vertebrates. The circulatory system of hagfish is considered closed, and the extensive subcutaneous sinus is interpreted as a specialization (204) — perhaps associated with the cutaneous exchange and transport of various substances (205). This specialization is related to the fact that hagfish are osmoconformers, but it is difficult to determine which character preceded (or capacitated) the other."
 
 74. Massive subcutaneous sinus: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
