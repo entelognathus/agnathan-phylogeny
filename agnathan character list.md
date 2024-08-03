@@ -512,52 +512,46 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 
 ## Circulatory System
 71. Multi-chamber heart: 0, absent; 1, present.
-> CMC #38, coding modified; Miyashita *et al*. (2019), Character 72; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #38, coding modified; Miyashita *et al*. (2019), Character 72; Miyashita *et al*. (2021), Character 71; Dearden *et al*. (2023), Character 71.
 
 > - Miyashita *et al*. (2019): "It is unknown (‘?’) whether the heart has multiple chambers in Haikouichthys, Metaspriggina, and Myllokunmingia."
 
 72. Closed pericardium: 0, absent; 1, present.
-> CMC #39; Miyashita *et al*. (2019), Character 73; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #39; Miyashita *et al*. (2019), Character 73; Miyashita *et al*. (2021), Character 72; Dearden *et al*. (2023), Character 72.
 
 73. Circulatory system: 0, open; 1, closed.
-> CMC #40, definition modified; Miyashita *et al*. (2019), Character 74; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #40, definition modified; Miyashita *et al*. (2019), Character 74; Miyashita *et al*. (2021), Character 73; Dearden *et al*. (2023), Character 73.
 
 > - Miyashita *et al*. (2019): "The original character in the CMC dataset was defined and scored as if the circulatory system was open in vertebrates. The circulatory system of hagfish is considered closed, and the extensive subcutaneous sinus is interpreted as a specialization (204) — perhaps associated with the cutaneous exchange and transport of various substances (205). This specialization is related to the fact that hagfish are osmoconformers, but it is difficult to determine which character preceded (or capacitated) the other."
 
 74. Massive subcutaneous sinus: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 75; Miyashita *et al*. (2021), Character 74; Dearden *et al*. (2023), Character 74.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original character (high blood pressure, absent or present) was vaguely defined. In that form, the character is redundant with the closed/open circulatory system (#74) and with the absence/presence of a multichambered heart (#72). The character was modified to refer to the specialized subcutaneous blood sinus present in hagfish. As the sinus extends the entire body length (collected both from the head and tail), the presence of this sinus can be ruled out for stem gnathostomes with a dermal head skeleton with internal impressions."
 
 75. Paired dorsal aortae: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
-
-> - Miyashita *et al*. (2019): ""
+> CMC #95, definition modified; Miyashita *et al*. (2019), Character 76; Miyashita *et al*. (2021), Character 75; Dearden *et al*. (2023), Character 75.
 
 76. Lateral head vein: 0, drains into anterior cardinal vein or its derivative; 1, continues into (or functions as anterior extension of) anterior cardinal vein or its derivative.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #42, definition modified; Miyashita *et al*. (2019), Character 77; Miyashita *et al*. (2021), Character 76; Dearden *et al*. (2023), Character 76.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original character (large lateral head vein, absent or present) is vague in definition. Lampreys have (a) a vein collecting from the anterior and middle cerebral regions and (b) a vein collecting from the velar sinus, and both drain into the anterior cardinal vein (208). Hagfish have a cardinal heart (=velar sinus) collecting broadly from the head and draining into anterior cardinal vein (209). Osteostracans have a lateral head vein and an enormous marginal vein that corresponds in position to the anterior cardinal vein in other vertebrates (153, 154, 210). This makes galeaspids unique among jawless vertebrates for having an enormous lateral head vein collecting from the cerebral veins and continues into the anterior cardinal vein (152)."
 
 77. Lymphocytes: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
-
-> - Miyashita *et al*. (2019): ""
+> CMC #43; Miyashita *et al*. (2019), Character 78; Miyashita *et al*. (2021), Character 77; Dearden *et al*. (2023), Character 77.
 
 78. Lymphocytes antigen receptors: 0, VLR; 1, T and B.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
-
-> - Miyashita *et al*. (2019): ""
+> CMC #105, coding modified; Miyashita *et al*. (2019), Character 79; Miyashita *et al*. (2021), Character 78; Dearden *et al*. (2023), Character 78.
 
 79. Subaponeurotic vascular plexus: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #44, coding modified; Miyashita *et al*. (2019), Character 80; Miyashita *et al*. (2021), Character 79; Dearden *et al*. (2023), Character 79.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The character is inapplicable to non-vertebrate outgroups."
 
 ## Fins and Fin-folds
 
 80. Body forms, width against height: 0, compressed or subcircular so that branchial openings are lateral; 1, depressed so that branchial openings are ventral.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 82; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
