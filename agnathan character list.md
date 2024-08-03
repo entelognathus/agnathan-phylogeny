@@ -556,66 +556,66 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 > - Miyashita *et al*. (2019): ""
 
 81. Endoskeletal fin supports: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 83; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 82. Distinct dorsal fin: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 84; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “This is judged to be absent in *Astraspis*, in which two specimens show the articulated dorsal headshield with no evidence for a dorsal fin (Elliott, 1987; Sansom et al., (1997); we have scored it absent。”
 
 83. Dorsal fins: 1, continuous or adjacent to one another; 1, set apart from each other widely.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 85; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 84. Fin(s) along dorsal midline originates: 0, above branchial series or anterior to mid-trunk; 1, above anus/anal fin or anterior; 2, posteriorly to anus/anal fin.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 86; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 85. Separate anal fin, or a distinct median ventral fin in postanal tail: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 87; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 86. Paired skin folds (epidermal ridges) at suprapharyngeal position: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 88; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 87. Constricted pectoral fins with endoskeletal elements: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 89; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 88. Conspicuous preanal skin fold (epidermal ridge): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 90; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 89. Preanal skin fold (epidermal ridge): 0, midline; 1, paired.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 91; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 90. Preanal skin fold (epidermal ridge): 0, longitudinal; 1, discrete pelvic fins.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 92; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 91. Caudal fin shape: 0, no distinct lobes developed; 1, ventral lobe much larger than dorsal; 2, dorsal lobe much larger than ventral; 3, dorsal and ventral lobes almost equally developed.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 93; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “We have scored this 1 for *Anglaspis* and *Errivaspis*."
 
 92. Chordal disposition relative to tail development: 0, isochordal; 1, hypochordal; 2, hyperchordal.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 94; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
@@ -624,34 +624,34 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 ## Skeletal System
 
 93. Skeletal elements consisting of calcium phosphate: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 95; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 94. Bone: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 96; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 95. Cellular bone: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 97; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “We have scored *Athenaegis* ? for this and subsequent characters, as no histological detail is known for the taxon."
 
 96. Lamellar acellular bone (isopedine): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 98; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 97. Perichondral bone: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 99; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 98. Calcified cartilage: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 100; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
@@ -659,22 +659,22 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 established. *Sacabambaspis* and *Astraspis* are scored ? as only dermal elements are preserved in fossils: the taphonomic loss of calcified cartilage cannot be ruled out."
 
 99. Cellular cartilages with large mature chondrocytes (30-50 ¦Ìm in diameter): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 101; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
 > - Miyashita *et al*. (2019): ""
 
 100. Mature chondrocytes: 0, become separated and generally even spaced by extracellular matrix; 1, remain nested in a pair.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+> Miyashita *et al*. (2019), Character 102; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
 > - Miyashita *et al*. (2019): ""
 
 101. Dentine: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+> Miyashita *et al*. (2019), Character 103; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
 > - Miyashita *et al*. (2019): ""
 
 102. Spherical/globular dentine: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
+> Miyashita *et al*. (2019), Character 104; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
 
 > - Miyashita *et al*. (2019): ""
 
