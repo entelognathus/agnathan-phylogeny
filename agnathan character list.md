@@ -361,49 +361,56 @@ character cannot be coded for outgroups that lack cranial nerves."
 ## Mouth and Branchial System
 
 44. Branchial apparatus: 0, retains arrangement of pharyngula such that first branchial opening assumes infra- to postotic position; 1, displaced anteriorly; 2, displaced posteriorly.
-> Miyashita *et al*. (2019), Character 45; Miyashita *et al*. (2021), Character 44; Dearden *et al*. (2023), Character 44.
+> CMC #19: definition modified; Miyashita *et al*. (2019), Character 45; Miyashita *et al*. (2021), Character 44; Dearden *et al*. (2023), Character 44.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original definition in the CMC dataset concerned position of otic capsule with respect to branchial apparatus, but the relationship is reversed. This character now describes a position of the pharyngeal arch derivatives with respect to the nervous system, where the otic capsule and roots of all cranial nerves retain their relative positions to each other. The otic capsule is 
+intended as a landmark — so this character may be assessed by using the overall configuration of structures spatially correlated with the otic capsule (with respect to the eye, the most anterior myomeres, the notochord, and others) when the otic capsule is not preserved. This strategy is sensible only for those that are unambiguously preserved with these alternative landmark structures (e.g., Euphanerops) (77). Therefore, this character is inapplicable to taxa in which (a) it is uncertain whether the otic capsule was absent or not preserved; and (b) other landmark structures are not comparable or not preserved (e.g., euconodonts and Haikouella)."
 
 45. Branchial apparatus, displaced anteriorly such that: 0, first branchial opening assume preotic position; 1, multiple branchial arches occupy preotic position.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character 46; Dearden *et al*. (2023), Character 45.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character applies only to those taxa that score for anteriorly displaced branchial apparatus 
+in the previous character (state 1 of character #45)."
 
 46. Branchial apparatus, displaced posteriorly such that prebranchial length is: 0, less than a quarter; 1, approximately quarter; 1, greater than a third of body length.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character 47; Dearden *et al*. (2023), Character 46.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character applies only to those taxa that score for posteriorly displaced branchial apparatus 
+in the previous character (state 2 of character #45)."
 
 47. Pharyngeal skeleton: 0, delineates pharyngeal slits with ciliary band; 1, supports well-developed branchial lamellae.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #34, definition modified; Miyashita *et al*. (2019), Character 48; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character 47.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "In hagfish, the skeleton of the branchial region consists of the extrabranchial cartilages around 
+the excurrent ducts of the branchial pouches. This morphology is interpreted as derived (‘1’) for this character."
 
 48. Main skeletal support for branchial apparatus with respect to lamellae: 0, lateral; 1, medial.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #112, definition modified; Miyashita *et al*. (2019), Character 49; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character 48.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original definition (branchial bars, external or internal) was modified to allow identification 
+of states with respect to anatomical correlates. This character is inapplicable for those taxa lacking branchial lamellae (character #48, this analysis), and for Haikouella and Pikaia in which the branchial structures appear to have been exposed externally (183)."
 
-49. Pharyngeal skeleton: 0, skeletal arches fused with each other; 1, arches isolated (CMC #111; ).
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+49. Pharyngeal skeleton: 0, skeletal arches fused with each other; 1, arches isolated.
+> CMC #111, definition modified; Miyashita *et al*. (2019), Character 50; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character 49.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original character distinguished between ‘continuous’ and ‘basket-like’ states, but these states are indistinguishable from one another. The taxa lacking a pharyngeal skeleton are coded as inapplicable."
 
 50. Hyomandibular pouch: 0, blind; 1, externally open (spiracle).
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> HSM #24, definition modified; Miyashita *et al*. (2019), Character 51; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character 50.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Although the adorbital opening has been interpreted as spiracular in amphiaspidiform heterostracans and pituriaspids (115, 186, 187), this character is conservatively coded as unknown in both taxa. Beyond its position beside the orbit and otic capsule, little evidence exists for the hyomandibular identity of this opening. An alternative interpretation for this opening is a nasohypophyseal aperture (149). The amphiaspidiform condition is likely an independent derivation within heterostracans (88, 115) because this clade is nested within the Heterostraci (188–192), and because the general condition among heterostracans is blind (0) for 
+this character. Modifying the scores for heterostracans (0/1) and pituriaspids (1) did not affect the topology presented in Fig. S6."
 
 51. Respiratory current exits through: 0, atrial space; 1, excurrent duct (=branchial pouch); 2, parabranchial cavity.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #27, definition modified; Miyashita *et al*. (2019), Character 52; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character 51.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original character definition in the CMC dataset requires some clarification because a 
+‘pouch-shaped gill’ is a composite of two different morphological variations — whether the skeletal support is lateral or medial, and whether the excurrent passes through a duct or a cavity. A new state (atrial space) was added to contrast vertebrates and non-vertebrate chordates."
 
 52. Single confluent branchial opening: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #28; Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is inapplicable to those with parabranchial cavities (#52)."
 
 > - Dearden *et al*. (2023): “We have changed the scoring for *Athenaegis* from 0 to ? for this and contingent characters as the condition is described as unknown by Soehn and Wilson (1990).”
 
