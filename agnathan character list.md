@@ -367,154 +367,148 @@ character cannot be coded for outgroups that lack cranial nerves."
 intended as a landmark — so this character may be assessed by using the overall configuration of structures spatially correlated with the otic capsule (with respect to the eye, the most anterior myomeres, the notochord, and others) when the otic capsule is not preserved. This strategy is sensible only for those that are unambiguously preserved with these alternative landmark structures (e.g., Euphanerops) (77). Therefore, this character is inapplicable to taxa in which (a) it is uncertain whether the otic capsule was absent or not preserved; and (b) other landmark structures are not comparable or not preserved (e.g., euconodonts and Haikouella)."
 
 45. Branchial apparatus, displaced anteriorly such that: 0, first branchial opening assume preotic position; 1, multiple branchial arches occupy preotic position.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character 46; Dearden *et al*. (2023), Character 45.
+> Miyashita *et al*. (2019), Character 46; Miyashita *et al*. (2021), Character 45; Dearden *et al*. (2023), Character 45.
 
 > - Miyashita *et al*. (2019): "This character applies only to those taxa that score for anteriorly displaced branchial apparatus 
 in the previous character (state 1 of character #45)."
 
 46. Branchial apparatus, displaced posteriorly such that prebranchial length is: 0, less than a quarter; 1, approximately quarter; 1, greater than a third of body length.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character 47; Dearden *et al*. (2023), Character 46.
+> Miyashita *et al*. (2019), Character 47; Miyashita *et al*. (2021), Character 46; Dearden *et al*. (2023), Character 46.
 
 > - Miyashita *et al*. (2019): "This character applies only to those taxa that score for posteriorly displaced branchial apparatus 
 in the previous character (state 2 of character #45)."
 
 47. Pharyngeal skeleton: 0, delineates pharyngeal slits with ciliary band; 1, supports well-developed branchial lamellae.
-> CMC #34, definition modified; Miyashita *et al*. (2019), Character 48; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character 47.
+> CMC #34, definition modified; Miyashita *et al*. (2019), Character 48; Miyashita *et al*. (2021), Character 47; Dearden *et al*. (2023), Character 47.
 
 > - Miyashita *et al*. (2019): "In hagfish, the skeleton of the branchial region consists of the extrabranchial cartilages around 
 the excurrent ducts of the branchial pouches. This morphology is interpreted as derived (‘1’) for this character."
 
 48. Main skeletal support for branchial apparatus with respect to lamellae: 0, lateral; 1, medial.
-> CMC #112, definition modified; Miyashita *et al*. (2019), Character 49; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character 48.
+> CMC #112, definition modified; Miyashita *et al*. (2019), Character 49; Miyashita *et al*. (2021), Character 48; Dearden *et al*. (2023), Character 48.
 
 > - Miyashita *et al*. (2019): "The original definition (branchial bars, external or internal) was modified to allow identification 
 of states with respect to anatomical correlates. This character is inapplicable for those taxa lacking branchial lamellae (character #48, this analysis), and for Haikouella and Pikaia in which the branchial structures appear to have been exposed externally (183)."
 
 49. Pharyngeal skeleton: 0, skeletal arches fused with each other; 1, arches isolated.
-> CMC #111, definition modified; Miyashita *et al*. (2019), Character 50; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character 49.
+> CMC #111, definition modified; Miyashita *et al*. (2019), Character 50; Miyashita *et al*. (2021), Character 49; Dearden *et al*. (2023), Character 49.
 
 > - Miyashita *et al*. (2019): "The original character distinguished between ‘continuous’ and ‘basket-like’ states, but these states are indistinguishable from one another. The taxa lacking a pharyngeal skeleton are coded as inapplicable."
 
 50. Hyomandibular pouch: 0, blind; 1, externally open (spiracle).
-> HSM #24, definition modified; Miyashita *et al*. (2019), Character 51; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character 50.
+> HSM #24, definition modified; Miyashita *et al*. (2019), Character 51; Miyashita *et al*. (2021), Character 50; Dearden *et al*. (2023), Character 50.
 
 > - Miyashita *et al*. (2019): "Although the adorbital opening has been interpreted as spiracular in amphiaspidiform heterostracans and pituriaspids (115, 186, 187), this character is conservatively coded as unknown in both taxa. Beyond its position beside the orbit and otic capsule, little evidence exists for the hyomandibular identity of this opening. An alternative interpretation for this opening is a nasohypophyseal aperture (149). The amphiaspidiform condition is likely an independent derivation within heterostracans (88, 115) because this clade is nested within the Heterostraci (188–192), and because the general condition among heterostracans is blind (0) for 
 this character. Modifying the scores for heterostracans (0/1) and pituriaspids (1) did not affect the topology presented in Fig. S6."
 
 51. Respiratory current exits through: 0, atrial space; 1, excurrent duct (=branchial pouch); 2, parabranchial cavity.
-> CMC #27, definition modified; Miyashita *et al*. (2019), Character 52; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character 51.
+> CMC #27, definition modified; Miyashita *et al*. (2019), Character 52; Miyashita *et al*. (2021), Character 51; Dearden *et al*. (2023), Character 51.
 
 > - Miyashita *et al*. (2019): "The original character definition in the CMC dataset requires some clarification because a 
 ‘pouch-shaped gill’ is a composite of two different morphological variations — whether the skeletal support is lateral or medial, and whether the excurrent passes through a duct or a cavity. A new state (atrial space) was added to contrast vertebrates and non-vertebrate chordates."
 
 52. Single confluent branchial opening: 0, absent; 1, present.
-> CMC #28; Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #28; Miyashita *et al*. (2019), Character 53; Miyashita *et al*. (2021), Character 52; Dearden *et al*. (2023), Character 52.
 
 > - Miyashita *et al*. (2019): "This character is inapplicable to those with parabranchial cavities (#52)."
 
 > - Dearden *et al*. (2023): “We have changed the scoring for *Athenaegis* from 0 to ? for this and contingent characters as the condition is described as unknown by Soehn and Wilson (1990).”
 
 53. Branchial excurrent duct: 0, opens roughly at position of branchial pouch; 1, extends posteriorly.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 54; Miyashita *et al*. (2021), Character 53; Dearden *et al*. (2023), Character 53.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is inapplicable for those that lack branchial pouches (#52, this analysis) and for 
+those with a single confluent branchial opening (#53). The branchial and pharyngeal pouches are not to be confused for this and other branchial characters. The branchial pouch (#52) refers to a respiratory structure, whereas the pharyngeal pouches are embryonic anlagen (115)."
 
 54. Branchial openings: 0, spaced accordingly with dimensions of branchial cavities; 1, packed closely together; 2, organized into multiple parallel rows.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 55; Miyashita *et al*. (2021), Character 54; Dearden *et al*. (2023), Character 54.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character was evaluated with respect to dimensions of branchial pouches to ensure some independence from the previous character (#54, this analysis)."
 
 > - Dearden *et al*. (2023): “This was scored inapplicable for heterostracans with a single confluent branchial opening, following the approach for hagfishes with a single branchial opening.“
 
 55. Number of arches (or pouches) in branchial apparatus: 0, unconstrained to five; 1, held constant at five.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #29, definition modified; Miyashita *et al*. (2019), Character 56; Miyashita *et al*. (2021), Character 55; Dearden *et al*. (2023), Character 55.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The arches and pouches of this definition refer to branchial arches and pouches (branchial bars and gills), respectively, and are not to be confused with pharyngeal arches and pouches (anlagen). The original character (branchial pouches/slits greater than 10 or less than 10) is clarified and split into two individual characters to reflect multiple levels of variation."
 
 56. Number of arches (or pouches) in branchial apparatus (unconstrained to five), maximum number: 0, greater than five and fewer than 20; 1, greater than 20.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #29, definition modified; Miyashita *et al*. (2019), Character 57; Miyashita *et al*. (2021), Character 56; Dearden *et al*. (2023), Character 56.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the previous one (#56) and therefore inapplicable for those constrained to five arches supporting branchial lamellae."
 
 57. Number of arches (or pouches) in branchial apparatus (unconstrained to five): 0, four or five; 1, six or seven; 2, eight to ten; 3, greater than ten.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 58; Miyashita *et al*. (2021), Character 57; Dearden *et al*. (2023), Character 57.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The previous two characters (#56, 57) described whether or not the number of branchial arches (pouches) is constrained at five and whether or not the number of the arches can exceed the count normally observed in the development of living vertebrates, respectively. These characters do not describe most variations in the number of branchial arches among jawless vertebrate lineages in which the number is not constant or tightly controlled (196)."
 
 58. Branchial series extends: 0, substantially less than half the body length; 1, semiequal to or greater than half the body length.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 59; Miyashita *et al*. (2021), Character 58; Dearden *et al*. (2023), Character 58.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character correlates with the number of branchial arches (#56-58, this analysis) in that none of those constrained to five branchial arches score for the derived state."
 
 59. Lateral branchial openings: 0, at similar horizontal level; 1, in a posteroventrally inclined row.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #30, definition modified; Miyashita *et al*. (2019), Character 60; Miyashita *et al*. (2021), Character 59; Dearden *et al*. (2023), Character 59.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The character is inapplicable for those with a highly depressiform profile (#82, this analysis) or those with parabranchial cavities (#52, this analysis)."
 
 60. Opercular flaps associated with branchial openings: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #32; Miyashita *et al*. (2019), Character 61; Miyashita *et al*. (2021), Character 60; Dearden *et al*. (2023), Character 60.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Coding has been revised according to Gabbott and colleagues (32)."
 
 61. Branchial epithelium: 0, internal; 1, external.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 62; Miyashita *et al*. (2021), Character 61; Dearden *et al*. (2023), Character 61.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The suggestion of externally exposed branchial structures in Haikouella and Pikaia (183) is provisionally accepted. Still, the identity of the appendages remains open to interpretation. Coding this character as unknown (‘?’) in both taxa renders it constant. A parsimony analysis of this modified dataset still resulted in strict consensus identical in topology to Fig. S6."
 
 62. External branchial openings, demarcated by: 0, single element entirely; 1, single element dorsally; 2, multiple plates; 3, a framework of multiple spines; 4, micromeres; 5, naked (mineralized exoskeleton locally absent around the openings).
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 63; Miyashita *et al*. (2021), Character 62; Dearden *et al*. (2023), Character 62.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of mineralized integumentary skeleton (#113, this analysis). Even though inapplicable status (‘-’) is assigned accordingly, these character states necessarily correlate with micro-/macromeric integumentary skeletons."
 
 63. Position of mouth: 0, terminal; 1, subterminal.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #35, definition modified; Miyashita *et al*. (2019), Character 64; Miyashita *et al*. (2021), Character 63; Dearden *et al*. (2023), Character 63.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Mouth orientation is correlated partly with overall body profile (#82, this analysis), but position of mouth with respect to other cranial landmarks (e.g., nasohypophyseal canal) can vary independently of the overall body profile."
 
-> - Dearden *et al*. (2023): “The mouth in Athenaegis is subterminal , although it lacks the elongate rostrum of pteraspid heterostracans the oral plates are positioned ventrally relative to the rostral plate Soehn and 
-Wilson (1990). Scoring is changed from 0 to 1."
-
-> - Miyashita *et al*. (2019): ""
+> - Dearden *et al*. (2023): “The mouth in Athenaegis is subterminal, although it lacks the elongate rostrum of pteraspid heterostracans the oral plates are positioned ventrally relative to the rostral plate Soehn and Wilson (1990). Scoring is changed from 0 to 1."
 
 64. Epidermal oral cirri: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
-
-> - Miyashita *et al*. (2019): ""
+> Miyashita *et al*. (2019), Character 65; Miyashita *et al*. (2021), Character 64; Dearden *et al*. (2023), Character 64.
 
 > - Dearden *et al*. (2023): “This is unknowable in most fossil vertebrates. For consistency’s sake with the other fossil vertebrates in the analysis, and as a full reworking of the phylogenetic dataset is beyond the 
-scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, *Astraspis*, and heterostracan taxa absent in keeping with the scoring approach of Miyashita et al. (2019, 2021)."
+scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, and heterostracan taxa absent in keeping with the scoring approach of Miyashita et al. (2019, 2021)."
 
 65. Postoptically derived ectomsenchyme anterior to mandibular arch gives rise to palatal structures that: 0, meet at midline under nasal/nasohypophyseal organs; 1, meet at dorsal midline anterior to nasohypophyseal organs and form a prominent oral roof.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
-
-> - Miyashita *et al*. (2019): ""
+> Miyashita *et al*. (2019), Character 66; Miyashita *et al*. (2021), Character 65; Dearden *et al*. (2023), Character 65.
 
 > - Dearden *et al*. (2023): “We consider the palate of *Sacabambaspis* and heterostracans to be insufficiently wellcharacterised to score this character and so have scored them as unknown."
 
 66. Velum: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #37, coding modified; Miyashita *et al*. (2019), Character 67; Miyashita *et al*. (2021), Character 66; Dearden *et al*. (2023), Character 66.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "There is no cyclotome-like velum in cephalochordates. All non-vertebrate taxa are coded as inapplicable because a velum assumes the presence of a mandibular arch. Contrary to the assessment by McCoy and colleagues (36), hagfish do possess a velum. The functional necessity of having a valve/pump at the mandibular arch, coupled with some osteological correlates (115, 153, 203), led to provisional coding of galeaspids and osteostracans as having a velum or velum-like structure. This assessment is consistent with the analysis of Gabbott and colleagues (32)."
 
 67. Velar cartilages: 0, at hyomandibular position; 1, extend posteriorly.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 68; Miyashita *et al*. (2021), Character 67; Dearden *et al*. (2023), Character 67.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of a velum (#67)."
 
 68. Velar cartilages, functions at terminal ontogenetic stages: 0, pump and valve; 1, valve.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 69; Miyashita *et al*. (2021), Character 68; Dearden *et al*. (2023), Character 68.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The character may partly correlate with position of velar cartilages (#68), but these characters are controlled independently to some extent, as the velum functions as both a pump and a valve in the larval stages of lampreys."
 
 69. Velar wings: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 70; Miyashita *et al*. (2021), Character 69; Dearden *et al*. (2023), Character 69.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character only applies to petromyzontiforms. The coding follows Gill and colleagues (72) and Renaud and colleagues (73)."
 
 70. Velar tentacles, papillae or tubercles: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character ; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 71; Miyashita *et al*. (2021), Character 70; Dearden *et al*. (2023), Character 70.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character only applies to petromyzontiforms. The coding follows Gill and colleagues (72) and Renaud and colleagues (73)."
 
 ## Circulatory System
 
