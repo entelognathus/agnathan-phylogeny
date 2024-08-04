@@ -551,34 +551,34 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 ## Fins and Fin-folds
 
 80. Body forms, width against height: 0, compressed or subcircular so that branchial openings are lateral; 1, depressed so that branchial openings are ventral.
-> Miyashita *et al*. (2019), Character 82; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #31, definition modified; Miyashita *et al*. (2019), Character 82; Miyashita *et al*. (2021), Character 80; Dearden *et al*. (2023), Character 80.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original character (openings lateral or ventral) describes body proportions rather than branchial morphology."
 
 81. Endoskeletal fin supports: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 83; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> CMC #48, definition modified; Miyashita *et al*. (2019), Character 83; Miyashita *et al*. (2021), Character 81; Dearden *et al*. (2023), Character 81.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original character (fin ray support, absent or present) is modified to distinguish endoskeletal and exoskeletal (dermal) components of the fin skeleton from one another. In the original dataset, fin rays (exoskeleton) and radials (endoskeleton) appear to have been confused. Contrary to the original coding, endoskeletal fin radials are present in hagfish (‘1’) (20, 211, 212). Haikouella is coded as absent (‘0’). The exoskeletal component of the fin skeleton (rays) is parsimoniously uninformative when coded with contingency to mineralized exoskeleton."
 
 82. Distinct dorsal fin: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 84; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 84; Miyashita *et al*. (2021), Character 82; Dearden *et al*. (2023), Character 82.
 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “This is judged to be absent in *Astraspis*, in which two specimens show the articulated dorsal headshield with no evidence for a dorsal fin (Elliott, 1987; Sansom et al., (1997); we have scored it absent。”
 
 83. Dorsal fins: 1, continuous or adjacent to one another; 1, set apart from each other widely.
-> Miyashita *et al*. (2019), Character 85; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 85; Miyashita *et al*. (2021), Character 83; Dearden *et al*. (2023), Character 83.
 
 > - Miyashita *et al*. (2019): ""
 
 84. Fin(s) along dorsal midline originates: 0, above branchial series or anterior to mid-trunk; 1, above anus/anal fin or anterior; 2, posteriorly to anus/anal fin.
-> Miyashita *et al*. (2019), Character 86; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 86; Miyashita *et al*. (2021), Character 84; Dearden *et al*. (2023), Character 84.
 
 > - Miyashita *et al*. (2019): ""
 
 85. Separate anal fin, or a distinct median ventral fin in postanal tail: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 87; Miyashita *et al*. (2021), Character ; Dearden *et al*. (2023), Character .
+> Miyashita *et al*. (2019), Character 87; Miyashita *et al*. (2021), Character 85; Dearden *et al*. (2023), Character 85.
 
 > - Miyashita *et al*. (2019): ""
 
