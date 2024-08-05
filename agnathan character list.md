@@ -563,66 +563,65 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 82. Distinct dorsal fin: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 84; Miyashita *et al*. (2021), Character 82; Dearden *et al*. (2023), Character 82.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Contrary to the assessment by McCoy and colleagues (36), hagfish do not have a separate dorsal fin. Coding strategies by Gabbott and colleagues (32) are followed for other taxa, except for the absence of separate dorsal fin in Haikouella and Metaspriggina (‘0” in this analysis). As for Metaspriggina, the body outline is generally well preserved in the Burgess fauna. It is possible that this animal had a soft fin fold, but it is unlikely that Metaspriggina had a prominent dorsal fin as an individual unit. The dorsal fin reconstructed for Achanarella (199) may represent dislocated myomeres, but the original reconstruction is provisionally accepted for this analysis. Dorsal fins are typically absent in anaspids. Alternative coding and its consequence are discussed in C4e. Analysis of characters for euphaneropids."
 
-> - Dearden *et al*. (2023): “This is judged to be absent in *Astraspis*, in which two specimens show the articulated dorsal headshield with no evidence for a dorsal fin (Elliott, 1987; Sansom et al., (1997); we have scored it absent。”
+> - Dearden *et al*. (2023): “This is judged to be absent in *Astraspis*, in which two specimens show the articulated dorsal headshield with no evidence for a dorsal fin (Elliott, 1987; Sansom et al., (1997); we have scored it absent.”
 
 83. Dorsal fins: 1, continuous or adjacent to one another; 1, set apart from each other widely.
 > Miyashita *et al*. (2019), Character 85; Miyashita *et al*. (2021), Character 83; Dearden *et al*. (2023), Character 83.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is intended to discriminate ingroup relationships of living lampreys; therefore, it is inapplicable outside the crown clade."
 
 84. Fin(s) along dorsal midline originates: 0, above branchial series or anterior to mid-trunk; 1, above anus/anal fin or anterior; 2, posteriorly to anus/anal fin.
-> Miyashita *et al*. (2019), Character 86; Miyashita *et al*. (2021), Character 84; Dearden *et al*. (2023), Character 84.
+> CMC #46, definition modified; Miyashita *et al*. (2019), Character 86; Miyashita *et al*. (2021), Character 84; Dearden *et al*. (2023), Character 84.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original character (dorsal fin originates above or posterior to branchial series) is contingent on the presence of distinct dorsal fin (#84, this analysis). In the new definition, the character describes functional property (fins along the dorsal midline) rather than specialization (whether dorsal fin should be interpreted as part of fin fold or a distinct unit, and whether taxa with a midline fin extending to the dorsal side should be coded or excluded). To reflect this change, a new landmark (anus/anal fin) is added to accommodate the range of variation. For cephalochordates, Haikouella, Metaspriggina, and Pikaia, the fin fold is distinguished by a deflection in the outline. The fin arguably extends further anteriorly in these taxa, but it is little more than a dorsal midline ridge. By this criterion, all of them except cephalochordates are coded as unknown (‘?’) or inapplicable (‘-’). In the analysis by McCoy and colleagues (36), Astraspis and galeaspids were originally coded for the derived state (‘1’) presumably on the assumption that the fin — if present — would have originated well posterior to the level of the branchial series, but fin morphology is poorly understood for these taxa. Therefore, the coding is unknown (‘?’) for the present analysis."
 
 85. Separate anal fin, or a distinct median ventral fin in postanal tail: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 87; Miyashita *et al*. (2021), Character 85; Dearden *et al*. (2023), Character 85.
+> CMC #47, coding modified; Miyashita *et al*. (2019), Character 87; Miyashita *et al*. (2021), Character 85; Dearden *et al*. (2023), Character 85.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "In comparison to Euphanerops (77, 213–215), Achanarella is coded for the presence of an anal fin because of the pronounced epidermal ridge anterior to the caudal fin (199). Cornovichthys — a larger euphaneropid from the same locality — has a prominent ventral midline fin. The gut trace above the fin suggests that it sat anterior to the anus, hence not an anal fin (200). See the description of secondary analyses (C4e. Analysis of characters for euphaneropids) for the impact of this and other character scores on the anaspid topologies. As for osteostracans, it is debatable whether the ventral lobe of the terminal fin represents a modified anal fin or constitutes a part of the caudal fin. This is reminiscent of the abnormal anal fin reported for a female of Petromyzon marinus (216). In this analysis, they are coded conservatively as absence of the anal fin."
 
 86. Paired skin folds (epidermal ridges) at suprapharyngeal position: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 88; Miyashita *et al*. (2021), Character 86; Dearden *et al*. (2023), Character 86.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character discriminates thelodonts (217, 218) and is inapplicable to those with macromeric dermal plates forming a head shield (#129, this analysis). However, the margin of the shield in osteostracans and galeaspids may be argued as an epidermal ridge, and the position of the marginal vein (=anterior cardinal vein) in osteostracans indicates that the margin forms in the suprapharyngeal position corresponding to the paired flaps of thelodonts. Incidentally, this domain corresponds to the circumpharyngeal crest (219), or the suprapharyngeal head-trunk boundary. In this analysis, these taxa are coded following this assessment."
 
 87. Constricted pectoral fins with endoskeletal elements: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 89; Miyashita *et al*. (2021), Character 87; Dearden *et al*. (2023), Character 87.
+> CMC #50, coding modified; Miyashita *et al*. (2019), Character 89; Miyashita *et al*. (2021), Character 87; Dearden *et al*. (2023), Character 87.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "McCoy and colleagues (36) coded pectoral fins as present (‘1’) in hagfish but the correct state is absent (‘0’). Among jawless vertebrates, only osteostracans provide direct evidence of endoskeletal support for the pectoral fins (220, 221), but this condition is likely shared with pituriaspids (88, 187, 218)."
 
 88. Conspicuous preanal skin fold (epidermal ridge): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 90; Miyashita *et al*. (2021), Character 88; Dearden *et al*. (2023), Character 88.
+> CMC #54, definition modified; Miyashita *et al*. (2019), Character 90; Miyashita *et al*. (2021), Character 88; Dearden *et al*. (2023), Character 88.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "To accommodate taxa with pelvic fins or with paired folds along ventral midline, the original definition (preanal median fold, absent or present) is modified. In Cornovichthys, the branchial series appears to extend close to the ventral fin, and the gut trace extending posteriorly above it (200). The ventral fin is therefore considered preanal. Myllokunmigia is coded as present (‘1’) based on observations of specimens. If Tullimonstrum were to be included, it should be coded as unknown (‘?’) as the presence of skin fold is questioned (103)."
 
 89. Preanal skin fold (epidermal ridge): 0, midline; 1, paired.
-> Miyashita *et al*. (2019), Character 91; Miyashita *et al*. (2021), Character 89; Dearden *et al*. (2023), Character 89.
+> CMC #49, 106, definition modified; Miyashita *et al*. (2019), Character 91; Miyashita *et al*. (2021), Character 89; Dearden *et al*. (2023), Character 89.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The definition now includes pelvic fins as paired preanal epidermal ridges. The taxa without preanal skin fold (#90, this analysis) are coded as inapplicable."
 
 90. Preanal skin fold (epidermal ridge): 0, longitudinal; 1, discrete pelvic fins.
-> Miyashita *et al*. (2019), Character 92; Miyashita *et al*. (2021), Character 90; Dearden *et al*. (2023), Character 90.
+> CMC #51, definition modified; Miyashita *et al*. (2019), Character 92; Miyashita *et al*. (2021), Character 90; Dearden *et al*. (2023), Character 90.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "As for pectoral fins, hagfish were miscoded as present in MSL dataset; this is corrected. The taxa without a preanal skin fold (#90, this analysis) are coded inapplicable. Cornovichthys is unique in having a single discrete preanal fin (200)."
 
 91. Caudal fin shape: 0, no distinct lobes developed; 1, ventral lobe much larger than dorsal; 2, dorsal lobe much larger than ventral; 3, dorsal and ventral lobes almost equally developed.
-> Miyashita *et al*. (2019), Character 93; Miyashita *et al*. (2021), Character 91; Dearden *et al*. (2023), Character 91.
+> CMC #52, coding modified; Miyashita *et al*. (2019), Character 93; Miyashita *et al*. (2021), Character 91; Dearden *et al*. (2023), Character 91.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The following changes were made to the MSL dataset based on personal observations of specimens: Euconodonta, Haikouella, hagfish, lampreys (‘0’); euphaneropids and thelodonts (‘1’); arandaspids (‘2’). Tullimonstrum was not considered in this analysis, but it has no distinct lobe in this region (‘0’)."
 
 > - Dearden *et al*. (2023): “We have scored this 1 for *Anglaspis* and *Errivaspis*."
 
 92. Chordal disposition relative to tail development: 0, isochordal; 1, hypochordal; 2, hyperchordal.
-> Miyashita *et al*. (2019), Character 94; Miyashita *et al*. (2021), Character 92; Dearden *et al*. (2023), Character 92.
+> CMC #53, coding modified; Miyashita *et al*. (2019), Character 94; Miyashita *et al*. (2021), Character 92; Dearden *et al*. (2023), Character 92.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Based on personal observation of specimens, Achanarella and Cornovichthys are coded for the hypochordal state (‘1’). Character state would be unknown for Tullimonstrum (‘?’)."
 
 > - Dearden *et al*. (2023): “We scored this 1 for *Anglaspis* and *Errivaspis* but ? for *Athenaegis*."
 
 ## Skeletal System
-
 93. Skeletal elements consisting of calcium phosphate: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 95; Miyashita *et al*. (2021), Character 93; Dearden *et al*. (2023), Character 93.
 
