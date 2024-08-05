@@ -623,7 +623,8 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 
 ## Skeletal System
 93. Skeletal elements consisting of calcium phosphate: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 95; Miyashita *et al*. (2021), Character 93; Dearden *et al*. (2023), Character 93.
+> CMC #55; definition 
+modifiedMiyashita *et al*. (2019), Character 95; Miyashita *et al*. (2021), Character 93; Dearden *et al*. (2023), Character 93.
 
 > - Miyashita *et al*. (2019): ""
 
@@ -633,24 +634,24 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 > - Miyashita *et al*. (2019): ""
 
 95. Cellular bone: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 97; Miyashita *et al*. (2021), Character 95; Dearden *et al*. (2023), Character 95.
+> CMC #79; coding modified; Miyashita *et al*. (2019), Character 97; Miyashita *et al*. (2021), Character 95; Dearden *et al*. (2023), Character 95.
 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “We have scored *Athenaegis* ? for this and subsequent characters, as no histological detail is known for the taxon."
 
 96. Lamellar acellular bone (isopedine): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 98; Miyashita *et al*. (2021), Character 96; Dearden *et al*. (2023), Character 96.
+> CMC #78; definition modified; Miyashita *et al*. (2019), Character 98; Miyashita *et al*. (2021), Character 96; Dearden *et al*. (2023), Character 96.
 
 > - Miyashita *et al*. (2019): ""
 
 97. Perichondral bone: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 99; Miyashita *et al*. (2021), Character 97; Dearden *et al*. (2023), Character 97.
+> CMC #74; coding modified; Miyashita *et al*. (2019), Character 99; Miyashita *et al*. (2021), Character 97; Dearden *et al*. (2023), Character 97.
 
 > - Miyashita *et al*. (2019): ""
 
 98. Calcified cartilage: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 100; Miyashita *et al*. (2021), Character 98; Dearden *et al*. (2023), Character 98.
+> CMC #75; coding modified; Miyashita *et al*. (2019), Character 100; Miyashita *et al*. (2021), Character 98; Dearden *et al*. (2023), Character 98.
 
 > - Miyashita *et al*. (2019): ""
 
@@ -658,17 +659,17 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 established. *Sacabambaspis* and *Astraspis* are scored ? as only dermal elements are preserved in fossils: the taphonomic loss of calcified cartilage cannot be ruled out."
 
 99. Cellular cartilages with large mature chondrocytes (30-50 ¦Ìm in diameter): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 101; Miyashita *et al*. (2021), Character 99; Dearden *et al*. (2023), Character 99.
+> CMC #76; definition modified; Miyashita *et al*. (2019), Character 101; Miyashita *et al*. (2021), Character 99; Dearden *et al*. (2023), Character 99.
 
 > - Miyashita *et al*. (2019): ""
 
 100. Mature chondrocytes: 0, become separated and generally even spaced by extracellular matrix; 1, remain nested in a pair.
-> Miyashita *et al*. (2019), Character 102; Miyashita *et al*. (2021), Character 100; Dearden *et al*. (2023), Character 100.
+> CMC #76; definition modified; Miyashita *et al*. (2019), Character 102; Miyashita *et al*. (2021), Character 100; Dearden *et al*. (2023), Character 100.
 
 > - Miyashita *et al*. (2019): ""
 
 101. Dentine: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 103; Miyashita *et al*. (2021), Character 101; Dearden *et al*. (2023), Character 101.
+> CMC #80; coding modified; Miyashita *et al*. (2019), Character 103; Miyashita *et al*. (2021), Character 101; Dearden *et al*. (2023), Character 101.
 
 > - Miyashita *et al*. (2019): ""
 
@@ -678,37 +679,37 @@ established. *Sacabambaspis* and *Astraspis* are scored ? as only dermal element
 > - Miyashita *et al*. (2019): ""
 
 103. Tubular dentine: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 103; Dearden *et al*. (2023), Character 103.
+> CMC #80; modified by KD #84; Miyashita *et al*. (2019), Character 105; Miyashita *et al*. (2021), Character 103; Dearden *et al*. (2023), Character 103.
 
 > - Miyashita *et al*. (2019): ""
 
 104. Tubular dentine, odontoblasts tend to: 0, retreat into pulp cavity; 1, remain in dentinous matrix.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 104; Dearden *et al*. (2023), Character 104.
+> Miyashita *et al*. (2019), Character 106; Miyashita *et al*. (2021), Character 104; Dearden *et al*. (2023), Character 104.
 
 > - Miyashita *et al*. (2019): ""
 
 105. Tubular dentine, interconnections of tubules/canaliculi for odontoblasts tend to be: 0, polarized; 1, non-polarized.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 105; Dearden *et al*. (2023), Character 105.
+> Miyashita *et al*. (2019), Character 107; Miyashita *et al*. (2021), Character 105; Dearden *et al*. (2023), Character 105.
 
 > - Miyashita *et al*. (2019): ""
 
 106. Tubular dentine, interconnections of canaliculi and spacing between odontoblasts tend to be: 0, regular; 1, irregular.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 106; Dearden *et al*. (2023), Character 106.
+> Miyashita *et al*. (2019), Character 108; Miyashita *et al*. (2021), Character 106; Dearden *et al*. (2023), Character 106.
 
 > - Miyashita *et al*. (2019): ""
 
 107. Enamel/oid: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 107; Dearden *et al*. (2023), Character 107.
+> Miyashita *et al*. (2019), Character 109; Miyashita *et al*. (2021), Character 107; Dearden *et al*. (2023), Character 107.
 
 > - Miyashita *et al*. (2019): ""
 
 108. Enamel/oid: 0, monotypic; 1, bitypic.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 108; Dearden *et al*. (2023), Character 108.
+> Miyashita *et al*. (2019), Character 110; Miyashita *et al*. (2021), Character 108; Dearden *et al*. (2023), Character 108.
 
 > - Miyashita *et al*. (2019): ""
 
 109. Calcification/ossification occurs in endoskeleton: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 109; Dearden *et al*. (2023), Character 109.
+> Miyashita *et al*. (2019), Character 111; Miyashita *et al*. (2021), Character 109; Dearden *et al*. (2023), Character 109.
 
 > - Miyashita *et al*. (2019): ""
 
@@ -716,49 +717,49 @@ established. *Sacabambaspis* and *Astraspis* are scored ? as only dermal element
 Astraspis unknown for this character and Eriptychius present."
 
 110. Calcification/ossification occurs in exoskeleton: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 110; Dearden *et al*. (2023), Character 110.
+> Miyashita *et al*. (2019), Character 112; Miyashita *et al*. (2021), Character 110; Dearden *et al*. (2023), Character 110.
 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “We have scored *Sacabambaspis* present for this character。“
 
 111. Mineralized integumentary skeleton in trunk, surface coverage: 0, extensive; 1, limited (with evidence for variation and potentials for reduction).
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 111; Dearden *et al*. (2023), Character 111.
+> Miyashita *et al*. (2019), Character 113; Miyashita *et al*. (2021), Character 111; Dearden *et al*. (2023), Character 111.
 
 > - Miyashita *et al*. (2019): ""
 
 112. Odontodes: 0, monodontodes; 1, polyodontodes.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 112; Dearden *et al*. (2023), Character 112.
+> Miyashita *et al*. (2019), Character 114; Miyashita *et al*. (2021), Character 112; Dearden *et al*. (2023), Character 112.
 
 > - Miyashita *et al*. (2019): ""
 
 113. Exoskeleton, organization of superficial layer: 0, spherical; 1, tubular; 2, lamellar.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 113; Dearden *et al*. (2023), Character 113.
+> Miyashita *et al*. (2019), Character 115; Miyashita *et al*. (2021), Character 113; Dearden *et al*. (2023), Character 113.
 
 > - Miyashita *et al*. (2019): ""
 
 114. Exoskeleton, vascular/cancellar layer of osteons: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 114; Dearden *et al*. (2023), Character 114.
+> Miyashita *et al*. (2019), Character 116; Miyashita *et al*. (2021), Character 114; Dearden *et al*. (2023), Character 114.
 
 > - Miyashita *et al*. (2019): ""
 
 115. Exoskeleton, basal tissue: 0, basal lamella; 1, basal attachment.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 115; Dearden *et al*. (2023), Character 115.
+> Miyashita *et al*. (2019), Character 117; Miyashita *et al*. (2021), Character 115; Dearden *et al*. (2023), Character 115.
 
 > - Miyashita *et al*. (2019): ""
 
 116. Cancellar layer in exoskeleton, with honeycomb-shaped cavities: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 116; Dearden *et al*. (2023), Character 116.
+> Miyashita *et al*. (2019), Character 118; Miyashita *et al*. (2021), Character 116; Dearden *et al*. (2023), Character 116.
 
 > - Miyashita *et al*. (2019): ""
 
 117. Scale shape: 0, diamond-shaped; 1, rod-shaped.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 117; Dearden *et al*. (2023), Character 117.
+> Miyashita *et al*. (2019), Character 119; Miyashita *et al*. (2021), Character 117; Dearden *et al*. (2023), Character 117.
 
 > - Miyashita *et al*. (2019): ""
 
 118. Oak-leaf-shaped tubercles: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 118; Dearden *et al*. (2023), Character 118.
+> Miyashita *et al*. (2019), Character 120; Miyashita *et al*. (2021), Character 118; Dearden *et al*. (2023), Character 118.
 
 > - Miyashita *et al*. (2019): ""
 
@@ -767,47 +768,47 @@ Astraspis unknown for this character and Eriptychius present."
 > - Miyashita *et al*. (2019): ""
 
 119. Triradiate postbranchial spines: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 119; Dearden *et al*. (2023), Character 119.
+> Miyashita *et al*. (2019), Character 121; Miyashita *et al*. (2021), Character 119; Dearden *et al*. (2023), Character 119.
 
 > - Miyashita *et al*. (2019): ""
 
 120. Median dorsal ridge scales: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 120; Dearden *et al*. (2023), Character 120.
+> Miyashita *et al*. (2019), Character 122; Miyashita *et al*. (2021), Character 120; Dearden *et al*. (2023), Character 120.
 
 > - Miyashita *et al*. (2019): ""
 
 121. Median dorsal ridge scales: 0, simple; 1, hooked.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 121; Dearden *et al*. (2023), Character 121.
+> Miyashita *et al*. (2019), Character 123; Miyashita *et al*. (2021), Character 121; Dearden *et al*. (2023), Character 121.
 
 > - Miyashita *et al*. (2019): ""
 
 122. Vascular canal systems in integumentary skeleton: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 122; Dearden *et al*. (2023), Character 122.
+> Miyashita *et al*. (2019), Character 124; Miyashita *et al*. (2021), Character 122; Dearden *et al*. (2023), Character 122.
 
 > - Miyashita *et al*. (2019): ""
 
 123. Scales: 0, without visceral ribs; 1, with visceral ribs.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 123; Dearden *et al*. (2023), Character 123.
+> Miyashita *et al*. (2019), Character 125; Miyashita *et al*. (2021), Character 123; Dearden *et al*. (2023), Character 123.
 
 > - Miyashita *et al*. (2019): ""
 
 124. Oral plates; 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 124; Dearden *et al*. (2023), Character 124.
+> Miyashita *et al*. (2019), Character 126; Miyashita *et al*. (2021), Character 124; Dearden *et al*. (2023), Character 124.
 
 > - Miyashita *et al*. (2019): ""
 
 125. Odontodes: 0, restricted to exoskeleton; 1, extend into in oral cavity; 2, into pharynx.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 125; Dearden *et al*. (2023), Character 125.
+> Miyashita *et al*. (2019), Character 127; Miyashita *et al*. (2021), Character 125; Dearden *et al*. (2023), Character 125.
 
 > - Miyashita *et al*. (2019): ""
 
 126. Dermal head covering in adult state: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 126; Dearden *et al*. (2023), Character 126.
+> Miyashita *et al*. (2019), Character 128; Miyashita *et al*. (2021), Character 126; Dearden *et al*. (2023), Character 126.
 
 > - Miyashita *et al*. (2019): ""
 
 127. Dermal head covering in adult state: 0, micromeric; 1, large (macromeric) dermal plates or shield.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 127; Dearden *et al*. (2023), Character 127.
+> Miyashita *et al*. (2019), Character 129; Miyashita *et al*. (2021), Character 127; Dearden *et al*. (2023), Character 127.
 
 > - Miyashita *et al*. (2019): ""
 
@@ -818,42 +819,42 @@ macromery as it is to micromery."
 > - Miyashita *et al*. (2019): ""
 
 128. Dermal head covering, macromeric: 0, large unpaired plates covering dorsal and ventral sides; 1, covered by tesserae; 2, multiple plates.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 128; Dearden *et al*. (2023), Character 128.
+> Miyashita *et al*. (2019), Character 130; Miyashita *et al*. (2021), Character 128; Dearden *et al*. (2023), Character 128.
 
 > - Miyashita *et al*. (2019): ""
 
 129. Dermal head covering, macromeric/shield: 0, head and anterior trunk continuous; 1, head and anterior trunk decoupled.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 129; Dearden *et al*. (2023), Character 129.
+> Miyashita *et al*. (2019), Character 131; Miyashita *et al*. (2021), Character 129; Dearden *et al*. (2023), Character 129.
 
 > - Miyashita *et al*. (2019): ""
 
 130. Endoskeletal contribution to dermal head covering: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 130; Dearden *et al*. (2023), Character 130.
+> Miyashita *et al*. (2019), Character 132; Miyashita *et al*. (2021), Character 130; Dearden *et al*. (2023), Character 130.
 
 > - Miyashita *et al*. (2019): ""
 
 131. Mineralized exoskeletal circumocular elements: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 131; Dearden *et al*. (2023), Character 131.
+> Miyashita *et al*. (2019), Character 133; Miyashita *et al*. (2021), Character 131; Dearden *et al*. (2023), Character 131.
 
 > - Miyashita *et al*. (2019): ""
 
 132. Mineralized endoskeletal circumocular elements (sclerotic elements): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 132; Dearden *et al*. (2023), Character 132.
+> Miyashita *et al*. (2019), Character 134; Miyashita *et al*. (2021), Character 132; Dearden *et al*. (2023), Character 132.
 
 > - Miyashita *et al*. (2019): ""
 
 133. Sclerotic endoskeleton: 0, isolated circumocular elements; 1, eye capsule or stalk.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 133; Dearden *et al*. (2023), Character 133.
+> Miyashita *et al*. (2019), Character 135; Miyashita *et al*. (2021), Character 133; Dearden *et al*. (2023), Character 133.
 
 > - Miyashita *et al*. (2019): ""
 
 134. Fusion of visceral (pharyngeal) skeletal arches to neurocranium: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 134; Dearden *et al*. (2023), Character 134.
+> Miyashita *et al*. (2019), Character 136; Miyashita *et al*. (2021), Character 134; Dearden *et al*. (2023), Character 134.
 
 > - Miyashita *et al*. (2019): ""
 
 135. Denticulate/cuspidate elements of feeding apparatus, perioral: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 135; Dearden *et al*. (2023), Character 135.
+> Miyashita *et al*. (2019), Character 137; Miyashita *et al*. (2021), Character 135; Dearden *et al*. (2023), Character 135.
 
 > - Miyashita *et al*. (2019): ""
 
@@ -861,44 +862,44 @@ macromery as it is to micromery."
 surface of the plates adjacent to the mouth."
 
 136. Perioral feeding elements: 0, continuous epidermal covering; 1, discontinuous arrangement.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 136; Dearden *et al*. (2023), Character 136.
+> Miyashita *et al*. (2019), Character 138; Miyashita *et al*. (2021), Character 136; Dearden *et al*. (2023), Character 136.
 
 > - Miyashita *et al*. (2019): ""
 
 137. Denticulate/cuspidate elements of feeding apparatus, housed within buccal cavity: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 137; Dearden *et al*. (2023), Character 137.
+> Miyashita *et al*. (2019), Character 139; Miyashita *et al*. (2021), Character 137; Dearden *et al*. (2023), Character 137.
 
 > - Miyashita *et al*. (2019): ""
 
 138. Longitudinally aligned tooth rows providing transverse bite: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 138; Dearden *et al*. (2023), Character 138.
+> Miyashita *et al*. (2019), Character 140; Miyashita *et al*. (2021), Character 138; Dearden *et al*. (2023), Character 138.
 
 > - Miyashita *et al*. (2019): ""
 
 139. Perioral/buccal feeding structure consisting of keratin: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 139; Dearden *et al*. (2023), Character 139.
+> Miyashita *et al*. (2019), Character 141; Miyashita *et al*. (2021), Character 139; Dearden *et al*. (2023), Character 139.
 
 > - Miyashita *et al*. (2019): ""
 
 140. Feeding apparatus forming a pulley-like system of cartilages and protractor-retractor complex derived from mandibular arch: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 140; Dearden *et al*. (2023), Character 140.
+> Miyashita *et al*. (2019), Character 142; Miyashita *et al*. (2021), Character 140; Dearden *et al*. (2023), Character 140.
 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “This is unknown in heterostracans, where no cartilages are preserved, and is changed from 0 to ?."
 
 141. Jaws (dorsoventral bite): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 141; Dearden *et al*. (2023), Character 141.
+> Miyashita *et al*. (2019), Character 143; Miyashita *et al*. (2021), Character 141; Dearden *et al*. (2023), Character 141.
 
 > - Miyashita *et al*. (2019): ""
 
 142. Keratinous tooth plate, anterior element, number of fused cusps: 0, two; 1, three.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 142; Dearden *et al*. (2023), Character 142.
+> Miyashita *et al*. (2019), Character 144; Miyashita *et al*. (2021), Character 142; Dearden *et al*. (2023), Character 142.
 
 > - Miyashita *et al*. (2019): ""
 
 143. Radially organized circumoral denticulate/cuspidate plates: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 143; Dearden *et al*. (2023), Character 143.
+> Miyashita *et al*. (2019), Character 145; Miyashita *et al*. (2021), Character 143; Dearden *et al*. (2023), Character 143.
 
 > - Miyashita *et al*. (2019): ""
 
@@ -910,123 +911,123 @@ surface of the plates adjacent to the mouth."
 > -  Miyashita *et al*. (2021): "This character represents a new addition to the dataset. It codes for the similarity identified between the specimens of *Pipiscius* and *Priscomyzon* in the circumoral feeding apparatus, formed by the grooved petaliform plates (Figures 1c, 2; Extended Data Figures 2m, n, 6e–g). The character is contingent on the foregoing character (#143: Radial organization of circumoral structures: 0, absent; 1, present)."
 
 145. Circumoral keratinous teeth, number of tooth rows in lateral field: 0, three; 1, four; 2, five or greater.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 145; Dearden *et al*. (2023), Character 145.
+> Miyashita *et al*. (2019), Character 146; Miyashita *et al*. (2021), Character 145; Dearden *et al*. (2023), Character 145.
 
 > - Miyashita *et al*. (2019): ""
 
 146. Cartilaginous trematic rings: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 146; Dearden *et al*. (2023), Character 146.
+> Miyashita *et al*. (2019), Character 147; Miyashita *et al*. (2021), Character 146; Dearden *et al*. (2023), Character 146.
 
 > - Miyashita *et al*. (2019): ""
 
 147. Axial skeleton (in addition to notochord): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 147; Dearden *et al*. (2023), Character 147.
+> Miyashita *et al*. (2019), Character 148; Miyashita *et al*. (2021), Character 147; Dearden *et al*. (2023), Character 147.
 
 > - Miyashita *et al*. (2019): ""
 
 148. Axial skeletons around dorsal nerve cord (=neural arches): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 148; Dearden *et al*. (2023), Character 148.
+> Miyashita *et al*. (2019), Character 149; Miyashita *et al*. (2021), Character 148; Dearden *et al*. (2023), Character 148.
 
 > - Miyashita *et al*. (2019): ""
 
 149. Axial skeletons around notochord (=centra): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 149; Dearden *et al*. (2023), Character 149.
+> Miyashita *et al*. (2019), Character 150; Miyashita *et al*. (2021), Character 149; Dearden *et al*. (2023), Character 149.
 
 > - Miyashita *et al*. (2019): ""
 
 150. Axial skeletons around dorsal aorta (=haemal arches): 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 150; Dearden *et al*. (2023), Character 150.
+> Miyashita *et al*. (2019), Character 151; Miyashita *et al*. (2021), Character 150; Dearden *et al*. (2023), Character 150.
 
 > - Miyashita *et al*. (2019): ""
 
 151. Parachordal cartilages: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 151; Dearden *et al*. (2023), Character 151.
+> Miyashita *et al*. (2019), Character 152; Miyashita *et al*. (2021), Character 151; Dearden *et al*. (2023), Character 151.
 
 > - Miyashita *et al*. (2019): ""
 
 152. Braincase with lateral walls: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 152; Dearden *et al*. (2023), Character 152.
+> Miyashita *et al*. (2019), Character 153; Miyashita *et al*. (2021), Character 152; Dearden *et al*. (2023), Character 152.
 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “Due to the preservation of only the preorbital region in *Eriptychius* we have coded it unknown for this character."
 
 153. Occiput enclosing vagus and glossopharyngeal nerves: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 153; Dearden *et al*. (2023), Character 153.
+> Miyashita *et al*. (2019), Character 154; Miyashita *et al*. (2021), Character 153; Dearden *et al*. (2023), Character 153.
 
 > - Miyashita *et al*. (2019): ""
 
 154. Annular cartilage: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 154; Dearden *et al*. (2023), Character 154.
+> Miyashita *et al*. (2019), Character 155; Miyashita *et al*. (2021), Character 154; Dearden *et al*. (2023), Character 154.
 
 > - Miyashita *et al*. (2019): ""
 
 155. Large oral disc: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 155; Dearden *et al*. (2023), Character 155.
+> Miyashita *et al*. (2019), Character 156; Miyashita *et al*. (2021), Character 155; Dearden *et al*. (2023), Character 155.
 
 > - Miyashita *et al*. (2019): ""
 
 156. Barbels supported by cartilages: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 156; Dearden *et al*. (2023), Character 156.
+> Miyashita *et al*. (2019), Character 157; Miyashita *et al*. (2021), Character 156; Dearden *et al*. (2023), Character 156.
 
 > - Miyashita *et al*. (2019): ""
 
 > - Dearden *et al*. (2023): “Cartilages are not preserved in heterostracans, so this is scored ? for those taxa."
 
 157. Forked subnasal cartilage: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 157; Dearden *et al*. (2023), Character 157.
+> Miyashita *et al*. (2019), Character 158; Miyashita *et al*. (2021), Character 157; Dearden *et al*. (2023), Character 157.
 
 > - Miyashita *et al*. (2019): ""
 
 158. Tectal cartilages: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 158; Dearden *et al*. (2023), Character 158.
+> Miyashita *et al*. (2019), Character 159; Miyashita *et al*. (2021), Character 158; Dearden *et al*. (2023), Character 158.
 
 > - Miyashita *et al*. (2019): ""
 
 ## Miscellaneous Characters
 
 159. Male gametes shed directly through the coelom: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 159; Dearden *et al*. (2023), Character 159.
+> Miyashita *et al*. (2019), Character 160; Miyashita *et al*. (2021), Character 159; Dearden *et al*. (2023), Character 159.
 
 > - Miyashita *et al*. (2019): ""
 
 160. Postotic myomeres migrate anteriorly to the position of eye: 0, absent; 1, present absent.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 160; Dearden *et al*. (2023), Character 160.
+> Miyashita *et al*. (2019), Character 161; Miyashita *et al*. (2021), Character 160; Dearden *et al*. (2023), Character 160.
 
 > - Miyashita *et al*. (2019): ""
 
 161. Inflected myomeres: 0, Z-shaped; 1, W-shaped.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 161; Dearden *et al*. (2023), Character 161.
+> Miyashita *et al*. (2019), Character 142; Miyashita *et al*. (2021), Character 161; Dearden *et al*. (2023), Character 161.
 
 > - Miyashita *et al*. (2019): ""
 
 162. Digestive tract: 0, follows pharynx; 1, passes (or loops) over branchial apparatus.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 162; Dearden *et al*. (2023), Character 162.
+> Miyashita *et al*. (2019), Character 163; Miyashita *et al*. (2021), Character 162; Dearden *et al*. (2023), Character 162.
 
 > - Miyashita *et al*. (2019): ""
 
 163. Anus, with respect to distribution of mesoderm: 0, terminal or subterminal; 1, non-terminal.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 163; Dearden *et al*. (2023), Character 163.
+> Miyashita *et al*. (2019), Character 164; Miyashita *et al*. (2021), Character 163; Dearden *et al*. (2023), Character 163.
 
 > - Miyashita *et al*. (2019): ""
 
 164. Globular slime glands: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 164; Dearden *et al*. (2023), Character 164.
+> Miyashita *et al*. (2019), Character 165; Miyashita *et al*. (2021), Character 164; Dearden *et al*. (2023), Character 164.
 
 > - Miyashita *et al*. (2019): ""
 
 165. Number of slime glands: 0, approximately 100 or fewer; 1, substantially greater than 100.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 165; Dearden *et al*. (2023), Character 165.
+> Miyashita *et al*. (2019), Character 166; Miyashita *et al*. (2021), Character 165; Dearden *et al*. (2023), Character 165.
 
 > - Miyashita *et al*. (2019): ""
 
 166. Slime pores: 0, overlap region of external branchial openings; 1, do not overlap region of external branchial openings.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 166; Dearden *et al*. (2023), Character 166.
+> Miyashita *et al*. (2019), Character 167; Miyashita *et al*. (2021), Character 166; Dearden *et al*. (2023), Character 166.
 
 > - Miyashita *et al*. (2019): ""
 
 167. Gular pouch in adult male: 0, absent; 1, present.
-> Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 167; Dearden *et al*. (2023), Character 167.
+> Miyashita *et al*. (2019), Character 168; Miyashita *et al*. (2021), Character 167; Dearden *et al*. (2023), Character 167.
 
 > - Miyashita *et al*. (2019): ""
 
