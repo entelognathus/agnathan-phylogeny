@@ -623,95 +623,178 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 
 ## Skeletal System
 93. Skeletal elements consisting of calcium phosphate: 0, absent; 1, present.
-> CMC #55; definition 
-modifiedMiyashita *et al*. (2019), Character 95; Miyashita *et al*. (2021), Character 93; Dearden *et al*. (2023), Character 93.
+> CMC #55, definition modified；Miyashita *et al*. (2019), Character 95; Miyashita *et al*. (2021), Character 93; Dearden *et al*. (2023), Character 93.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original definition (the endogenous ability to synthesize creatine phosphatase) (23) cannot be assessed adequately in living outgroups because of structural variations and diversity of creatine kinases and because of the lack of exhaustive comparison. Indeed, phosphocreatine and creatine kinase are abundant within and outside vertebrates. The modified definition distinguishes the presence/absence of mineralized skeleton consisting of calcium phosphates (which requires endogenous creatine phosphatase) (222–225). Mineralized ossicles in hemichordates are aragonitic (226) — therefore this taxon is coded as absent."
 
 94. Bone: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 96; Miyashita *et al*. (2021), Character 94; Dearden *et al*. (2023), Character 94.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of calcification/ossification in endo- and/or exoskeleton (#95, this analysis). Palaeospondylus is coded conservatively as absent (‘0’). The skeleton of Palaeospondylus does not consist of bone, but is histologically best compared to endochondral ossification in osteichthyans or calcified cartilages in Euphanerops (97). So an alternative coding (not used herein) is to score unknown (‘?’). Chondrichthyans are coded the presence on the basis of acanthodians (134, 228, 229), even though bone is absent in the crown group (230)."
 
 95. Cellular bone: 0, absent; 1, present.
 > CMC #79; coding modified; Miyashita *et al*. (2019), Character 97; Miyashita *et al*. (2021), Character 95; Dearden *et al*. (2023), Character 95.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The character is contingent on the presence of bone (#96, this analysis). Two alternative coding strategies exist for this and the following character: (a) formulate one character distinguishing acellular against cellular bone or (b) formulate one character each for the presence/absence of acellular and cellular bone. The alternative (a) may be preferable in principle to not weight either of the characters; however, in many taxa acellular and cellular bones coexist (231, 232), and both acellular and cellular bones distribute widely among stem chondrichthyans (acanthodians) and osteichthyans (134, 233–235). So these two tissue types should be treated separately as in the alternative (b). To make the character for acellular bone more specific, and to distinguish types of plywood-like bone in osteichthyans, the following character for the presence/absence of acellular bone is edited to refer specifically to lamellar acellular bone seen in fossil jawless vertebrates."
 
 > - Dearden *et al*. (2023): “We have scored *Athenaegis* ? for this and subsequent characters, as no histological detail is known for the taxon."
 
 96. Lamellar acellular bone (isopedine): 0, absent; 1, present.
 > CMC #78; definition modified; Miyashita *et al*. (2019), Character 98; Miyashita *et al*. (2021), Character 96; Dearden *et al*. (2023), Character 96.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of bone (#96, this analysis). The taxa lacking them are coded as inapplicable (‘-’)."
 
 97. Perichondral bone: 0, absent; 1, present.
 > CMC #74; coding modified; Miyashita *et al*. (2019), Character 99; Miyashita *et al*. (2021), Character 97; Dearden *et al*. (2023), Character 97.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of cartilage and mineralized skeleton (#95, this analysis), so it is inapplicable to the taxa that lack one or both."
 
 98. Calcified cartilage: 0, absent; 1, present.
 > CMC #75; coding modified; Miyashita *et al*. (2019), Character 100; Miyashita *et al*. (2021), Character 98; Dearden *et al*. (2023), Character 98.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "As in the previous character, it is contingent on the presence of cartilage and mineralized skeleton (#95, this analysis)."
 
 > - Dearden *et al*. (2023): “We have scored this present in *Eriptychius*, following Denison (1967), as we consider it the most plausible interpretation, but we note that the identity of the endoskeletal tissue is not firmly 
 established. *Sacabambaspis* and *Astraspis* are scored ? as only dermal elements are preserved in fossils: the taphonomic loss of calcified cartilage cannot be ruled out."
 
-99. Cellular cartilages with large mature chondrocytes (30-50 ¦Ìm in diameter): 0, absent; 1, present.
+99. Cellular cartilages with large mature chondrocytes (30-50 µm in diameter): 0, absent; 1, present.
 > CMC #76; definition modified; Miyashita *et al*. (2019), Character 101; Miyashita *et al*. (2021), Character 99; Dearden *et al*. (2023), Character 99.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of cellular cartilages, so it is inapplicable to taxa 
+lacking them (hemichordates and tunicates). Lacunae occupied by chondrocytes are unusually 
+large in hagfish, lampreys, Euphanerops, and Palaeospondylus (>30 µm) (77, 97, 111, 174, 
+176, 180, 236). However, hypertrophied chondrocytes in the growth plates and articular 
+cartilages in living gnathostomes can also reach or even exceed this size (231). The assessment 
+of the enlarged chondrocytes as specific to those three taxa (97) may be influenced by the fact 
+that chondrocyte sizes are not typically reported or systematically surveyed in extant 
+vertebrates. The currently available data still suggest that they exhibit unusual sizes of mature 
+chondrocytes, with the exclusion of hypertrophic chondrocytes that are either transient or 
+specific to the growing tissues (so the character definition should not refer to hypertrophy). The 
+original definition (‘huge clumped” chondrocytes, absent or present) was modified accordingly. 
+That original character was split into two because the nested organization of chondrocytes 
+(‘clumped’) varies independently."
 
 100. Mature chondrocytes: 0, become separated and generally even spaced by extracellular matrix; 1, remain nested in a pair.
 > CMC #76; definition modified; Miyashita *et al*. (2019), Character 102; Miyashita *et al*. (2021), Character 100; Dearden *et al*. (2023), Character 100.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of cellular cartilages, so it is inapplicable to taxa 
+lacking cartilages (hemichordates and tunicates). Lampreys and Euphanerops are unusual in 
+having chondrocytes nested in a pair within the cartilaginous matrix (77, 97, 180). This 
+condition also occurs in soft cartilages of hagfish (111). Although such pairing organization 
+broadly occurs in growing cartilages within and outside vertebrates (93, 111, 231), retention of 
+such organization in fully mature chondrocytes sets lampreys and Euphanerops apart from 
+others. The original definition combined this feature with large sizes of the chondrocytes (see 
+previous character), but this condition varies independently. The character was therefore split 
+into two, and the present character is now defined on the basis of the mature status of 
+chondrocytes."
 
 101. Dentine: 0, absent; 1, present.
 > CMC #80; coding modified; Miyashita *et al*. (2019), Character 103; Miyashita *et al*. (2021), Character 101; Dearden *et al*. (2023), Character 101.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of mineralized skeleton (#95, this analysis). The 
+identification of dentine in anaspids (33) is accepted tentatively in this analysis, although some 
+inferences used by Keating and Donoghue (33) are insufficiently justified. For example, they 
+refer to Smith and Hall (135) to state: “[cartilage] never occurs in dermal skeleton.” However, 
+cartilages form a component of dermal skeleton, exoskeleton, or intramembranously ossified bones, whichever is intended by the authors (e.g., articular cartilages on dermal or 
+intramembranously formed elements; secondary cartilages; adventitious cartilages; callus 
+cartilages; orbitosphenoids in amphisbaenians) (231). Nor can dermal bone be readily ruled out 
+solely on the basis of histological distinctions from the underlying layer, partly because the 
+criteria to differentiate histological features are not clear (among the cited examples, galeaspids 
+and placoderms show some degrees of differentiation) (237–241), and partly because little 
+evidence justifies the assumption that two different types of dermal bone should not coexist in 
+the same element. The association of enamel/oid and dentine would be a valid argument if the 
+thin superficial layer is not an artifact of scanning but represents a true enamel/oid layer (230). 
+Furthermore, it is odd that tubules are lacking in the proposed dentine in birkeniids. Accepting 
+their observations preliminarily, however, dentine is coded as present in birkeniids. Lasanius is 
+coded as unknown for the lack of information.
+It is possible to consider dentine to be tubular by definition. However, this typological 
+issue is less of a concern than whether anaspids have a component of dermal skeleton laid out 
+by odontoblasts or not. This character may be modified to “mineralized matrix of odontoblasts” 
+with the same distribution of character states, and would still be open to the same discussion 
+outlined in the previous paragraph. Deleting this character did not affect tree topology."
 
 102. Spherical/globular dentine: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 104; Miyashita *et al*. (2021), Character 102; Dearden *et al*. (2023), Character 102.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of dentine (#103). Spherical/globular dentine 
+occurs in anaspids and conodonts among jawless vertebrates (23, 33, 242, 243). Spherical 
+mineralization similar to that in anaspids also occurs in galeaspids (237, 238), but there is no 
+further support that this tissue represents true dentine. The condition in arandaspids (244) is 
+interpreted as tubular. As in the characters describing different types of bones, two alternatives 
+exist for this and the following character: (a) formulate one character distinguishing tubular 
+versus spherical dentines or (b) formulate one character each for the presence/absence of tubular and spherical dentines. The alternative (a) does not weight either of the characters; 
+however, the two types coexist in conodonts and some crown gnathostomes. So these two tissue 
+types should be treated separately as in alternative (b)."
 
 103. Tubular dentine: 0, absent; 1, present.
 > CMC #80; modified by KD #84; Miyashita *et al*. (2019), Character 105; Miyashita *et al*. (2021), Character 103; Dearden *et al*. (2023), Character 103.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original definition is modified to refer specifically to tubular dentine. Taxa lacking dentine 
+are coded as inapplicable."
 
 104. Tubular dentine, odontoblasts tend to: 0, retreat into pulp cavity; 1, remain in dentinous matrix.
 > CMC #81， definition modified； Miyashita *et al*. (2019), Character 106; Miyashita *et al*. (2021), Character 104; Dearden *et al*. (2023), Character 104.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Given the diversity of dentinous tissues among early vertebrates, the original definition 
+(mesodentine or orthodentine) is modified into three independent characters (#106-108, this 
+analysis) that describe histological differences in multiple types of dentine at the level of 
+odontoblasts. All of these three characters are contingent on the presence of tubular dentine 
+(#105, this analysis; inapplicable to the globular/spherical dentine in anaspids). The present 
+character distinguishes mesodentine and semidentine from other types of dentine. Different 
+types of dentine may coexist in the same animal or within a lineage. Thus, they are coded on the 
+basis of typical histological characteristics identified in that taxonomic unit. The character is 
+contingent on the presence of dentine (#103, this analysis).
+Conodonts are coded as having a dentine type somewhat comparable to mesodentine
+(23, 242, 245). Astraspis is considered having the grade of meta- to orthodentine (134) (coded 
+as 0), although this assessment is at odds with interpretations of the canals invading from the 
+pulp cavity (246, 247). Thelodonts exhibit a diversity of dentine histology (88, 134, 217). In 
+general, however, the canaliculi show polarized but irregular branching and spacing as in 
+Turinia in the grade of meta- to orthodentine. Loganellia is coded as having the grade of 
+mesodentine."
 
 105. Tubular dentine, interconnections of tubules/canaliculi for odontoblasts tend to be: 0, polarized; 1, non-polarized.
 > CMC #81, definition modified； Miyashita *et al*. (2019), Character 107; Miyashita *et al*. (2021), Character 105; Dearden *et al*. (2023), Character 105.
 
-> - Miyashita *et al*. (2019): ""
-
 106. Tubular dentine, interconnections of canaliculi and spacing between odontoblasts tend to be: 0, regular; 1, irregular.
 > CMC #81; definition modified; Miyashita *et al*. (2019), Character 108; Miyashita *et al*. (2021), Character 106; Dearden *et al*. (2023), Character 106.
-
-> - Miyashita *et al*. (2019): ""
 
 107. Enamel/oid: 0, absent; 1, present.
 > CMC #82; definition modified; Miyashita *et al*. (2019), Character 109; Miyashita *et al*. (2021), Character 107; Dearden *et al*. (2023), Character 107.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "As in other characters coding for skeletal tissues, the original character is split into two so that 
+one only refers to the presence/absence and the other describes monotypic versus bitypic. The 
+presence of enameloid is accepted preliminarily in anaspids (33) and heterostracans (248). 
+Osteostracans are coded as present, as thyestidians unambiguously developed enameloid (249). 
+Although thyestidians form a nested ingroup within osteostracans (250, 251), it is more 
+plausible to consider that the potential to secrete enamel/oid is conserved within osteostracans 
+than to assume that enamel evolved secondarily. In a similar vein, euconodonts evolved 
+enameloid independently from the rest of vertebrates (243) but this lineage is coded as present.
+Although enamel as a tissue likely evolved convergently, it also remains unclear how 
+many times enamel, enameloid, and enamel-like tissues evolved within vertebrates. As this 
+analysis does not heavily sample taxa at lower taxonomic levels, this character should be coded 
+as the potential to secrete enamel or enamel-like tissues rather than the distribution of the tissue 
+within each lineage. Alternatively, the character may be defined more finely to differentiate the 
+known types of enamel and enamel-like tissues, but this is beyond the scope of this analysis as 
+these characters will be parsimony-uninformative in the taxon sampling of this dataset. The 
+present character is contingent on the presence of dentine (odontodes) (#103, this analysis). 
+This contingency is not reciprocal (the character for dentine is not contingent on the presence of 
+enamel/oid), however, as naked dentines occur in osteostracans and various crown 
+gnathostomes (88, 134, 252)."
 
 108. Enamel/oid: 0, monotypic; 1, bitypic.
 > CMC #82; definition modified; Miyashita *et al*. (2019), Character 110; Miyashita *et al*. (2021), Character 108; Dearden *et al*. (2023), Character 108.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The character is contingent on the presence of enamel/oid (#109, this analysis)."
 
 109. Calcification/ossification occurs in endoskeleton: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 111; Miyashita *et al*. (2021), Character 109; Dearden *et al*. (2023), Character 109.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Given variations and overlaps in cell lineages and modes of mineralization to give rise to hard 
+skeletal elements (135, 137, 139, 231, 233, 253, 254), it is difficult to formulate a character to 
+distinguish skeletal elements by either of the criteria and score fossil OTUs on the basis of 
+information from living models. However, endo- and exo-skeleton can be clearly distinguished 
+on the basis of anatomy alone, with predicted functional implications. Contingent on the 
+presence of mineralized skeletons (#95, this analysis)."
 
 > - Dearden *et al*. (2023): “Following the same approach as for character 98 we have scored Sacabambaspis and 
 Astraspis unknown for this character and Eriptychius present."
@@ -720,153 +803,272 @@ Astraspis unknown for this character and Eriptychius present."
 > GDS #76; definition 
 modified; Miyashita *et al*. (2019), Character 112; Miyashita *et al*. (2021), Character 110; Dearden *et al*. (2023), Character 110.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Mineralization may occur in one or both of endo- and exo-skeletons, and the states may vary 
+independently between internally and externally. This character is contingent on the presence of 
+mineralized skeletons (#95, this analysis). Lasanius is unique in the dataset that mineralized 
+exoskeleton only occurs in the trunk, but this is parsimoniously uninformative."
 
 > - Dearden *et al*. (2023): “We have scored *Sacabambaspis* present for this character。“
 
 111. Mineralized integumentary skeleton in trunk, surface coverage: 0, extensive; 1, limited (with evidence for variation and potentials for reduction).
 > Miyashita *et al*. (2019), Character 113; Miyashita *et al*. (2021), Character 111; Dearden *et al*. (2023), Character 111.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The character is contingent on the previous character (#112, this analysis) and is intended to 
+discriminate the condition in taxa such as Lasanius and placoderms, which only have partial 
+coverage of the trunk with mineralized scales/plates."
 
 112. Odontodes: 0, monodontodes; 1, polyodontodes.
 > CMC #108; coding modified; Miyashita *et al*. (2019), Character 114; Miyashita *et al*. (2021), Character 112; Dearden *et al*. (2023), Character 112.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "In addition to contingency on the presence of odontodes (nested in the presence of dentine 
+[#103], which is further nested in the presence of mineralized dermal skeletons [#95]), this 
+character correlates with the sizes of dermal elements (e.g., #129, this analysis) because 
+macromeric plates assume polyodontodes. Despite that overlap, both characters should be 
+included in the analysis. That latter character (#129) has a broader range of application because 
+the integumentary skeleton in some lineages (such as anaspids) does not contain typical 
+odontodes with a pulp cavity. These taxa are designated as inapplicable for this character
+(#114), and coded for micro-/macromery (#129, this analysis).
+Euconodonts may be coded for this character (#114) and its contingent character (#127). 
+Tissues that compose the conodont ‘teeth’ (e.g., crown tissue, spheritic mineralization) appear 
+to have evolved in stepwise fashion within the lineage (243). Perhaps for this reason, they were 
+coded inapplicable for this character by Gabbott and colleagues (32). Nevertheless, the presence 
+of these mineralized tissues and the pulp cavity qualify these elements morphologically as 
+odontodes. Euconodonts are inapplicable for characters describing micro-/macromery (e.g., 
+#129, this analysis) because they lack mineralized integumentary skeleton. Coding this 
+character (#114) and its contingent character (#127) uncertain for euconodonts did not affect the 
+strict consensus topology presented in Fig. S6. All taxa that lack dentine (#103, this analysis) 
+were scored as inapplicable."
 
 113. Exoskeleton, organization of superficial layer: 0, spherical; 1, tubular; 2, lamellar.
 > CMC #83; 
 KD #78; definition modified; Miyashita *et al*. (2019), Character 115; Miyashita *et al*. (2021), Character 113; Dearden *et al*. (2023), Character 113.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The character is contingent on the presence of mineralized exoskeleton (#95, #112, this 
+analysis). All taxa lacking a mineralized exoskeleton are coded as inapplicable. The original 
+character (three-layerd exoskeleton consisting of a basal lamella, middle spongy layer, and a 
+superficial layer, absent or present) is split into three by Keating and Donoghue (33), each 
+describing the presence/absence of superficial, middle, and basal layers. The latter scheme 
+better accommodates known variations in organization of the vertebrate exoskeleton. For this
+particular character in the present analysis (organization of superficial layer), the definition is 
+modified from Keating and Donoghue (33) to refer to specific conditions rather than to 
+presence/absence. This is because: (a) all known exoskeletons have a superficial layer (thereby 
+making the character constant under contingency coding); and (b) modes of mineralization 
+differ among lineages in a parsimony-informative manner (e.g., anaspids and galeaspids share 
+spherical mineralization in this layer) (33, 237).
+Anaspids, thelodonts, and chondrichthyans lack the middle cancellar layer, but the latter 
+two differ from anaspids in having the base as attachment and having a non-growing crown (88, 
+134, 198, 217). These two variants should not be confused in a single state of the absence of the 
+three-layerd exoskeleton. The calcium signature in the dermis of Jamoytius (28) is tentatively 
+interpreted as a degenerate form of a typical anaspid condition of having a single tissue type 
+forming a basal lamella and a superficial layer, but the specific morphology has not been 
+described. This taxon is therefore coded as inapplicable. Galeaspids are also interpreted as 
+having a basal lamella and a superficial layer (variably invaded by sensory canals), regarding 
+calcified cartilages as secondary endoskeletal lining (237, 238). The tubercles in this lineage 
+consist of spherical mineralization that superficially resembles ‘spherical dentine’ of anaspids.
+This character partly correlates with dentine characters (#104, #108, this analysis) but 
+distributions do not overlap completely. This character only codes for the integumentary 
+skeleton so that teeth and other exoskeletal elements are excluded. Furthermore, the superficial 
+layer does not always consist of dentine. For example, galeaspids are not coded as having 
+‘spherical dentine’ (#104, this analysis), but the similarity with anaspids is accepted for this 
+character as having a superficial layer of spherical mineralization (237, 238). The coding for 
+placoderms is based on a survey of previous works (134, 239–241, 255)."
 
 114. Exoskeleton, vascular/cancellar layer of osteons: 0, absent; 1, present.
 > CMC #83; modified by
 KD #79; Miyashita *et al*. (2019), Character 116; Miyashita *et al*. (2021), Character 114; Dearden *et al*. (2023), Character 114.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of mineralized exoskeletons (#112, this analysis). 
+Jamoytius conclusively lacks this layer (28), regardless of whether or not this animal had a 
+mineralized exoskeleton. Similarly, pituriaspids probably lack this layer as well. Although the 
+histology has not been described for this lineage, their endoskeletal shields are ornamented with 
+minute tubercles without any indication of a thick canncellar middle layer (187)."
 
 115. Exoskeleton, basal tissue: 0, basal lamella; 1, basal attachment.
 > CMC #83; KD #80; definition 
 modified; Miyashita *et al*. (2019), Character 117; Miyashita *et al*. (2021), Character 115; Dearden *et al*. (2023), Character 115.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of mineralized exoskeletons (#112, this analysis). 
+As in the superficial layer, the original definition by Keating and Donoghue (33) creates an 
+invariable character under contingency coding (all mineralized exoskeletons have basal tissue). 
+The modified version discriminates basal lamella (most) against basal attachment (thelodonts, 
+stem chondrichthyans). The basal attachment consists of acellular bone with abundant 
+Sharpey’s fibers."
 
 116. Cancellar layer in exoskeleton, with honeycomb-shaped cavities: 0, absent; 1, present.
 > CMC 
 #84; coding modified; Miyashita *et al*. (2019), Character 118; Miyashita *et al*. (2021), Character 116; Dearden *et al*. (2023), Character 116.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character only applies to those that score for having a middle cancellar layer."
 
 117. Scale shape: 0, diamond-shaped; 1, rod-shaped.
 > CMC #86; coding modified; Miyashita *et al*. (2019), Character 119; Miyashita *et al*. (2021), Character 117; Dearden *et al*. (2023), Character 117.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of a mineralized integumentary skeleton (#112, this 
+analysis)."
 
 118. Oak-leaf-shaped tubercles: 0, absent; 1, present.
 > CMC #87; coding modified; Miyashita *et al*. (2019), Character 120; Miyashita *et al*. (2021), Character 118; Dearden *et al*. (2023), Character 118.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Shape of tubercles likely reflects mode of growth, whereas shape of scales may be influenced 
+by other spatial factors (such as arrangement and density). This character is contingent on the 
+presence of a mineralized integumentary skeleton (#112, this analysis)."
 
 > - Dearden *et al*. (2023): “Although in previous versions of this matrix they were scored present, oak-leaf shaped tubercles are absent in *Astraspis* (Elliott, 1987; Sansom et al., 1997). They are also absent in Eriptychius (Denison, 1967). We have scored both taxa absent for this character. At present the only taxon with this character present is *Sacabambaspis*, so the character is uninformative but is kept in to preserve the character number scheme."
-
-> - Miyashita *et al*. (2019): ""
 
 119. Triradiate postbranchial spines: 0, absent; 1, present.
 > KD #116; Miyashita *et al*. (2019), Character 121; Miyashita *et al*. (2021), Character 119; Dearden *et al*. (2023), Character 119.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of a mineralized integumentary skeleton in the 
+trunk (#113, this analysis)."
 
 120. Median dorsal ridge scales: 0, absent; 1, present.
 > KD #117; Miyashita *et al*. (2019), Character 122; Miyashita *et al*. (2021), Character 120; Dearden *et al*. (2023), Character 120.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of a mineralized integumentary skeleton in the 
+trunk (#113, this analysis)."
 
 121. Median dorsal ridge scales: 0, simple; 1, hooked.
 > KD #118; Miyashita *et al*. (2019), Character 123; Miyashita *et al*. (2021), Character 121; Dearden *et al*. (2023), Character 121.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of median dorsal ridge scales (#126, this analysis)."
 
 122. Vascular canal systems in integumentary skeleton: 0, absent; 1, present.
 > KD #119; Miyashita *et al*. (2019), Character 124; Miyashita *et al*. (2021), Character 122; Dearden *et al*. (2023), Character 122.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of a mineralized integumentary skeleton in the 
+trunk (#113, this analysis)."
 
 123. Scales: 0, without visceral ribs; 1, with visceral ribs.
 > KD #120; Miyashita *et al*. (2019), Character 125; Miyashita *et al*. (2021), Character 123; Dearden *et al*. (2023), Character 123.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of a mineralized integumentary skeleton in the 
+trunk (#112, this analysis)."
 
 124. Oral plates; 0, absent; 1, present.
 > CMC #88; coding modified; Miyashita *et al*. (2019), Character 126; Miyashita *et al*. (2021), Character 124; Dearden *et al*. (2023), Character 124.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of a mineralized integumentary skeleton (#113, this 
+analysis)."
 
 125. Odontodes: 0, restricted to exoskeleton; 1, extend into in oral cavity; 2, into pharynx.
 >  CMC 
 #89; definition modified; Miyashita *et al*. (2019), Character 127; Miyashita *et al*. (2021), Character 125; Dearden *et al*. (2023), Character 125.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of odontodes (or dentine: #103, this analysis). The 
+original definition (denticles in pharynx, absent or present) is modified to accommodate the 
+topological distributions of dermal denticles in various vertebrate lineages. The condition in 
+euconodonts was evaluated on the basis of P elements (256) and general histological 
+information (243, 245)."
 
 126. Dermal head covering in adult state: 0, absent; 1, present.
 > CMC #90; coding modified; Miyashita *et al*. (2019), Character 128; Miyashita *et al*. (2021), Character 126; Dearden *et al*. (2023), Character 126.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of a mineralized skeleton."
 
 127. Dermal head covering in adult state: 0, micromeric; 1, large (macromeric) dermal plates or shield.
 > CMC #109; coding modified; Miyashita *et al*. (2019), Character 129; Miyashita *et al*. (2021), Character 127; Dearden *et al*. (2023), Character 127.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The inapplicable status is assigned to all taxa lacking an integumentary skeleton in the head 
+(#128, this analysis). Micromeric and macromeric elements coexist in the dermal head covering 
+of birkeniids, but the former category dominates in surface area. They are coded as micromeric 
+(‘0’) for this character, but are also subject to the characters about specific conditions of 
+macromeric dermal skull elements (#129, 130, this analysis)."
 
 > - Dearden *et al*. (2023): “In previous versions of this matrix (Miyashita et al. 2019, 2021) *Astraspis* is scored as micromeric for this character despite the fact that is has a dermal skeleton formed from polyodontode 
 tesserae (Elliott, 1987; Sansom et al., 1997). For the sake of consistency with other scorings we have kept this and scored *Astraspis* and *Eriptychius* as micromeric, but we note that mesomery is arguably as similar to 
 macromery as it is to micromery."
 
-> - Miyashita *et al*. (2019): ""
-
 128. Dermal head covering, macromeric: 0, large unpaired plates covering dorsal and ventral sides; 1, covered by tesserae; 2, multiple plates.
 > CMC #91; definition modified; Miyashita *et al*. (2019), Character 130; Miyashita *et al*. (2021), Character 128; Dearden *et al*. (2023), Character 128.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original definition (large unpaired plates, absent or present) is modified to accommodate 
+variations in the integumentary skeletons of the heads. The exact state in pituriaspids is 
+unknown (‘?’). Pituriaspids have a massive continuous endoskeletal shield, but the external 
+morphology is poorly understood (187). It perhaps resembled the condition in osteostracans, 
+although there is no evidence of tessarae. Although the head integumentary skeleton of 
+birkeniids mostly consists of micromeric scales, macromeric plates form the roof (coding for 
+‘2’). This character only applies to those that scored for having macromeric dermal head 
+covering, with an exception of birkeniids."
 
 129. Dermal head covering, macromeric/shield: 0, head and anterior trunk continuous; 1, head and anterior trunk decoupled.
 > Miyashita *et al*. (2019), Character 131; Miyashita *et al*. (2021), Character 129; Dearden *et al*. (2023), Character 129.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is contingent on the presence of a macromeric dermal head covering (#129, this 
+analysis)."
 
 130. Endoskeletal contribution to dermal head covering: 0, absent; 1, present.
 > CMC #92; definition 
 modified; Miyashita *et al*. (2019), Character 132; Miyashita *et al*. (2021), Character 130; Dearden *et al*. (2023), Character 130.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character refers to calcified or ossified endoskeletal cartilages lining the dermal elements 
+(entirely or partially), which occur in galeaspids, osteostracans, and most jawed gnathostomes. 
+Antiarchs have some endoskeletal components to the mainly dermal skeleton at the exoendoskeletal interface in the jaws, pectoral joints, and rhinocapsular element (221, 257), 
+although in general the dermal plates consist of exoskeletal components (240). The character 
+coding does not discriminate macromery versus micromery, but is contingent on having a 
+mineralized dermal skull and endoskeleton (#111, 129, this analysis). Thelodonts are coded as 
+inapplicable, as no bones or calcified cartilages are known from these taxa."
 
 131. Mineralized exoskeletal circumocular elements: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 133; Miyashita *et al*. (2021), Character 131; Dearden *et al*. (2023), Character 131.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "This character is intended to supplement morphological information from the exoskeletal 
+circumocular skeleton to the following two characters about the endoskeletal circumocular 
+elements. In addition to sclerotic ossicles, dermal/exoskeletal elements delineate the orbit in 
+many vertebrate lineages. Chondrichthyans are coded on the basis of acanthodians for this 
+character. Contingent on the presence of mineralized exoskeleton in the head (#129, this 
+analysis)."
 
 132. Mineralized endoskeletal circumocular elements (sclerotic elements): 0, absent; 1, present.
 > CMC #93; definition modified; Miyashita *et al*. (2019), Character 134; Miyashita *et al*. (2021), Character 132; Dearden *et al*. (2023), Character 132.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original character (sclerotic ossicles, absent or present) is modified to accommodate 
+different types of endoskeletal circumocular skeleton. The new definition includes sclerotic 
+elements in arandaspids (25) and optic pedicles in crown gnathostomes (159, 178, 258–261). As 
+the character is contingent on the presence of mineralized endoskeleton (#111, this analysis), 
+the inapplicable status has been assigned accordingly."
 
 133. Sclerotic endoskeleton: 0, isolated circumocular elements; 1, eye capsule or stalk.
 > CMC #94; 
 definition modified; Miyashita *et al*. (2019), Character 135; Miyashita *et al*. (2021), Character 133; Dearden *et al*. (2023), Character 133.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original definition (eye capsule, absent or present) is modified to assign isolated sclera to a 
+primitive status and make the character contingent on the presence of mineralized endoskeletal 
+circumocular elements."
 
 134. Fusion of visceral (pharyngeal) skeletal arches to neurocranium: 0, absent; 1, present.
 > CMC 
 #56; coding modified; Miyashita *et al*. (2019), Character 136; Miyashita *et al*. (2021), Character 134; Dearden *et al*. (2023), Character 134.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "Visceral arches are broadly interpreted in this character as skeletal elements supporting the 
+spaces between pharyngeal slits. In hagfish, the cartilages arising in the pharyngeal arches 
+consist of the facial cartilages (at the level of mandibular arch), visceral plate (at the level of 
+hyoid arch), and the pharyngeal basket lateral to the velum (37, 111, 262). They are all fused to 
+the parachordally derived cartilage near the otic capsule and in the vinicity of the trigeminal and 
+facial nerve roots. Haikouichthys and Metaspriggina are coded on the basis of free pharyngeal 
+skeletal elements (35, 163). Myxinikela has the cartilaginous elements in the branchial region, 
+which is connected to the neurocranial region by what appears to be collagenous structures (71, 
+263). In hemichordates and tunicates this character is inapplicable."
 
 135. Denticulate/cuspidate elements of feeding apparatus, perioral: 0, absent; 1, present.
 > CMC #58; 
 definition modified; Miyashita *et al*. (2019), Character 137; Miyashita *et al*. (2021), Character 135; Dearden *et al*. (2023), Character 135.
 
-> - Miyashita *et al*. (2019): ""
+> - Miyashita *et al*. (2019): "The original definition of ‘circumoral teeth’ does not distinguish variants properly. For 
+example, lampreys have multicuspidate piston tooth plates within the buccal cavity and radial 
+circumoral teeth in the oral funnel, whereas hagfish have two pairs of multicuspidate tooth 
+plates. Both were coded originally for the presence of circumoral teeth, but these variations 
+should not be confused. Therefore, the criterion is whether the structures are housed within the 
+buccal cavity or exposed periorally. Absence in jawless stem gnathostomes was evaluated on 
+the basis of whether or not the perioral morphology would allow such structures. The ring of 
+cuspidate plates in Pipiscius is interpreted as a perioral structure outside the buccal cavity, so 
+the coding for this taxon is presence in the perioral region (‘1’) for this character but absence 
+for the character #139 (‘0’). Given common preservation in the local fauna, buccal cuspidate 
+plates similar to those in Gilpichthys and other coeval cyclostomes — if present — would have 
+been preserved in Pipiscius. For these characters (#137, #139), precise tissue types are not 
+distinguished. Both perioral keratinous teeth in lampreys and lip scales in acanthodians qualify
+for the presence of this character. Likewise, conodont elements and buccal keratinous teeth 
+qualify for the buccal counterpart of this character (#139). Tissue types and functional 
+categories are distinguished in other characters (#126, #127, #140, #141, #142, this analysis)."
 
 > - Dearden *et al*. (2023): “Following the original scoring strategy for this character we have scored heterostracans as 1 based on the ornamentation of their oral plates, and *Eriptychius* 1 due to denticles on the 
 surface of the plates adjacent to the mouth."
