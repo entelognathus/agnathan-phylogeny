@@ -39,34 +39,34 @@ chondrichthyans (155–159), and they are tentatively coded as separated. This c
 > - **A potential character to unite galeaspids and jawed vertebrates.**
 >
 7. Tripartite division of facial nerve into pharyngeal, 'pretrematic', and 'postrematic' branches: 0, absent; 1, present.
-> CMC #8, KLV #50: definition modified; Miyashita *et al*. (2019), Character 7; Miyashita *et al*. (2021), Character 7; Dearden *et al*. (2023), Character 7.
+> Conway Morris and Caron (2014), #8, KLV #50: definition modified; Miyashita *et al*. (2019), Character 7; Miyashita *et al*. (2021), Character 7; Dearden *et al*. (2023), Character 7.
 
-> - Miyashita *et al*. (2019): "The original definition in the CMC dataset concerned the presence of pretrematic branch in branchial nerves, where jawless vertebrates were coded as lacking the branch. Cyclostomes clearly have pretrematic branch in the glossopharyngeal and vagus nerves (160). The facial nerve, however, lacks the bipartite organization of pre- and post-trematic branches being separated by the hyomandibular pouch (29, 161). What appears to correspond to a pretrematic branch is a split of the postrematic branch. The lack of the pretrematic branch in the facial nerve is also consistent with the lack of pseudobranch (gill-like folded epithelium in hyomandibular position) in cyclostomes, suggesting that the structure represents a derived state acquired in the stem of gnathostomes (115)."
+> - Miyashita *et al*. (2019): "The original definition in the Conway Morris and Caron (2014), dataset concerned the presence of pretrematic branch in branchial nerves, where jawless vertebrates were coded as lacking the branch. Cyclostomes clearly have pretrematic branch in the glossopharyngeal and vagus nerves (160). The facial nerve, however, lacks the bipartite organization of pre- and post-trematic branches being separated by the hyomandibular pouch (29, 161). What appears to correspond to a pretrematic branch is a split of the postrematic branch. The lack of the pretrematic branch in the facial nerve is also consistent with the lack of pseudobranch (gill-like folded epithelium in hyomandibular position) in cyclostomes, suggesting that the structure represents a derived state acquired in the stem of gnathostomes (115)."
 
 8. Spinal cord in cross section: 0, round; 1, flattened.
-> CMC #9: definition modified; Miyashita *et al*. (2019), Character 8; Miyashita *et al*. (2021), Character 8; Dearden *et al*. (2023), Character 8.
+> Conway Morris and Caron (2014), #9: definition modified; Miyashita *et al*. (2019), Character 8; Miyashita *et al*. (2021), Character 8; Dearden *et al*. (2023), Character 8.
 
 9. Ventral and dorsal roots of spinal nerve: 0, separated; 1, united.
-> CMC #10: definition modified; Miyashita *et al*. (2019), Character 9; Miyashita *et al*. (2021), Character 9; Dearden *et al*. (2023), Character 9.
+> Conway Morris and Caron (2014), #10: definition modified; Miyashita *et al*. (2019), Character 9; Miyashita *et al*. (2021), Character 9; Dearden *et al*. (2023), Character 9.
 
 10. Ventral and dorsal roots of spinal nerve originates: 0, intersegmentally; 1, intrasegmentally.
 > Miyashita *et al*. (2019), Character 10; Miyashita *et al*. (2021), Character 10; Dearden *et al*. (2023), Character 10.
 
-> - Miyashita *et al*. (2019): "This character supplements character #9 (ventral and dorsal roots united). Indeed, hagfish and gnathostomes are similar to each other for having the dorsal and ventral roots united (they are separate in lampreys). However, both roots originate at the intra-segmental level (medial to myomeres) in lampreys and gnathostomes, whereas the origin is at the inter-segmental level (medial to myosepta) in hagfish (162). To capture the full range of this variation, this addition to CMC #10 is required."
+> - Miyashita *et al*. (2019): "This character supplements character #9 (ventral and dorsal roots united). Indeed, hagfish and gnathostomes are similar to each other for having the dorsal and ventral roots united (they are separate in lampreys). However, both roots originate at the intra-segmental level (medial to myomeres) in lampreys and gnathostomes, whereas the origin is at the inter-segmental level (medial to myosepta) in hagfish (162). To capture the full range of this variation, this addition to Conway Morris and Caron (2014), #10 is required."
 
 11. Mauthner fibers at rhombomere 4: 0, absent; 1, present.
-> CMC #11: definition modified; Miyashita *et al*. (2019), Character 11; Miyashita *et al*. (2021), Character 11; Dearden *et al*. (2023), Character 11.
+> Conway Morris and Caron (2014), #11: definition modified; Miyashita *et al*. (2019), Character 11; Miyashita *et al*. (2021), Character 11; Dearden *et al*. (2023), Character 11.
 
 > - Miyashita *et al*. (2019): "The Mauthner fibers are identified primarily by their position at rhombomere 4. Therefore, the 
 character is inapplicable (‘-‘) for outgroups without a tripartite brain (#4, this analysis)."
 
 12. Pineal organ (extra-ocular photoreceptor region expressing pineal opsins): 0, absent; 1, present.
-> CMC #3; Miyashita *et al*. (2019), Character 12; Miyashita *et al*. (2021), Character 12; Dearden *et al*. (2023), Character 12.
+> Conway Morris and Caron (2014), #3; Miyashita *et al*. (2019), Character 12; Miyashita *et al*. (2021), Character 12; Dearden *et al*. (2023), Character 12.
 
 > - Dearden *et al*. (2023): “We scored *Eriptychius* as present based on the pineal opening tentatively identified in the median dorsal cartilage. For *Sacabambaspis* we have followed the interpretation of Gagnier (1993), however see Zhang et al. (2023) for an alternative anatomical interpretation.“
 
 13. Pineal opening: 0, covered; 1, uncovered.
-> CMC #100; coding modified; Miyashita *et al*. (2019), Character 13; Miyashita *et al*. (2021), Character 13; Dearden *et al*. (2023), Character 13.
+> Conway Morris and Caron (2014), #100; coding modified; Miyashita *et al*. (2019), Character 13; Miyashita *et al*. (2021), Character 13; Dearden *et al*. (2023), Character 13.
 
 > - Miyashita *et al*. (2019): "The character is inapplicable to taxa lacking a pineal organ (#12, this analysis) and/or a skull 
 (#3, this analysis)."
@@ -74,22 +74,22 @@ character is inapplicable (‘-‘) for outgroups without a tripartite brain (#4
 > - Dearden *et al*. (2023): “We scored *Eriptychius* as unknown as it is unclear whether the tessera overlying the median dorsal plates is in life position or whether it has an opening in.” 
 
 14. Adenohypophysis: 0, absent; 1, present.
-> CMC #4; Miyashita *et al*. (2019), Character 14; Miyashita *et al*. (2021), Character 14; Dearden *et al*. (2023), Character 14.
+> Conway Morris and Caron (2014), #4; Miyashita *et al*. (2019), Character 14; Miyashita *et al*. (2021), Character 14; Dearden *et al*. (2023), Character 14.
 
 15. Olfactory peduncles: 0, absent; 1, present.
-> CMC #2; Miyashita *et al*. (2019), Character 15; Miyashita *et al*. (2021), Character 15; Dearden *et al*. (2023), Character 15.
+> Conway Morris and Caron (2014), #2; Miyashita *et al*. (2019), Character 15; Miyashita *et al*. (2021), Character 15; Dearden *et al*. (2023), Character 15.
 
 > - Miyashita *et al*. (2019): "Any taxon that scores for 0 in character #4 (tripartite vesicles at anterior end of neural tube, 
 absent) is coded as inapplicable (-)."
 
 16. Encapsulated olfactory epithelium with external opening: 0, absent; 1, present.
-> CMC #13: definition modified; Miyashita *et al*. (2019), Character 16; Miyashita *et al*. (2021), Character 16; Dearden *et al*. (2023), Character 16.
+> Conway Morris and Caron (2014), #13: definition modified; Miyashita *et al*. (2019), Character 16; Miyashita *et al*. (2021), Character 16; Dearden *et al*. (2023), Character 16.
 
 > - Miyashita *et al*. (2019): "Haikouichthys and Metaspriggina were coded as having olfactory capsules, following the 
 original descriptions (35, 163)."
 
 17. Position of nasohypophyseal/nasal opening: 0, terminal; 1, dorsal.
-> CMC #16: coding modified; Miyashita *et al*. (2019), Character 17; Miyashita *et al*. (2021), Character 17; Dearden *et al*. (2023), Character 17.
+> Conway Morris and Caron (2014), #16: coding modified; Miyashita *et al*. (2019), Character 17; Miyashita *et al*. (2021), Character 17; Dearden *et al*. (2023), Character 17.
 
 > - Miyashita *et al*. (2019): "This character describes the extent of posthypophyseal/internasohypophyseal skeleton in the 
 snout (39, 164–166) — or, as superficially interpreted, the distance between the mouth and the 
@@ -101,7 +101,7 @@ controversial taxa and characters throughout this analysis, this was verified in
 multiple authors on the original material that preserves the snout."
 
 18. Nasohypophyseal canal: 0, blind; 1, opening into pharynx.
-> CMC #14: definition modified; Miyashita *et al*. (2019), Character 18; Miyashita *et al*. (2021), Character 18; Dearden *et al*. (2023), Character 18.
+> Conway Morris and Caron (2014), #14: definition modified; Miyashita *et al*. (2019), Character 18; Miyashita *et al*. (2021), Character 18; Dearden *et al*. (2023), Character 18.
 
 > - Miyashita *et al*. (2019): "Galeaspids are coded as unknown (‘?’) for this character. The existing reconstruction of their 
 internal anatomy (152) does not indicate whether or not the nasal cavity was open to the 
@@ -116,7 +116,7 @@ cyclostome interpretation. The character is contingent on the presence of the
 nasohypophyseal/nasal cavity (#14 and #16, this analysis)."
 
 19. Nasohypophyseal opening: 0, single; 1, paired.
-> CMC #15, 101: definition modified; Miyashita *et al*. (2019), Character 19; Miyashita *et al*. (2021), Character 19; Dearden *et al*. (2023), Character 19.
+> Conway Morris and Caron (2014), #15, 101: definition modified; Miyashita *et al*. (2019), Character 19; Miyashita *et al*. (2021), Character 19; Dearden *et al*. (2023), Character 19.
 
 > - Miyashita *et al*. (2019): "This character likely correlates with the organization of nasal (olfactory) capsules (#20, this 
 analysis). On the basis of paired capsules with a single aperture in stem gnathostomes and 
@@ -134,7 +134,7 @@ range of OTUs, this character is coded without contingency on character #20."
 paired. Heterostracan taxa are coded ?: the anatomy nasohypophyseal openings has never been conclusively shown."
 
 20. Nasal (olfactory) capsule: 0, unpaired; 1, paired.
-> CMC #17: definition modified; Miyashita *et al*. (2019), Character 20; Miyashita *et al*. (2021), Character 20; Dearden *et al*. (2023), Character 20.
+> Conway Morris and Caron (2014), #17: definition modified; Miyashita *et al*. (2019), Character 20; Miyashita *et al*. (2021), Character 20; Dearden *et al*. (2023), Character 20.
 
 > - Miyashita *et al*. (2019): "Organization of the olfactory capsules can vary independent of the number of the 
 nasohypophyseal opening. The olfactory tracts have paired organization in all known 
@@ -170,7 +170,7 @@ papillae originate from a comparative analysis by Mok (170)."
 > - Miyashita *et al*. (2019): "This character only applies to myxinoids."
 
 26. Eyes with pigmented retinal epithelium: 0, absent; 1, present.
-> CMC #12: definition modified; HSM #19; Miyashita *et al*. (2019), Character 26; Miyashita *et al*. (2021), Character 26; Dearden *et al*. (2023), Character 26.
+> Conway Morris and Caron (2014), #12: definition modified; HSM #19; Miyashita *et al*. (2019), Character 26; Miyashita *et al*. (2021), Character 26; Dearden *et al*. (2023), Character 26.
 
 > - Miyashita *et al*. (2019): "Pigmented retinal epithelium is characteristic of vertebrate eyes (102, 171)."
 
@@ -188,7 +188,7 @@ dataset. The character is contingent on character #26 (presence of eye)."
 scope of this paper, here *Eriptychius*, *Sacabambaspis*, *Astraspis* and heterostracan taxa are assumed to have uncovered eyes and we have scored them absent in keeping with the scoring approach of Miyashita et al. (2019, 2021).
 
 28. Extrinsic eye musculature: 0, absent; 1, present.
-> CMC #18: coding modified; Miyashita *et al*. (2019), Character 28; Miyashita *et al*. (2021), Character 28; Dearden *et al*. (2023), Character 28.
+> Conway Morris and Caron (2014), #18: coding modified; Miyashita *et al*. (2019), Character 28; Miyashita *et al*. (2021), Character 28; Dearden *et al*. (2023), Character 28.
 
 > - Miyashita *et al*. (2019): "The character is contingent on the presence of eyes (#26, this analysis). Euconodonts are 
 typically coded as having extraocular muscles on the basis of the fibrous soft tissues preserved 
@@ -287,7 +287,7 @@ extensively chondrified."
 > - Dearden *et al*. (2023): “Cartilaginous otic capsules are not preserved in *Eriptychius* PF 1795. However, it is unclear whether they were present in life as they could have either been unmineralized and thus not fossilised, or alternatively lost prior due to disruption to the carcass during fossilisation. Thus we have scored this character as unknown. We have also changed the scoring for heterostracan taxa from 1 to ?."
 
 34. Vertical semicircular canals forming loops that are separate from roof of utriculus: 0, absent; 1, present.
-> CMC #21; coding modified; Miyashita *et al*. (2019), Character 34; Miyashita *et al*. (2021), Character 34; Dearden *et al*. (2023), Character 34.
+> Conway Morris and Caron (2014), #21; coding modified; Miyashita *et al*. (2019), Character 34; Miyashita *et al*. (2021), Character 34; Dearden *et al*. (2023), Character 34.
 
 > - Miyashita *et al*. (2019): "All characters concerning the inner ear anatomy are inapplicable to taxa that lack an otic 
 capsule (#33, this analysis)."
@@ -318,7 +318,7 @@ condensation in the otic capsule of Hardistiella is accepted provisionally as a 
 following the description by Janvier and Lund (185)."
 
 38. Endolymphatic duct: 0, is blind; 1, opens externally.
-> CMC #22; definition modified; Miyashita *et al*. (2019), Character 38; Miyashita *et al*. (2021), Character 38; Dearden *et al*. (2023), Character 38.
+> Conway Morris and Caron (2014), #22; definition modified; Miyashita *et al*. (2019), Character 38; Miyashita *et al*. (2021), Character 38; Dearden *et al*. (2023), Character 38.
 
 > - Miyashita *et al*. (2019): "The original definition (presence/absence of open endolymphatic duct) confounds the presence/absence of endolymphatic duct with its states (externally open/closed). In that original 
 definition, presence/absence cannot be assessed for outgroups that lack an otic capsule 
@@ -329,18 +329,18 @@ definition was thus modified. The character is contingent on character #33."
 unknown. As with the pineal for *Sacabambaspis* we have followed the interpretation of Gagnier (1993), but see Zhang et al. (2023) for an alternative anatomical interpretation."
 
 39. Electroreceptive cells: 0, absent; 1, present.
-> CMC #23; Miyashita *et al*. (2019), Character 39; Miyashita *et al*. (2021), Character 39; Dearden *et al*. (2023), Character 39.
+> Conway Morris and Caron (2014), #23; Miyashita *et al*. (2019), Character 39; Miyashita *et al*. (2021), Character 39; Dearden *et al*. (2023), Character 39.
 
 40. Sensory lines: 0, absent; 1, present.
-> CMC #24; Miyashita *et al*. (2019), Character 40; Miyashita *et al*. (2021), Character 40; Dearden *et al*. (2023), Character 40.
+> Conway Morris and Caron (2014), #24; Miyashita *et al*. (2019), Character 40; Miyashita *et al*. (2021), Character 40; Dearden *et al*. (2023), Character 40.
 
 41. Sensory-lines: 0, on head only; 1, on head plus body.
-> CMC #25; Miyashita *et al*. (2019), Character 41; Miyashita *et al*. (2021), Character 41; Dearden *et al*. (2023), Character 41.
+> Conway Morris and Caron (2014), #25; Miyashita *et al*. (2019), Character 41; Miyashita *et al*. (2021), Character 41; Dearden *et al*. (2023), Character 41.
 
 > - Miyashita *et al*. (2019): "The character is contingent on the presence of sensory lines (#40, this analysis)."
 
 42. Sensory-line: 0, enclosed in grooves; 1, enclosed in canals.
-> CMC #26; Miyashita *et al*. (2019), Character 42; Miyashita *et al*. (2021), Character 42; Dearden *et al*. (2023), Character 42.
+> Conway Morris and Caron (2014), #26; Miyashita *et al*. (2019), Character 42; Miyashita *et al*. (2021), Character 42; Dearden *et al*. (2023), Character 42.
 
 > - Miyashita *et al*. (2019): "The character is contingent on the presence of sensory lines (#40, this analysis)."
 
@@ -361,9 +361,9 @@ character cannot be coded for outgroups that lack cranial nerves."
 ## Mouth and Branchial System
 
 44. Branchial apparatus: 0, retains arrangement of pharyngula such that first branchial opening assumes infra- to postotic position; 1, displaced anteriorly; 2, displaced posteriorly.
-> CMC #19: definition modified; Miyashita *et al*. (2019), Character 45; Miyashita *et al*. (2021), Character 44; Dearden *et al*. (2023), Character 44.
+> Conway Morris and Caron (2014), #19: definition modified; Miyashita *et al*. (2019), Character 45; Miyashita *et al*. (2021), Character 44; Dearden *et al*. (2023), Character 44.
 
-> - Miyashita *et al*. (2019): "The original definition in the CMC dataset concerned position of otic capsule with respect to branchial apparatus, but the relationship is reversed. This character now describes a position of the pharyngeal arch derivatives with respect to the nervous system, where the otic capsule and roots of all cranial nerves retain their relative positions to each other. The otic capsule is 
+> - Miyashita *et al*. (2019): "The original definition in the Conway Morris and Caron (2014), dataset concerned position of otic capsule with respect to branchial apparatus, but the relationship is reversed. This character now describes a position of the pharyngeal arch derivatives with respect to the nervous system, where the otic capsule and roots of all cranial nerves retain their relative positions to each other. The otic capsule is 
 intended as a landmark — so this character may be assessed by using the overall configuration of structures spatially correlated with the otic capsule (with respect to the eye, the most anterior myomeres, the notochord, and others) when the otic capsule is not preserved. This strategy is sensible only for those that are unambiguously preserved with these alternative landmark structures (e.g., Euphanerops) (77). Therefore, this character is inapplicable to taxa in which (a) it is uncertain whether the otic capsule was absent or not preserved; and (b) other landmark structures are not comparable or not preserved (e.g., euconodonts and Haikouella)."
 
 45. Branchial apparatus, displaced anteriorly such that: 0, first branchial opening assume preotic position; 1, multiple branchial arches occupy preotic position.
@@ -379,19 +379,19 @@ in the previous character (state 1 of character #45)."
 in the previous character (state 2 of character #45)."
 
 47. Pharyngeal skeleton: 0, delineates pharyngeal slits with ciliary band; 1, supports well-developed branchial lamellae.
-> CMC #34, definition modified; Miyashita *et al*. (2019), Character 48; Miyashita *et al*. (2021), Character 47; Dearden *et al*. (2023), Character 47.
+> Conway Morris and Caron (2014), #34, definition modified; Miyashita *et al*. (2019), Character 48; Miyashita *et al*. (2021), Character 47; Dearden *et al*. (2023), Character 47.
 
 > - Miyashita *et al*. (2019): "In hagfish, the skeleton of the branchial region consists of the extrabranchial cartilages around 
 the excurrent ducts of the branchial pouches. This morphology is interpreted as derived (‘1’) for this character."
 
 48. Main skeletal support for branchial apparatus with respect to lamellae: 0, lateral; 1, medial.
-> CMC #112, definition modified; Miyashita *et al*. (2019), Character 49; Miyashita *et al*. (2021), Character 48; Dearden *et al*. (2023), Character 48.
+> Conway Morris and Caron (2014), #112, definition modified; Miyashita *et al*. (2019), Character 49; Miyashita *et al*. (2021), Character 48; Dearden *et al*. (2023), Character 48.
 
 > - Miyashita *et al*. (2019): "The original definition (branchial bars, external or internal) was modified to allow identification 
 of states with respect to anatomical correlates. This character is inapplicable for those taxa lacking branchial lamellae (character #48, this analysis), and for Haikouella and Pikaia in which the branchial structures appear to have been exposed externally (183)."
 
 49. Pharyngeal skeleton: 0, skeletal arches fused with each other; 1, arches isolated.
-> CMC #111, definition modified; Miyashita *et al*. (2019), Character 50; Miyashita *et al*. (2021), Character 49; Dearden *et al*. (2023), Character 49.
+> Conway Morris and Caron (2014), #111, definition modified; Miyashita *et al*. (2019), Character 50; Miyashita *et al*. (2021), Character 49; Dearden *et al*. (2023), Character 49.
 
 > - Miyashita *et al*. (2019): "The original character distinguished between ‘continuous’ and ‘basket-like’ states, but these states are indistinguishable from one another. The taxa lacking a pharyngeal skeleton are coded as inapplicable."
 
@@ -402,13 +402,13 @@ of states with respect to anatomical correlates. This character is inapplicable 
 this character. Modifying the scores for heterostracans (0/1) and pituriaspids (1) did not affect the topology presented in Fig. S6."
 
 51. Respiratory current exits through: 0, atrial space; 1, excurrent duct (=branchial pouch); 2, parabranchial cavity.
-> CMC #27, definition modified; Miyashita *et al*. (2019), Character 52; Miyashita *et al*. (2021), Character 51; Dearden *et al*. (2023), Character 51.
+> Conway Morris and Caron (2014), #27, definition modified; Miyashita *et al*. (2019), Character 52; Miyashita *et al*. (2021), Character 51; Dearden *et al*. (2023), Character 51.
 
-> - Miyashita *et al*. (2019): "The original character definition in the CMC dataset requires some clarification because a 
+> - Miyashita *et al*. (2019): "The original character definition in the Conway Morris and Caron (2014), dataset requires some clarification because a 
 ‘pouch-shaped gill’ is a composite of two different morphological variations — whether the skeletal support is lateral or medial, and whether the excurrent passes through a duct or a cavity. A new state (atrial space) was added to contrast vertebrates and non-vertebrate chordates."
 
 52. Single confluent branchial opening: 0, absent; 1, present.
-> CMC #28; Miyashita *et al*. (2019), Character 53; Miyashita *et al*. (2021), Character 52; Dearden *et al*. (2023), Character 52.
+> Conway Morris and Caron (2014), #28; Miyashita *et al*. (2019), Character 53; Miyashita *et al*. (2021), Character 52; Dearden *et al*. (2023), Character 52.
 
 > - Miyashita *et al*. (2019): "This character is inapplicable to those with parabranchial cavities (#52)."
 
@@ -428,12 +428,12 @@ those with a single confluent branchial opening (#53). The branchial and pharyng
 > - Dearden *et al*. (2023): “This was scored inapplicable for heterostracans with a single confluent branchial opening, following the approach for hagfishes with a single branchial opening.“
 
 55. Number of arches (or pouches) in branchial apparatus: 0, unconstrained to five; 1, held constant at five.
-> CMC #29, definition modified; Miyashita *et al*. (2019), Character 56; Miyashita *et al*. (2021), Character 55; Dearden *et al*. (2023), Character 55.
+> Conway Morris and Caron (2014), #29, definition modified; Miyashita *et al*. (2019), Character 56; Miyashita *et al*. (2021), Character 55; Dearden *et al*. (2023), Character 55.
 
 > - Miyashita *et al*. (2019): "The arches and pouches of this definition refer to branchial arches and pouches (branchial bars and gills), respectively, and are not to be confused with pharyngeal arches and pouches (anlagen). The original character (branchial pouches/slits greater than 10 or less than 10) is clarified and split into two individual characters to reflect multiple levels of variation."
 
 56. Number of arches (or pouches) in branchial apparatus (unconstrained to five), maximum number: 0, greater than five and fewer than 20; 1, greater than 20.
-> CMC #29, definition modified; Miyashita *et al*. (2019), Character 57; Miyashita *et al*. (2021), Character 56; Dearden *et al*. (2023), Character 56.
+> Conway Morris and Caron (2014), #29, definition modified; Miyashita *et al*. (2019), Character 57; Miyashita *et al*. (2021), Character 56; Dearden *et al*. (2023), Character 56.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the previous one (#56) and therefore inapplicable for those constrained to five arches supporting branchial lamellae."
 
@@ -448,12 +448,12 @@ those with a single confluent branchial opening (#53). The branchial and pharyng
 > - Miyashita *et al*. (2019): "This character correlates with the number of branchial arches (#56-58, this analysis) in that none of those constrained to five branchial arches score for the derived state."
 
 59. Lateral branchial openings: 0, at similar horizontal level; 1, in a posteroventrally inclined row.
-> CMC #30, definition modified; Miyashita *et al*. (2019), Character 60; Miyashita *et al*. (2021), Character 59; Dearden *et al*. (2023), Character 59.
+> Conway Morris and Caron (2014), #30, definition modified; Miyashita *et al*. (2019), Character 60; Miyashita *et al*. (2021), Character 59; Dearden *et al*. (2023), Character 59.
 
 > - Miyashita *et al*. (2019): "The character is inapplicable for those with a highly depressiform profile (#82, this analysis) or those with parabranchial cavities (#52, this analysis)."
 
 60. Opercular flaps associated with branchial openings: 0, absent; 1, present.
-> CMC #32; Miyashita *et al*. (2019), Character 61; Miyashita *et al*. (2021), Character 60; Dearden *et al*. (2023), Character 60.
+> Conway Morris and Caron (2014), #32; Miyashita *et al*. (2019), Character 61; Miyashita *et al*. (2021), Character 60; Dearden *et al*. (2023), Character 60.
 
 > - Miyashita *et al*. (2019): "Coding has been revised according to Gabbott and colleagues (32)."
 
@@ -468,7 +468,7 @@ those with a single confluent branchial opening (#53). The branchial and pharyng
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of mineralized integumentary skeleton (#113, this analysis). Even though inapplicable status (‘-’) is assigned accordingly, these character states necessarily correlate with micro-/macromeric integumentary skeletons."
 
 63. Position of mouth: 0, terminal; 1, subterminal.
-> CMC #35, definition modified; Miyashita *et al*. (2019), Character 64; Miyashita *et al*. (2021), Character 63; Dearden *et al*. (2023), Character 63.
+> Conway Morris and Caron (2014), #35, definition modified; Miyashita *et al*. (2019), Character 64; Miyashita *et al*. (2021), Character 63; Dearden *et al*. (2023), Character 63.
 
 > - Miyashita *et al*. (2019): "Mouth orientation is correlated partly with overall body profile (#82, this analysis), but position of mouth with respect to other cranial landmarks (e.g., nasohypophyseal canal) can vary independently of the overall body profile."
 
@@ -486,7 +486,7 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 > - Dearden *et al*. (2023): “We consider the palate of *Sacabambaspis* and heterostracans to be insufficiently wellcharacterised to score this character and so have scored them as unknown."
 
 66. Velum: 0, absent; 1, present.
-> CMC #37, coding modified; Miyashita *et al*. (2019), Character 67; Miyashita *et al*. (2021), Character 66; Dearden *et al*. (2023), Character 66.
+> Conway Morris and Caron (2014), #37, coding modified; Miyashita *et al*. (2019), Character 67; Miyashita *et al*. (2021), Character 66; Dearden *et al*. (2023), Character 66.
 
 > - Miyashita *et al*. (2019): "There is no cyclotome-like velum in cephalochordates. All non-vertebrate taxa are coded as inapplicable because a velum assumes the presence of a mandibular arch. Contrary to the assessment by McCoy and colleagues (36), hagfish do possess a velum. The functional necessity of having a valve/pump at the mandibular arch, coupled with some osteological correlates (115, 153, 203), led to provisional coding of galeaspids and osteostracans as having a velum or velum-like structure. This assessment is consistent with the analysis of Gabbott and colleagues (32)."
 
@@ -512,17 +512,17 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 
 ## Circulatory System
 71. Multi-chamber heart: 0, absent; 1, present.
-> CMC #38, coding modified; Miyashita *et al*. (2019), Character 72; Miyashita *et al*. (2021), Character 71; Dearden *et al*. (2023), Character 71.
+> Conway Morris and Caron (2014), #38, coding modified; Miyashita *et al*. (2019), Character 72; Miyashita *et al*. (2021), Character 71; Dearden *et al*. (2023), Character 71.
 
 > - Miyashita *et al*. (2019): "It is unknown (‘?’) whether the heart has multiple chambers in Haikouichthys, Metaspriggina, and Myllokunmingia."
 
 72. Closed pericardium: 0, absent; 1, present.
-> CMC #39; Miyashita *et al*. (2019), Character 73; Miyashita *et al*. (2021), Character 72; Dearden *et al*. (2023), Character 72.
+> Conway Morris and Caron (2014), #39; Miyashita *et al*. (2019), Character 73; Miyashita *et al*. (2021), Character 72; Dearden *et al*. (2023), Character 72.
 
 73. Circulatory system: 0, open; 1, closed.
-> CMC #40, definition modified; Miyashita *et al*. (2019), Character 74; Miyashita *et al*. (2021), Character 73; Dearden *et al*. (2023), Character 73.
+> Conway Morris and Caron (2014), #40, definition modified; Miyashita *et al*. (2019), Character 74; Miyashita *et al*. (2021), Character 73; Dearden *et al*. (2023), Character 73.
 
-> - Miyashita *et al*. (2019): "The original character in the CMC dataset was defined and scored as if the circulatory system was open in vertebrates. The circulatory system of hagfish is considered closed, and the extensive subcutaneous sinus is interpreted as a specialization (204) — perhaps associated with the cutaneous exchange and transport of various substances (205). This specialization is related to the fact that hagfish are osmoconformers, but it is difficult to determine which character preceded (or capacitated) the other."
+> - Miyashita *et al*. (2019): "The original character in the Conway Morris and Caron (2014), dataset was defined and scored as if the circulatory system was open in vertebrates. The circulatory system of hagfish is considered closed, and the extensive subcutaneous sinus is interpreted as a specialization (204) — perhaps associated with the cutaneous exchange and transport of various substances (205). This specialization is related to the fact that hagfish are osmoconformers, but it is difficult to determine which character preceded (or capacitated) the other."
 
 74. Massive subcutaneous sinus: 0, absent; 1, present.
 > Miyashita *et al*. (2019), Character 75; Miyashita *et al*. (2021), Character 74; Dearden *et al*. (2023), Character 74.
@@ -530,33 +530,33 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 > - Miyashita *et al*. (2019): "The original character (high blood pressure, absent or present) was vaguely defined. In that form, the character is redundant with the closed/open circulatory system (#74) and with the absence/presence of a multichambered heart (#72). The character was modified to refer to the specialized subcutaneous blood sinus present in hagfish. As the sinus extends the entire body length (collected both from the head and tail), the presence of this sinus can be ruled out for stem gnathostomes with a dermal head skeleton with internal impressions."
 
 75. Paired dorsal aortae: 0, absent; 1, present.
-> CMC #95, definition modified; Miyashita *et al*. (2019), Character 76; Miyashita *et al*. (2021), Character 75; Dearden *et al*. (2023), Character 75.
+> Conway Morris and Caron (2014), #95, definition modified; Miyashita *et al*. (2019), Character 76; Miyashita *et al*. (2021), Character 75; Dearden *et al*. (2023), Character 75.
 
 76. Lateral head vein: 0, drains into anterior cardinal vein or its derivative; 1, continues into (or functions as anterior extension of) anterior cardinal vein or its derivative.
-> CMC #42, definition modified; Miyashita *et al*. (2019), Character 77; Miyashita *et al*. (2021), Character 76; Dearden *et al*. (2023), Character 76.
+> Conway Morris and Caron (2014), #42, definition modified; Miyashita *et al*. (2019), Character 77; Miyashita *et al*. (2021), Character 76; Dearden *et al*. (2023), Character 76.
 
 > - Miyashita *et al*. (2019): "The original character (large lateral head vein, absent or present) is vague in definition. Lampreys have (a) a vein collecting from the anterior and middle cerebral regions and (b) a vein collecting from the velar sinus, and both drain into the anterior cardinal vein (208). Hagfish have a cardinal heart (=velar sinus) collecting broadly from the head and draining into anterior cardinal vein (209). Osteostracans have a lateral head vein and an enormous marginal vein that corresponds in position to the anterior cardinal vein in other vertebrates (153, 154, 210). This makes galeaspids unique among jawless vertebrates for having an enormous lateral head vein collecting from the cerebral veins and continues into the anterior cardinal vein (152)."
 
 77. Lymphocytes: 0, absent; 1, present.
-> CMC #43; Miyashita *et al*. (2019), Character 78; Miyashita *et al*. (2021), Character 77; Dearden *et al*. (2023), Character 77.
+> Conway Morris and Caron (2014), #43; Miyashita *et al*. (2019), Character 78; Miyashita *et al*. (2021), Character 77; Dearden *et al*. (2023), Character 77.
 
 78. Lymphocytes antigen receptors: 0, VLR; 1, T and B.
-> CMC #105, coding modified; Miyashita *et al*. (2019), Character 79; Miyashita *et al*. (2021), Character 78; Dearden *et al*. (2023), Character 78.
+> Conway Morris and Caron (2014), #105, coding modified; Miyashita *et al*. (2019), Character 79; Miyashita *et al*. (2021), Character 78; Dearden *et al*. (2023), Character 78.
 
 79. Subaponeurotic vascular plexus: 0, absent; 1, present.
-> CMC #44, coding modified; Miyashita *et al*. (2019), Character 80; Miyashita *et al*. (2021), Character 79; Dearden *et al*. (2023), Character 79.
+> Conway Morris and Caron (2014), #44, coding modified; Miyashita *et al*. (2019), Character 80; Miyashita *et al*. (2021), Character 79; Dearden *et al*. (2023), Character 79.
 
 > - Miyashita *et al*. (2019): "The character is inapplicable to non-vertebrate outgroups."
 
 ## Fins and Fin-folds
 
 80. Body forms, width against height: 0, compressed or subcircular so that branchial openings are lateral; 1, depressed so that branchial openings are ventral.
-> CMC #31, definition modified; Miyashita *et al*. (2019), Character 82; Miyashita *et al*. (2021), Character 80; Dearden *et al*. (2023), Character 80.
+> Conway Morris and Caron (2014), #31, definition modified; Miyashita *et al*. (2019), Character 82; Miyashita *et al*. (2021), Character 80; Dearden *et al*. (2023), Character 80.
 
 > - Miyashita *et al*. (2019): "The original character (openings lateral or ventral) describes body proportions rather than branchial morphology."
 
 81. Endoskeletal fin supports: 0, absent; 1, present.
-> CMC #48, definition modified; Miyashita *et al*. (2019), Character 83; Miyashita *et al*. (2021), Character 81; Dearden *et al*. (2023), Character 81.
+> Conway Morris and Caron (2014), #48, definition modified; Miyashita *et al*. (2019), Character 83; Miyashita *et al*. (2021), Character 81; Dearden *et al*. (2023), Character 81.
 
 > - Miyashita *et al*. (2019): "The original character (fin ray support, absent or present) is modified to distinguish endoskeletal and exoskeletal (dermal) components of the fin skeleton from one another. In the original dataset, fin rays (exoskeleton) and radials (endoskeleton) appear to have been confused. Contrary to the original coding, endoskeletal fin radials are present in hagfish (‘1’) (20, 211, 212). Haikouella is coded as absent (‘0’). The exoskeletal component of the fin skeleton (rays) is parsimoniously uninformative when coded with contingency to mineralized exoskeleton."
 
@@ -573,12 +573,12 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 > - Miyashita *et al*. (2019): "This character is intended to discriminate ingroup relationships of living lampreys; therefore, it is inapplicable outside the crown clade."
 
 84. Fin(s) along dorsal midline originates: 0, above branchial series or anterior to mid-trunk; 1, above anus/anal fin or anterior; 2, posteriorly to anus/anal fin.
-> CMC #46, definition modified; Miyashita *et al*. (2019), Character 86; Miyashita *et al*. (2021), Character 84; Dearden *et al*. (2023), Character 84.
+> Conway Morris and Caron (2014), #46, definition modified; Miyashita *et al*. (2019), Character 86; Miyashita *et al*. (2021), Character 84; Dearden *et al*. (2023), Character 84.
 
 > - Miyashita *et al*. (2019): "The original character (dorsal fin originates above or posterior to branchial series) is contingent on the presence of distinct dorsal fin (#84, this analysis). In the new definition, the character describes functional property (fins along the dorsal midline) rather than specialization (whether dorsal fin should be interpreted as part of fin fold or a distinct unit, and whether taxa with a midline fin extending to the dorsal side should be coded or excluded). To reflect this change, a new landmark (anus/anal fin) is added to accommodate the range of variation. For cephalochordates, Haikouella, Metaspriggina, and Pikaia, the fin fold is distinguished by a deflection in the outline. The fin arguably extends further anteriorly in these taxa, but it is little more than a dorsal midline ridge. By this criterion, all of them except cephalochordates are coded as unknown (‘?’) or inapplicable (‘-’). In the analysis by McCoy and colleagues (36), Astraspis and galeaspids were originally coded for the derived state (‘1’) presumably on the assumption that the fin — if present — would have originated well posterior to the level of the branchial series, but fin morphology is poorly understood for these taxa. Therefore, the coding is unknown (‘?’) for the present analysis."
 
 85. Separate anal fin, or a distinct median ventral fin in postanal tail: 0, absent; 1, present.
-> CMC #47, coding modified; Miyashita *et al*. (2019), Character 87; Miyashita *et al*. (2021), Character 85; Dearden *et al*. (2023), Character 85.
+> Conway Morris and Caron (2014), #47, coding modified; Miyashita *et al*. (2019), Character 87; Miyashita *et al*. (2021), Character 85; Dearden *et al*. (2023), Character 85.
 
 > - Miyashita *et al*. (2019): "In comparison to Euphanerops (77, 213–215), Achanarella is coded for the presence of an anal fin because of the pronounced epidermal ridge anterior to the caudal fin (199). Cornovichthys — a larger euphaneropid from the same locality — has a prominent ventral midline fin. The gut trace above the fin suggests that it sat anterior to the anus, hence not an anal fin (200). See the description of secondary analyses (C4e. Analysis of characters for euphaneropids) for the impact of this and other character scores on the anaspid topologies. As for osteostracans, it is debatable whether the ventral lobe of the terminal fin represents a modified anal fin or constitutes a part of the caudal fin. This is reminiscent of the abnormal anal fin reported for a female of Petromyzon marinus (216). In this analysis, they are coded conservatively as absence of the anal fin."
 
@@ -588,34 +588,34 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 > - Miyashita *et al*. (2019): "This character discriminates thelodonts (217, 218) and is inapplicable to those with macromeric dermal plates forming a head shield (#129, this analysis). However, the margin of the shield in osteostracans and galeaspids may be argued as an epidermal ridge, and the position of the marginal vein (=anterior cardinal vein) in osteostracans indicates that the margin forms in the suprapharyngeal position corresponding to the paired flaps of thelodonts. Incidentally, this domain corresponds to the circumpharyngeal crest (219), or the suprapharyngeal head-trunk boundary. In this analysis, these taxa are coded following this assessment."
 
 87. Constricted pectoral fins with endoskeletal elements: 0, absent; 1, present.
-> CMC #50, coding modified; Miyashita *et al*. (2019), Character 89; Miyashita *et al*. (2021), Character 87; Dearden *et al*. (2023), Character 87.
+> Conway Morris and Caron (2014), #50, coding modified; Miyashita *et al*. (2019), Character 89; Miyashita *et al*. (2021), Character 87; Dearden *et al*. (2023), Character 87.
 
 > - Miyashita *et al*. (2019): "McCoy and colleagues (36) coded pectoral fins as present (‘1’) in hagfish but the correct state is absent (‘0’). Among jawless vertebrates, only osteostracans provide direct evidence of endoskeletal support for the pectoral fins (220, 221), but this condition is likely shared with pituriaspids (88, 187, 218)."
 
 88. Conspicuous preanal skin fold (epidermal ridge): 0, absent; 1, present.
-> CMC #54, definition modified; Miyashita *et al*. (2019), Character 90; Miyashita *et al*. (2021), Character 88; Dearden *et al*. (2023), Character 88.
+> Conway Morris and Caron (2014), #54, definition modified; Miyashita *et al*. (2019), Character 90; Miyashita *et al*. (2021), Character 88; Dearden *et al*. (2023), Character 88.
 
 > - Miyashita *et al*. (2019): "To accommodate taxa with pelvic fins or with paired folds along ventral midline, the original definition (preanal median fold, absent or present) is modified. In Cornovichthys, the branchial series appears to extend close to the ventral fin, and the gut trace extending posteriorly above it (200). The ventral fin is therefore considered preanal. Myllokunmigia is coded as present (‘1’) based on observations of specimens. If Tullimonstrum were to be included, it should be coded as unknown (‘?’) as the presence of skin fold is questioned (103)."
 
 89. Preanal skin fold (epidermal ridge): 0, midline; 1, paired.
-> CMC #49, 106, definition modified; Miyashita *et al*. (2019), Character 91; Miyashita *et al*. (2021), Character 89; Dearden *et al*. (2023), Character 89.
+> Conway Morris and Caron (2014), #49, 106, definition modified; Miyashita *et al*. (2019), Character 91; Miyashita *et al*. (2021), Character 89; Dearden *et al*. (2023), Character 89.
 
 > - Miyashita *et al*. (2019): "The definition now includes pelvic fins as paired preanal epidermal ridges. The taxa without preanal skin fold (#90, this analysis) are coded as inapplicable."
 
 90. Preanal skin fold (epidermal ridge): 0, longitudinal; 1, discrete pelvic fins.
-> CMC #51, definition modified; Miyashita *et al*. (2019), Character 92; Miyashita *et al*. (2021), Character 90; Dearden *et al*. (2023), Character 90.
+> Conway Morris and Caron (2014), #51, definition modified; Miyashita *et al*. (2019), Character 92; Miyashita *et al*. (2021), Character 90; Dearden *et al*. (2023), Character 90.
 
 > - Miyashita *et al*. (2019): "As for pectoral fins, hagfish were miscoded as present in MSL dataset; this is corrected. The taxa without a preanal skin fold (#90, this analysis) are coded inapplicable. Cornovichthys is unique in having a single discrete preanal fin (200)."
 
 91. Caudal fin shape: 0, no distinct lobes developed; 1, ventral lobe much larger than dorsal; 2, dorsal lobe much larger than ventral; 3, dorsal and ventral lobes almost equally developed.
-> CMC #52, coding modified; Miyashita *et al*. (2019), Character 93; Miyashita *et al*. (2021), Character 91; Dearden *et al*. (2023), Character 91.
+> Conway Morris and Caron (2014), #52, coding modified; Miyashita *et al*. (2019), Character 93; Miyashita *et al*. (2021), Character 91; Dearden *et al*. (2023), Character 91.
 
 > - Miyashita *et al*. (2019): "The following changes were made to the MSL dataset based on personal observations of specimens: Euconodonta, Haikouella, hagfish, lampreys (‘0’); euphaneropids and thelodonts (‘1’); arandaspids (‘2’). Tullimonstrum was not considered in this analysis, but it has no distinct lobe in this region (‘0’)."
 
 > - Dearden *et al*. (2023): “We have scored this 1 for *Anglaspis* and *Errivaspis*."
 
 92. Chordal disposition relative to tail development: 0, isochordal; 1, hypochordal; 2, hyperchordal.
-> CMC #53, coding modified; Miyashita *et al*. (2019), Character 94; Miyashita *et al*. (2021), Character 92; Dearden *et al*. (2023), Character 92.
+> Conway Morris and Caron (2014), #53, coding modified; Miyashita *et al*. (2019), Character 94; Miyashita *et al*. (2021), Character 92; Dearden *et al*. (2023), Character 92.
 
 > - Miyashita *et al*. (2019): "Based on personal observation of specimens, Achanarella and Cornovichthys are coded for the hypochordal state (‘1’). Character state would be unknown for Tullimonstrum (‘?’)."
 
@@ -623,7 +623,7 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 
 ## Skeletal System
 93. Skeletal elements consisting of calcium phosphate: 0, absent; 1, present.
-> CMC #55, definition modified；Miyashita *et al*. (2019), Character 95; Miyashita *et al*. (2021), Character 93; Dearden *et al*. (2023), Character 93.
+> Conway Morris and Caron (2014), #55, definition modified；Miyashita *et al*. (2019), Character 95; Miyashita *et al*. (2021), Character 93; Dearden *et al*. (2023), Character 93.
 
 > - Miyashita *et al*. (2019): "The original definition (the endogenous ability to synthesize creatine phosphatase) (23) cannot be assessed adequately in living outgroups because of structural variations and diversity of creatine kinases and because of the lack of exhaustive comparison. Indeed, phosphocreatine and creatine kinase are abundant within and outside vertebrates. The modified definition distinguishes the presence/absence of mineralized skeleton consisting of calcium phosphates (which requires endogenous creatine phosphatase) (222–225). Mineralized ossicles in hemichordates are aragonitic (226) — therefore this taxon is coded as absent."
 
@@ -633,24 +633,24 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of calcification/ossification in endo- and/or exoskeleton (#95, this analysis). Palaeospondylus is coded conservatively as absent (‘0’). The skeleton of Palaeospondylus does not consist of bone, but is histologically best compared to endochondral ossification in osteichthyans or calcified cartilages in Euphanerops (97). So an alternative coding (not used herein) is to score unknown (‘?’). Chondrichthyans are coded the presence on the basis of acanthodians (134, 228, 229), even though bone is absent in the crown group (230)."
 
 95. Cellular bone: 0, absent; 1, present.
-> CMC #79; coding modified; Miyashita *et al*. (2019), Character 97; Miyashita *et al*. (2021), Character 95; Dearden *et al*. (2023), Character 95.
+> Conway Morris and Caron (2014), #79; coding modified; Miyashita *et al*. (2019), Character 97; Miyashita *et al*. (2021), Character 95; Dearden *et al*. (2023), Character 95.
 
 > - Miyashita *et al*. (2019): "The character is contingent on the presence of bone (#96, this analysis). Two alternative coding strategies exist for this and the following character: (a) formulate one character distinguishing acellular against cellular bone or (b) formulate one character each for the presence/absence of acellular and cellular bone. The alternative (a) may be preferable in principle to not weight either of the characters; however, in many taxa acellular and cellular bones coexist (231, 232), and both acellular and cellular bones distribute widely among stem chondrichthyans (acanthodians) and osteichthyans (134, 233–235). So these two tissue types should be treated separately as in the alternative (b). To make the character for acellular bone more specific, and to distinguish types of plywood-like bone in osteichthyans, the following character for the presence/absence of acellular bone is edited to refer specifically to lamellar acellular bone seen in fossil jawless vertebrates."
 
 > - Dearden *et al*. (2023): “We have scored *Athenaegis* ? for this and subsequent characters, as no histological detail is known for the taxon."
 
 96. Lamellar acellular bone (isopedine): 0, absent; 1, present.
-> CMC #78; definition modified; Miyashita *et al*. (2019), Character 98; Miyashita *et al*. (2021), Character 96; Dearden *et al*. (2023), Character 96.
+> Conway Morris and Caron (2014), #78; definition modified; Miyashita *et al*. (2019), Character 98; Miyashita *et al*. (2021), Character 96; Dearden *et al*. (2023), Character 96.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of bone (#96, this analysis). The taxa lacking them are coded as inapplicable (‘-’)."
 
 97. Perichondral bone: 0, absent; 1, present.
-> CMC #74; coding modified; Miyashita *et al*. (2019), Character 99; Miyashita *et al*. (2021), Character 97; Dearden *et al*. (2023), Character 97.
+> Conway Morris and Caron (2014), #74; coding modified; Miyashita *et al*. (2019), Character 99; Miyashita *et al*. (2021), Character 97; Dearden *et al*. (2023), Character 97.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of cartilage and mineralized skeleton (#95, this analysis), so it is inapplicable to the taxa that lack one or both."
 
 98. Calcified cartilage: 0, absent; 1, present.
-> CMC #75; coding modified; Miyashita *et al*. (2019), Character 100; Miyashita *et al*. (2021), Character 98; Dearden *et al*. (2023), Character 98.
+> Conway Morris and Caron (2014), #75; coding modified; Miyashita *et al*. (2019), Character 100; Miyashita *et al*. (2021), Character 98; Dearden *et al*. (2023), Character 98.
 
 > - Miyashita *et al*. (2019): "As in the previous character, it is contingent on the presence of cartilage and mineralized skeleton (#95, this analysis)."
 
@@ -658,7 +658,7 @@ scope of this paper we have scored *Eriptychius*, *Sacabambaspis*, Astraspis*, a
 established. *Sacabambaspis* and *Astraspis* are scored ? as only dermal elements are preserved in fossils: the taphonomic loss of calcified cartilage cannot be ruled out."
 
 99. Cellular cartilages with large mature chondrocytes (30-50 µm in diameter): 0, absent; 1, present.
-> CMC #76; definition modified; Miyashita *et al*. (2019), Character 101; Miyashita *et al*. (2021), Character 99; Dearden *et al*. (2023), Character 99.
+> Conway Morris and Caron (2014), #76; definition modified; Miyashita *et al*. (2019), Character 101; Miyashita *et al*. (2021), Character 99; Dearden *et al*. (2023), Character 99.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of cellular cartilages, so it is inapplicable to taxa 
 lacking them (hemichordates and tunicates). Lacunae occupied by chondrocytes are unusually 
@@ -675,7 +675,7 @@ That original character was split into two because the nested organization of ch
 (‘clumped’) varies independently."
 
 100. Mature chondrocytes: 0, become separated and generally even spaced by extracellular matrix; 1, remain nested in a pair.
-> CMC #76; definition modified; Miyashita *et al*. (2019), Character 102; Miyashita *et al*. (2021), Character 100; Dearden *et al*. (2023), Character 100.
+> Conway Morris and Caron (2014), #76; definition modified; Miyashita *et al*. (2019), Character 102; Miyashita *et al*. (2021), Character 100; Dearden *et al*. (2023), Character 100.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of cellular cartilages, so it is inapplicable to taxa 
 lacking cartilages (hemichordates and tunicates). Lampreys and Euphanerops are unusual in 
@@ -689,7 +689,7 @@ into two, and the present character is now defined on the basis of the mature st
 chondrocytes."
 
 101. Dentine: 0, absent; 1, present.
-> CMC #80; coding modified; Miyashita *et al*. (2019), Character 103; Miyashita *et al*. (2021), Character 101; Dearden *et al*. (2023), Character 101.
+> Conway Morris and Caron (2014), #80; coding modified; Miyashita *et al*. (2019), Character 103; Miyashita *et al*. (2021), Character 101; Dearden *et al*. (2023), Character 101.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of mineralized skeleton (#95, this analysis). The 
 identification of dentine in anaspids (33) is accepted tentatively in this analysis, although some 
@@ -727,13 +727,13 @@ however, the two types coexist in conodonts and some crown gnathostomes. So thes
 types should be treated separately as in alternative (b)."
 
 103. Tubular dentine: 0, absent; 1, present.
-> CMC #80; modified by KD #84; Miyashita *et al*. (2019), Character 105; Miyashita *et al*. (2021), Character 103; Dearden *et al*. (2023), Character 103.
+> Conway Morris and Caron (2014), #80; modified by KD #84; Miyashita *et al*. (2019), Character 105; Miyashita *et al*. (2021), Character 103; Dearden *et al*. (2023), Character 103.
 
 > - Miyashita *et al*. (2019): "The original definition is modified to refer specifically to tubular dentine. Taxa lacking dentine 
 are coded as inapplicable."
 
 104. Tubular dentine, odontoblasts tend to: 0, retreat into pulp cavity; 1, remain in dentinous matrix.
-> CMC #81， definition modified； Miyashita *et al*. (2019), Character 106; Miyashita *et al*. (2021), Character 104; Dearden *et al*. (2023), Character 104.
+> Conway Morris and Caron (2014), #81， definition modified； Miyashita *et al*. (2019), Character 106; Miyashita *et al*. (2021), Character 104; Dearden *et al*. (2023), Character 104.
 
 > - Miyashita *et al*. (2019): "Given the diversity of dentinous tissues among early vertebrates, the original definition 
 (mesodentine or orthodentine) is modified into three independent characters (#106-108, this 
@@ -753,13 +753,13 @@ Turinia in the grade of meta- to orthodentine. Loganellia is coded as having the
 mesodentine."
 
 105. Tubular dentine, interconnections of tubules/canaliculi for odontoblasts tend to be: 0, polarized; 1, non-polarized.
-> CMC #81, definition modified； Miyashita *et al*. (2019), Character 107; Miyashita *et al*. (2021), Character 105; Dearden *et al*. (2023), Character 105.
+> Conway Morris and Caron (2014), #81, definition modified； Miyashita *et al*. (2019), Character 107; Miyashita *et al*. (2021), Character 105; Dearden *et al*. (2023), Character 105.
 
 106. Tubular dentine, interconnections of canaliculi and spacing between odontoblasts tend to be: 0, regular; 1, irregular.
-> CMC #81; definition modified; Miyashita *et al*. (2019), Character 108; Miyashita *et al*. (2021), Character 106; Dearden *et al*. (2023), Character 106.
+> Conway Morris and Caron (2014), #81; definition modified; Miyashita *et al*. (2019), Character 108; Miyashita *et al*. (2021), Character 106; Dearden *et al*. (2023), Character 106.
 
 107. Enamel/oid: 0, absent; 1, present.
-> CMC #82; definition modified; Miyashita *et al*. (2019), Character 109; Miyashita *et al*. (2021), Character 107; Dearden *et al*. (2023), Character 107.
+> Conway Morris and Caron (2014), #82; definition modified; Miyashita *et al*. (2019), Character 109; Miyashita *et al*. (2021), Character 107; Dearden *et al*. (2023), Character 107.
 
 > - Miyashita *et al*. (2019): "As in other characters coding for skeletal tissues, the original character is split into two so that 
 one only refers to the presence/absence and the other describes monotypic versus bitypic. The 
@@ -782,7 +782,7 @@ enamel/oid), however, as naked dentines occur in osteostracans and various crown
 gnathostomes (88, 134, 252)."
 
 108. Enamel/oid: 0, monotypic; 1, bitypic.
-> CMC #82; definition modified; Miyashita *et al*. (2019), Character 110; Miyashita *et al*. (2021), Character 108; Dearden *et al*. (2023), Character 108.
+> Conway Morris and Caron (2014), #82; definition modified; Miyashita *et al*. (2019), Character 110; Miyashita *et al*. (2021), Character 108; Dearden *et al*. (2023), Character 108.
 
 > - Miyashita *et al*. (2019): "The character is contingent on the presence of enamel/oid (#109, this analysis)."
 
@@ -818,7 +818,7 @@ discriminate the condition in taxa such as Lasanius and placoderms, which only h
 coverage of the trunk with mineralized scales/plates."
 
 112. Odontodes: 0, monodontodes; 1, polyodontodes.
-> CMC #108; coding modified; Miyashita *et al*. (2019), Character 114; Miyashita *et al*. (2021), Character 112; Dearden *et al*. (2023), Character 112.
+> Conway Morris and Caron (2014), #108; coding modified; Miyashita *et al*. (2019), Character 114; Miyashita *et al*. (2021), Character 112; Dearden *et al*. (2023), Character 112.
 
 > - Miyashita *et al*. (2019): "In addition to contingency on the presence of odontodes (nested in the presence of dentine 
 [#103], which is further nested in the presence of mineralized dermal skeletons [#95]), this 
@@ -840,7 +840,7 @@ strict consensus topology presented in Fig. S6. All taxa that lack dentine (#103
 were scored as inapplicable."
 
 113. Exoskeleton, organization of superficial layer: 0, spherical; 1, tubular; 2, lamellar.
-> CMC #83; KD #78; definition modified; Miyashita *et al*. (2019), Character 115; Miyashita *et al*. (2021), Character 113; Dearden *et al*. (2023), Character 113.
+> Conway Morris and Caron (2014), #83; KD #78; definition modified; Miyashita *et al*. (2019), Character 115; Miyashita *et al*. (2021), Character 113; Dearden *et al*. (2023), Character 113.
 
 > - Miyashita *et al*. (2019): "The character is contingent on the presence of mineralized exoskeleton (#95, #112, this 
 analysis). All taxa lacking a mineralized exoskeleton are coded as inapplicable. The original 
@@ -873,7 +873,7 @@ character as having a superficial layer of spherical mineralization (237, 238). 
 placoderms is based on a survey of previous works (134, 239–241, 255)."
 
 114. Exoskeleton, vascular/cancellar layer of osteons: 0, absent; 1, present.
-> CMC #83; modified by KD #79; Miyashita *et al*. (2019), Character 116; Miyashita *et al*. (2021), Character 114; Dearden *et al*. (2023), Character 114.
+> Conway Morris and Caron (2014), #83; modified by KD #79; Miyashita *et al*. (2019), Character 116; Miyashita *et al*. (2021), Character 114; Dearden *et al*. (2023), Character 114.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of mineralized exoskeletons (#112, this analysis). 
 Jamoytius conclusively lacks this layer (28), regardless of whether or not this animal had a 
@@ -882,7 +882,7 @@ histology has not been described for this lineage, their endoskeletal shields ar
 minute tubercles without any indication of a thick canncellar middle layer (187)."
 
 115. Exoskeleton, basal tissue: 0, basal lamella; 1, basal attachment.
-> CMC #83; KD #80; definition modified; Miyashita *et al*. (2019), Character 117; Miyashita *et al*. (2021), Character 115; Dearden *et al*. (2023), Character 115.
+> Conway Morris and Caron (2014), #83; KD #80; definition modified; Miyashita *et al*. (2019), Character 117; Miyashita *et al*. (2021), Character 115; Dearden *et al*. (2023), Character 115.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of mineralized exoskeletons (#112, this analysis). 
 As in the superficial layer, the original definition by Keating and Donoghue (33) creates an 
@@ -892,18 +892,18 @@ stem chondrichthyans). The basal attachment consists of acellular bone with abun
 Sharpey’s fibers."
 
 116. Cancellar layer in exoskeleton, with honeycomb-shaped cavities: 0, absent; 1, present.
-> CMC #84; coding modified; Miyashita *et al*. (2019), Character 118; Miyashita *et al*. (2021), Character 116; Dearden *et al*. (2023), Character 116.
+> Conway Morris and Caron (2014), #84; coding modified; Miyashita *et al*. (2019), Character 118; Miyashita *et al*. (2021), Character 116; Dearden *et al*. (2023), Character 116.
 
 > - Miyashita *et al*. (2019): "This character only applies to those that score for having a middle cancellar layer."
 
 117. Scale shape: 0, diamond-shaped; 1, rod-shaped.
-> CMC #86; coding modified; Miyashita *et al*. (2019), Character 119; Miyashita *et al*. (2021), Character 117; Dearden *et al*. (2023), Character 117.
+> Conway Morris and Caron (2014), #86; coding modified; Miyashita *et al*. (2019), Character 119; Miyashita *et al*. (2021), Character 117; Dearden *et al*. (2023), Character 117.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of a mineralized integumentary skeleton (#112, this 
 analysis)."
 
 118. Oak-leaf-shaped tubercles: 0, absent; 1, present.
-> CMC #87; coding modified; Miyashita *et al*. (2019), Character 120; Miyashita *et al*. (2021), Character 118; Dearden *et al*. (2023), Character 118.
+> Conway Morris and Caron (2014), #87; coding modified; Miyashita *et al*. (2019), Character 120; Miyashita *et al*. (2021), Character 118; Dearden *et al*. (2023), Character 118.
 
 > - Miyashita *et al*. (2019): "Shape of tubercles likely reflects mode of growth, whereas shape of scales may be influenced 
 by other spatial factors (such as arrangement and density). This character is contingent on the 
@@ -941,13 +941,13 @@ trunk (#113, this analysis)."
 trunk (#112, this analysis)."
 
 124. Oral plates; 0, absent; 1, present.
-> CMC #88; coding modified; Miyashita *et al*. (2019), Character 126; Miyashita *et al*. (2021), Character 124; Dearden *et al*. (2023), Character 124.
+> Conway Morris and Caron (2014), #88; coding modified; Miyashita *et al*. (2019), Character 126; Miyashita *et al*. (2021), Character 124; Dearden *et al*. (2023), Character 124.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of a mineralized integumentary skeleton (#113, this 
 analysis)."
 
 125. Odontodes: 0, restricted to exoskeleton; 1, extend into in oral cavity; 2, into pharynx.
->  CMC #89; definition modified; Miyashita *et al*. (2019), Character 127; Miyashita *et al*. (2021), Character 125; Dearden *et al*. (2023), Character 125.
+>  Conway Morris and Caron (2014), #89; definition modified; Miyashita *et al*. (2019), Character 127; Miyashita *et al*. (2021), Character 125; Dearden *et al*. (2023), Character 125.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of odontodes (or dentine: #103, this analysis). The 
 original definition (denticles in pharynx, absent or present) is modified to accommodate the 
@@ -956,12 +956,12 @@ euconodonts was evaluated on the basis of P elements (256) and general histologi
 information (243, 245)."
 
 126. Dermal head covering in adult state: 0, absent; 1, present.
-> CMC #90; coding modified; Miyashita *et al*. (2019), Character 128; Miyashita *et al*. (2021), Character 126; Dearden *et al*. (2023), Character 126.
+> Conway Morris and Caron (2014), #90; coding modified; Miyashita *et al*. (2019), Character 128; Miyashita *et al*. (2021), Character 126; Dearden *et al*. (2023), Character 126.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of a mineralized skeleton."
 
 127. Dermal head covering in adult state: 0, micromeric; 1, large (macromeric) dermal plates or shield.
-> CMC #109; coding modified; Miyashita *et al*. (2019), Character 129; Miyashita *et al*. (2021), Character 127; Dearden *et al*. (2023), Character 127.
+> Conway Morris and Caron (2014), #109; coding modified; Miyashita *et al*. (2019), Character 129; Miyashita *et al*. (2021), Character 127; Dearden *et al*. (2023), Character 127.
 
 > - Miyashita *et al*. (2019): "The inapplicable status is assigned to all taxa lacking an integumentary skeleton in the head 
 (#128, this analysis). Micromeric and macromeric elements coexist in the dermal head covering 
@@ -974,7 +974,7 @@ tesserae (Elliott, 1987; Sansom et al., 1997). For the sake of consistency with 
 macromery as it is to micromery."
 
 128. Dermal head covering, macromeric: 0, large unpaired plates covering dorsal and ventral sides; 1, covered by tesserae; 2, multiple plates.
-> CMC #91; definition modified; Miyashita *et al*. (2019), Character 130; Miyashita *et al*. (2021), Character 128; Dearden *et al*. (2023), Character 128.
+> Conway Morris and Caron (2014), #91; definition modified; Miyashita *et al*. (2019), Character 130; Miyashita *et al*. (2021), Character 128; Dearden *et al*. (2023), Character 128.
 
 > - Miyashita *et al*. (2019): "The original definition (large unpaired plates, absent or present) is modified to accommodate 
 variations in the integumentary skeletons of the heads. The exact state in pituriaspids is 
@@ -992,7 +992,7 @@ covering, with an exception of birkeniids."
 analysis)."
 
 130. Endoskeletal contribution to dermal head covering: 0, absent; 1, present.
-> CMC #92; definition 
+> Conway Morris and Caron (2014), #92; definition 
 modified; Miyashita *et al*. (2019), Character 132; Miyashita *et al*. (2021), Character 130; Dearden *et al*. (2023), Character 130.
 
 > - Miyashita *et al*. (2019): "This character refers to calcified or ossified endoskeletal cartilages lining the dermal elements 
@@ -1014,7 +1014,7 @@ character. Contingent on the presence of mineralized exoskeleton in the head (#1
 analysis)."
 
 132. Mineralized endoskeletal circumocular elements (sclerotic elements): 0, absent; 1, present.
-> CMC #93; definition modified; Miyashita *et al*. (2019), Character 134; Miyashita *et al*. (2021), Character 132; Dearden *et al*. (2023), Character 132.
+> Conway Morris and Caron (2014), #93; definition modified; Miyashita *et al*. (2019), Character 134; Miyashita *et al*. (2021), Character 132; Dearden *et al*. (2023), Character 132.
 
 > - Miyashita *et al*. (2019): "The original character (sclerotic ossicles, absent or present) is modified to accommodate 
 different types of endoskeletal circumocular skeleton. The new definition includes sclerotic 
@@ -1023,17 +1023,17 @@ the character is contingent on the presence of mineralized endoskeleton (#111, t
 the inapplicable status has been assigned accordingly."
 
 133. Sclerotic endoskeleton: 0, isolated circumocular elements; 1, eye capsule or stalk.
-> CMC #94; definition modified; Miyashita *et al*. (2019), Character 135; Miyashita *et al*. (2021), Character 133; Dearden *et al*. (2023), Character 133.
+> Conway Morris and Caron (2014), #94; definition modified; Miyashita *et al*. (2019), Character 135; Miyashita *et al*. (2021), Character 133; Dearden *et al*. (2023), Character 133.
 
 > - Miyashita *et al*. (2019): "The original definition (eye capsule, absent or present) is modified to assign isolated sclera to a primitive status and make the character contingent on the presence of mineralized endoskeletal circumocular elements."
 
 134. Fusion of visceral (pharyngeal) skeletal arches to neurocranium: 0, absent; 1, present.
-> CMC #56; coding modified; Miyashita *et al*. (2019), Character 136; Miyashita *et al*. (2021), Character 134; Dearden *et al*. (2023), Character 134.
+> Conway Morris and Caron (2014), #56; coding modified; Miyashita *et al*. (2019), Character 136; Miyashita *et al*. (2021), Character 134; Dearden *et al*. (2023), Character 134.
 
 > - Miyashita *et al*. (2019): "Visceral arches are broadly interpreted in this character as skeletal elements supporting the spaces between pharyngeal slits. In hagfish, the cartilages arising in the pharyngeal arches consist of the facial cartilages (at the level of mandibular arch), visceral plate (at the level of hyoid arch), and the pharyngeal basket lateral to the velum (37, 111, 262). They are all fused to the parachordally derived cartilage near the otic capsule and in the vinicity of the trigeminal and facial nerve roots. Haikouichthys and Metaspriggina are coded on the basis of free pharyngeal skeletal elements (35, 163). Myxinikela has the cartilaginous elements in the branchial region, which is connected to the neurocranial region by what appears to be collagenous structures (71, 263). In hemichordates and tunicates this character is inapplicable."
 
 135. Denticulate/cuspidate elements of feeding apparatus, perioral: 0, absent; 1, present.
-> CMC #58; definition modified; Miyashita *et al*. (2019), Character 137; Miyashita *et al*. (2021), Character 135; Dearden *et al*. (2023), Character 135.
+> Conway Morris and Caron (2014), #58; definition modified; Miyashita *et al*. (2019), Character 137; Miyashita *et al*. (2021), Character 135; Dearden *et al*. (2023), Character 135.
 
 > - Miyashita *et al*. (2019): "The original definition of ‘circumoral teeth’ does not distinguish variants properly. For example, lampreys have multicuspidate piston tooth plates within the buccal cavity and radial circumoral teeth in the oral funnel, whereas hagfish have two pairs of multicuspidate tooth plates. Both were coded originally for the presence of circumoral teeth, but these variations should not be confused. Therefore, the criterion is whether the structures are housed within the buccal cavity or exposed periorally. Absence in jawless stem gnathostomes was evaluated on the basis of whether or not the perioral morphology would allow such structures. The ring of cuspidate plates in Pipiscius is interpreted as a perioral structure outside the buccal cavity, so the coding for this taxon is presence in the perioral region (‘1’) for this character but absence for the character #139 (‘0’). Given common preservation in the local fauna, buccal cuspidate plates similar to those in Gilpichthys and other coeval cyclostomes — if present — would have been preserved in Pipiscius. For these characters (#137, #139), precise tissue types are not distinguished. Both perioral keratinous teeth in lampreys and lip scales in acanthodians qualify for the presence of this character. Likewise, conodont elements and buccal keratinous teeth qualify for the buccal counterpart of this character (#139). Tissue types and functional categories are distinguished in other characters (#126, #127, #140, #141, #142, this analysis)."
 
@@ -1045,22 +1045,22 @@ the inapplicable status has been assigned accordingly."
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of perioral feeding structures (character #137). Perioral plates and lip scales are present broadly among stem gnathostomes, but they are continuous epidermal structures. In contrast, the perioral teeth of lampreys are discontinuous."
 
 137. Denticulate/cuspidate elements of feeding apparatus, housed within buccal cavity: 0, absent; 1, present.
-> CMC #58; definition modified; Miyashita *et al*. (2019), Character 139; Miyashita *et al*. (2021), Character 137; Dearden *et al*. (2023), Character 137.
+> Conway Morris and Caron (2014), #58; definition modified; Miyashita *et al*. (2019), Character 139; Miyashita *et al*. (2021), Character 137; Dearden *et al*. (2023), Character 137.
 
 > - Miyashita *et al*. (2019): "The original character (‘circumoral’ teeth, present or absent) was split into two characters, one describing perioral structures (#137) and this character describing buccal structures."
 
 138. Longitudinally aligned tooth rows providing transverse bite: 0, absent; 1, present.
-> CMC #64; reverted to original definition GCR #64; coding modified; Miyashita *et al*. (2019), Character 140; Miyashita *et al*. (2021), Character 138; Dearden *et al*. (2023), Character 138.
+> Conway Morris and Caron (2014), #64; reverted to original definition GCR #64; coding modified; Miyashita *et al*. (2019), Character 140; Miyashita *et al*. (2021), Character 138; Dearden *et al*. (2023), Character 138.
 
 > - Miyashita *et al*. (2019): "The coding as present in Mayomyzon is based on FMNH FR5687. Myxineidus is coded as present for this character given recent evidence (264). This character is contingent on the presence of buccal feeding elements, which is described by the foregoing character (#139, this analysis)."
 
 139. Perioral/buccal feeding structure consisting of keratin: 0, absent; 1, present.
-> CMC #57;definition modified; Miyashita *et al*. (2019), Character 141; Miyashita *et al*. (2021), Character 139; Dearden *et al*. (2023), Character 139.
+> Conway Morris and Caron (2014), #57;definition modified; Miyashita *et al*. (2019), Character 141; Miyashita *et al*. (2021), Character 139; Dearden *et al*. (2023), Character 139.
 
 > - Miyashita *et al*. (2019): "Invertebrate outgroups are coded as inapplicable for this character. Gilpichthys and Pipiscius are coded conservatively as unknown (‘?’). Geochemical comparison (36) suggests the proposed feeding apparatus in these taxa had a similar composition. This assessment also applies to Tullimonstrum, which was the subject of that paper (36). However, the comparison did not have a reference tissue that is clearly keratin from the same locality. Alternative coding and its effects are discussed in C4c. Analysis of characters for Pipiscius and C4d. Analysis of characters for Gilpichthys."
 
 140. Feeding apparatus forming a pulley-like system of cartilages and protractor-retractor complex derived from mandibular arch: 0, absent; 1, present.
-> CMC #62; definition modified; Miyashita *et al*. (2019), Character 142; Miyashita *et al*. (2021), Character 140; Dearden *et al*. (2023), Character 140.
+> Conway Morris and Caron (2014), #62; definition modified; Miyashita *et al*. (2019), Character 142; Miyashita *et al*. (2021), Character 140; Dearden *et al*. (2023), Character 140.
 
 > - Miyashita *et al*. (2019): "The original character (piston cartilage and apical plate, absent or present) only applies to 
 lampreys. It was therefore redefined to include the lingual and dental apparatus of hagfish, as 
@@ -1083,7 +1083,7 @@ other characters."
 > - Dearden *et al*. (2023): “This is unknown in heterostracans, where no cartilages are preserved, and is changed from 0 to ?."
 
 141. Jaws (dorsoventral bite): 0, absent; 1, present.
-> CMC #65; coding modified; Miyashita *et al*. (2019), Character 143; Miyashita *et al*. (2021), Character 141; Dearden *et al*. (2023), Character 141.
+> Conway Morris and Caron (2014), #65; coding modified; Miyashita *et al*. (2019), Character 143; Miyashita *et al*. (2021), Character 141; Dearden *et al*. (2023), Character 141.
 
 > - Miyashita *et al*. (2019): "This character is incompatible with the character #140 because the transversely and vertically 
 biting apparatus cannot coexist. Therefore, those taxa scored as present for the transverse biting 
@@ -1095,7 +1095,7 @@ apparatus are scored as inapplicable for this character."
 > - Miyashita *et al*. (2019): "This character only applies to potential myxinoids. Euconodonts are inapplicable."
 
 143. Radially organized circumoral denticulate/cuspidate plates: 0, absent; 1, present.
-> CMC #59; definition modified; Miyashita *et al*. (2019), Character 145; Miyashita *et al*. (2021), Character 143; Dearden *et al*. (2023), Character 143.
+> Conway Morris and Caron (2014), #59; definition modified; Miyashita *et al*. (2019), Character 145; Miyashita *et al*. (2021), Character 143; Dearden *et al*. (2023), Character 143.
 
 > - Miyashita *et al*. (2019): "This character describes externally exposed, radially organized circumoral teeth. This character 
 cannot be scored for taxa with oral plates or jaws. Pipiscius is coded as unknown for this 
@@ -1117,13 +1117,13 @@ Miyashita *et al*. (2021): "This character represents a new addition to the data
 and Potter (74)."
 
 146. Cartilaginous trematic rings: 0, absent; 1, present.
-> CMC #60; coding modified; Miyashita *et al*. (2019), Character 147; Miyashita *et al*. (2021), Character 146; Dearden *et al*. (2023), Character 146.
+> Conway Morris and Caron (2014), #60; coding modified; Miyashita *et al*. (2019), Character 147; Miyashita *et al*. (2021), Character 146; Dearden *et al*. (2023), Character 146.
 
 > - Miyashita *et al*. (2019): "The extrabranchial cartilages in hagfish are considered provisionally as comparable to trematic 
 rings in lampreys (111)."
 
 147. Axial skeleton (in addition to notochord): 0, absent; 1, present.
-> CMC #61; definition 
+> Conway Morris and Caron (2014), #61; definition 
 modified; Miyashita *et al*. (2019), Character 148; Miyashita *et al*. (2021), Character 147; Dearden *et al*. (2023), Character 147.
 
 > - Miyashita *et al*. (2019): "he original character (arcualia, absent or present) does not capture the diversity of sclerotome￾derived axial skeletons in vertebrates because the distribution of arcualia can be variably 
@@ -1152,7 +1152,7 @@ C4h. Exclusion of Tullimonstrum)."
 > Miyashita *et al*. (2019), Character 150; Miyashita *et al*. (2021), Character 149; Dearden *et al*. (2023), Character 149.
 
 150. Axial skeletons around dorsal aorta (=haemal arches): 0, absent; 1, present.
-> CMC #107; definition modified; Miyashita *et al*. (2019), Character 151; Miyashita *et al*. (2021), Character 150; Dearden *et al*. (2023), Character 150.
+> Conway Morris and Caron (2014), #107; definition modified; Miyashita *et al*. (2019), Character 151; Miyashita *et al*. (2021), Character 150; Dearden *et al*. (2023), Character 150.
 
 > - Miyashita *et al*. (2019): "In the dataset by McCoy and colleagues (36), hagfish are given the state (‘2’) that is not 
 explained in the character description."
@@ -1165,7 +1165,7 @@ cranial cartilage identified in Metaspriggina (35) sits in the position of a not
 (111). This is provisionally interpreted as a parachordal cartilage."
 
 152. Braincase with lateral walls: 0, absent; 1, present.
-> CMC #67; Miyashita *et al*. (2019), Character 153; Miyashita *et al*. (2021), Character 152; Dearden *et al*. (2023), Character 152.
+> Conway Morris and Caron (2014), #67; Miyashita *et al*. (2019), Character 153; Miyashita *et al*. (2021), Character 152; Dearden *et al*. (2023), Character 152.
 
 > - Miyashita *et al*. (2019): "The character is contingent on the presence of a tripartite brain and parachordal cartilages (#4, 
 152, this analysis)."
@@ -1173,14 +1173,14 @@ cranial cartilage identified in Metaspriggina (35) sits in the position of a not
 > - Dearden *et al*. (2023): “Due to the preservation of only the preorbital region in *Eriptychius* we have coded it unknown for this character."
 
 153. Occiput enclosing vagus and glossopharyngeal nerves: 0, absent; 1, present.
-> CMC #69; coding 
+> Conway Morris and Caron (2014), #69; coding 
 modified; Miyashita *et al*. (2019), Character 154; Miyashita *et al*. (2021), Character 153; Dearden *et al*. (2023), Character 153.
 
 > - Miyashita *et al*. (2019): "Invertebrate outgroups are inapplicable for this character because they have no precise 
 counterparts to cranial nerves."
 
 154. Annular cartilage: 0, absent; 1, present.
-> CMC #70; coding modified; Miyashita *et al*. (2019), Character 155; Miyashita *et al*. (2021), Character 154; Dearden *et al*. (2023), Character 154.
+> Conway Morris and Caron (2014), #70; coding modified; Miyashita *et al*. (2019), Character 155; Miyashita *et al*. (2021), Character 154; Dearden *et al*. (2023), Character 154.
 
 > - Miyashita *et al*. (2019): "The structure is incompatible with the jaw (annular and jaw cartilages cannot coexist in the 
 same animal) so jawed gnathostomes are scored as inapplicable (‘-’). There is no evidence for 
@@ -1192,13 +1192,13 @@ morphology of the circumoral keratinous teeth in lampreys (73). The presence of 
 in Lasanius is on the basis of MNHN specimens under study."
 
 155. Large oral disc: 0, absent; 1, present.
-> CMC #71; coding modified; Miyashita *et al*. (2019), Character 156; Miyashita *et al*. (2021), Character 155; Dearden *et al*. (2023), Character 155.
+> Conway Morris and Caron (2014), #71; coding modified; Miyashita *et al*. (2019), Character 156; Miyashita *et al*. (2021), Character 155; Dearden *et al*. (2023), Character 155.
 
 > - Miyashita *et al*. (2019): "Myxineidus is coded for the presence (‘1’) (264), whereas Achanarella, Ciderius, 
 Cornovichthys, and Haikouella for the absence (‘0’)."
 
 156. Barbels supported by cartilages: 0, absent; 1, present.
-> CMC #72; definition modified; Miyashita *et al*. (2019), Character 157; Miyashita *et al*. (2021), Character 156; Dearden *et al*. (2023), Character 156.
+> Conway Morris and Caron (2014), #72; definition modified; Miyashita *et al*. (2019), Character 157; Miyashita *et al*. (2021), Character 156; Dearden *et al*. (2023), Character 156.
 
 > - Miyashita *et al*. (2019): "The character definition has been modified to allow assessment based on the outline. The 
 cartilages supporting the barbels in living hagfish are susceptible to decay (2). The barbels in 
@@ -1228,13 +1228,13 @@ midline (cyclostome upper lip) (#66, this analysis)."
 ## Miscellaneous Characters
 
 159. Male gametes shed directly through the coelom: 0, absent; 1, present.
-> CMC #97; coding 
+> Conway Morris and Caron (2014), #97; coding 
 modified; Miyashita *et al*. (2019), Character 160; Miyashita *et al*. (2021), Character 159; Dearden *et al*. (2023), Character 159.
 
 > - Miyashita *et al*. (2019): "Hagfish are coded as present for this character."
 
 160. Postotic myomeres migrate anteriorly to the position of eye: 0, absent; 1, present absent.
-> CMC 
+> Conway Morris and Caron (2014), 
 #98; coding modified; Miyashita *et al*. (2019), Character 161; Miyashita *et al*. (2021), Character 160; Dearden *et al*. (2023), Character 160.
 
 > - Miyashita *et al*. (2019): "Forward migration of the anterior myomeres occurs in hagfish. The character assumes the 
