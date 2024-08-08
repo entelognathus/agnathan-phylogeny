@@ -6,6 +6,8 @@ From Miyashita *et al*. (2021) to Dearden *et al*. (2023), Arandaspida and Heter
 
 CMC, Conway Morris and Caron (2014); GCR, Gess et al. (2006); GDS, Gabbott et al. (2016); HSM, Heimberg et al. (2010); KLV, Khonsari et al. (2009); KD, Keating and Donoghue (2016); MH, Mallatt and Holland (2013); MSL, McCoy et al. (2016).
 
+Characters of Conway Morris and Caron (2014) deleted in Miyashita *et al*. (2019) and the follow-up datasets
+
 ## Brain, Sensory, and Nervous systems
 1. Skeletal derivatives of neural crest: 0, absent; 1, present.
 > Conway Morris and Caron (2014), Character 1: definition modified; Miyashita *et al*. (2019), Character 1; Miyashita *et al*. (2021), Character 1; Dearden *et al*. (2023), Character 1.
@@ -1311,6 +1313,48 @@ clear break in distribution exists around the count of 90-110 (197)."
 
 Keating and Donoghue (2016), combined from Sansom et al, 2010; Blom, 2012; Conway-Maris and Caron, 2014; and Donoghue et al. (2000).
 1 Neural_crest_, 2 Olfactory_peduncles, 3 Pineal_organ_, 4 Adenohypophysis, 5 Adenohypophysis, 6 Optic_tectum_, 7 Cerebellar_primordia_, 8 Pretrematic_branches_in_branchial_nerves, 9 Flattened_spinal_chord_, 10 Ventral_and_dorsal_spinal_nerve_roots_united, 11 Mauthner_fibres_in_central_nervous_system, 12 Retina, 13 Olfactory_organ_with_external_opening_, 14 'Nasohypophyseal opening serving respiration (nasohypophyseal duct)', 15 Single_nasohypophyseal_opening, 16 Position_of_nasohypophyseal_opening, 17 Olfactory_organ_unpaired_, 18 Extrinsic_eye_musculature, 19 Otic_capsule_anterior_to_branchial_series, 20 Semicircular_canals_in_labyrinth, 21 Vertical_semicircular_canals_forming_loops_that_are_separate_from_the_roof_of_the_utriculus, 22 Externally_open_endolymphatic_ducts, 23 Electroreceptive_cells_, 24 Sensory_lines_, 25 'Sensory-lines on head only', 26 'Sensory-line enclosed in grooves ', 27 'Pouch-shaped gills', 28 Single_confluent_branchial_opening, 29 Elongate_branchial_series, 30 Gill_openings_lateral_and_arranged_in_slanting_row, 31 Position_of_gill_openings, 32 Opercular_flaps_associated_with_gill_openings, 33 Endodermal_gill_lamellae, 34 Gill_lamellae_with_filaments, 35 Mouth, 36 Oral_hood_, 37 Velum, 38 'Multi-chamber heart ', 39 Closed_pericardium, 40 Open_blood_system, 41 Paired_dorsal_aortae, 42 Large_lateral_head_vein_, 43 Lymphocytes, 44 Subaponeurotic_vascular_plexus_, 45 Dorsal_fin, 46 'Dorsal fin (position)', 47 Anal_fin_separate, 48 Fin_ray_supports, 49 'Paired antero-posterior skin folds ', 50 Constricted_pectoral_fins_with_endoskeletal_elements_, 51 'Pelvic fins/flap', 52 Tail_shape, 53 Chordal_disposition_relative_to_tail_development, 54 Preanal_median_fold_, 55 Ability_to_synthesise_creatine_phosphatase, 56 Visceral_arches_fused_to_the_neurocranium_, 57 Keratinous_teeth, 58 Circumoral_teeth_, 59 Circumoral_teeth_arranged_in_radiating_series, 60 Trematic_rings, 61 Arcualia_, 62 Piston_cartilage_and_apical_plate, 63 Midline_retractor_muscle_and_paired_protractor_muscles, 64 Transversely_biting_teeth_, 65 'Jaws (dorsoventral bite', 66 'Chondroitin 6-sulphate in cartilage', 67 Braincase_with_lateral_walls, 68 Neurocranium_entirely_closed_dorsally_and_covering_the_brain, 69 Occiput_enclosing_vagus_and_glossopharyngeal_nerves, 70 Annular_cartilage_, 71 Large_oral_disc, 72 Tentacle_cartilages, 73 Trunk_dermal_skeleton_, 74 Perichondral_bone_, 75 Calcified_cartilage, 76 Cartilage_composed_of_huge_clumped_chondrocytes, 77 Calcified_dermal_skeleton_, 78 Odontogenic_superficial_layer_of_dermal_skeleton, 79 Osteonal_vascular_middle_layer_of_the_dermal_skeleton, 80 Basal_laminated_layer_of_the_dermal_skeleton, 81 Isopedine, 82 Cellular_bone, 83 Dentine_, 84 Tubular_dentine, 85 'Tubular dentine present as mesodentine = 0, orthodentine = 1', 86 Enameloid, 87 'Cancellar layer in exoskeleton, with honeycomb-shaped cavities', 88 Scale_shape, 89 Costulate_tubercles, 90 'Oak-leaf-shaped tubercles', 91 Oral_plates, 92 Denticles_in_pharynx_, 93 Dermal_head_covering_in_adult_state_, 94 Large_unpaired_ventral_and_dorsal_dermal_plates_on_head, 95 Pineal_plate, 96 Massive_endoskeletal_head_shield_covering_the_gills_dorsally, 97 Sclerotic_ossicles_, 98 Ossified_endoskeletal_sclera_encapsulating_the_eyeCharacter_96, 99 High_blood_pressure, 100 Hyperosmoregulation, 101 Male_gametes_shed_directly_through_the_coelom, 102 Forward_migration_of_postotic_myomeres, 103 Larval_phase, 104 Pineal_opening, 105 External_nasal_opening, 106 Number_of_semicircular_canals_, 107 Neuromasts_in_sensory_lines_, 108 Relative_position_of_atrium_and_ventricle_of_heart, 109 Lymphocytes_antigen_receptors_, 110 'Paired antero-posterior skin folds extend along the trunk', 111 Ventral_arcualia, 112 Odontodes, 113 Head_skeleton, 114 'Inflected myomeres present in post-larval stage ', 115 Complex_myomere_shape, 116 Triradiate_postbranchial_spine, 117 Median_Dorsal_ridge_scales, 118 Hook_shaped_median_dorsal_ridge_scales, 119 Vascular_canal_system_in_dermal_scales_and_plates, 120 Scales_with_visceral_ribs ; 
+
+## Characters of Conway Morris and Caron (2014) deleted in Miyashita *et al*. (2019) and the follow-up datasets
+#5 (adenohypophysis, simple versus complex): parsimony-uninformative. 
+
+#6 (optic tectum, absent or present): parsimony-uninformative.
+
+#20 (semicircular canals, absent or present): parsimony-uninformative.
+
+#33 (endodermal branchial lamellae, absent or present): parsimony-uninformative.
+
+#34 (branchial lamellae with filaments, absent or present): parsimony-uninformative.
+
+#36 (oral hood, absent or present): this character is redundant with the oral funnel/disc after re-coding.
+
+#63 (midline retractor muscle and paired protoractor muscles, absent or present): the definition does not provide accurate description of the morphology.
+
+#66 (chondroitin 6-sulphate, absent or present): parsimony-uninformative when re-coded.
+
+#68 (neurocranium entirely closed dorsally, absent or present): parsimony-uninformative when re-coded.
+
+#85 (scales/denticles/teeth composed of odontodes, absent or present): this character is constant after re-coding.
+
+#96 (hyperosmoregulation, absent or present): the character is insufficiently defined.
+
+#99 (larval phase, absent or present): the character is vaguely defined.
+
+#103 (neuromasts in sensory lines, absent or present): parsimony-uninformative after recoding.
+
+#104 (relative position of atrium and ventricle of heart, well separated or close to each other): this character is invariable.
+
+#113 (mandibular branchial bar, absent or present): invariable character.
+
+#114 (first pharyngeal bar (mandibular), undifferentiated or differentiated): the character is insufficiently defined.
+
+#115 (eyes, absent/unpaired/ocelli or paired): redundant with CMC #12.
+
+#116 (notochord, absent or present): parsimony-uninformative.
+
+GDS #72 (dermal skeleton in trunk, absent or present) is largely redundant with another character (#112, mineralized exoskeleton, present or absent) and is parsimony-uninformative when coded as contingent on that character.
+
+GDS #109 (inflected myomeres in post-larval stage, absent or present): parsimonyuninformative after re-coding.
+
 
 
 **References**
