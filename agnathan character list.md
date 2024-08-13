@@ -4,7 +4,7 @@ From the original dataset of Miyashita *et al*. (2019), two characters (#44, #81
 
 From Miyashita *et al*. (2021) to Dearden *et al*. (2023), Arandaspida and Heterostraci are removed;  *Anglaspis*, *Eriptychius*, *Errivaspis*, *Sacabambaspis* are added; *Astraspis* and *Athenaegis* are modified.
 
-CMC, Conway Morris and Caron (2014); GCR, Gess et al. (2006); GDS, Gabbott et al. (2016); HSM, Heimberg et al. (2010); KLV, Khonsari et al. (2009); KD, Keating and Donoghue (2016); MH, Mallatt and Holland (2013); MSL, McCoy et al. (2016).
+*CMC*, Conway Morris and Caron (2014); GCR, Gess et al. (2006); GDS, Gabbott et al. (2016); HSM, Heimberg et al. (2010); KLV, Khonsari et al. (2009); *KD*, Keating and Donoghue (2016); MH, Mallatt and Holland (2013); MSL, McCoy et al. (2016).
 
 ## Brain, Sensory, and Nervous systems
 1. Skeletal derivatives of neural crest: 0, absent; 1, present.
@@ -1745,7 +1745,12 @@ the vertebrate head. Brain Behav. Evol. 96, 305–317 (2022).
 formation of Hunan Province, China. Hist. Biol. https://doi.org/10.1080/08912963.2023.22
 25083 (2023).
 
+54. Walcott, C. D. Preliminary notes on the discovery of a vertebrate fauna in Silurian 
+(Ordovician) strata. Bull. Geol. Soc. Am. 3, 153–172 (1892).
 
+55. Allulee, J. & Holland, S. The sequence stratigraphic and environmental context of 
+primitive vertebrates: Harding Sandstone, Upper Ordovician, Colorado, USA. Palaios 20, 
+518–533 (2005).
 
 56. Ørvig, T. Histologic studies of ostracoderms, placoderms and fossil elasmobranchs. 6. 
 Hard tissues of Ordovician vertebrates. Zoologica Scripta 18, 427–446 (1989).
