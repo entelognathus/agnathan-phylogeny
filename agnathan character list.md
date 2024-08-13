@@ -1586,129 +1586,191 @@ Zhang, Y. et al. The first galeaspid fish (stem-gnathostomata) from the Silurian
 
 Gans, C. in The Skull Vol. 2 (eds. Hanken, J. & Hall, B. K.) 1–35 (Chicago Univ. Press, 
 1993).
+
 2. Janvier, P. Early Vertebrates (Clarendon, 1996).
+
 3. Janvier, P. in The Skull Vol. 2 (eds. Hanken, J. & Hall, B. K.) 131–188 (Chicago Univ. Press, 
 1993).
+
 4. Shu, D.-G. et al. Head and backbone of the Early Cambrian vertebrate Haikouichthys. 
 Nature 421, 775–778 (2003).
+
 5. Morris, S. C. & Caron, J. A primitive fish from the Cambrian of North America. Nature 512, 
 419–422 (2014).
+
 6. Janvier, P. Vertebrate characters and the Cambrian vertebrates. C.R. Palevol 2, 523–531 
 (2003).
+
 7. Gai, Z., Donoghue, P. C. J., Zhu, M., Janvier, P. & Stampanoni, M. Fossil jawless fish from 
 China foreshadows early jawed vertebrate anatomy. Nature 476, 324–327 (2011).
+
 8. Denison, R. H. Ordovician vertebrates from Western United States. Fieldiana 16, 131–192 
 (1967)
+
 9. Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbeltiere. I. 
 Lieferung. Lampetra fluviatilis (Deuticke, 1954).
+
 10. Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbeltiere. II. 
 Lieferung. Myxine glutinosa (Deuticke, 1956).
+
 11. Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbeltiere. III. 
 Lieferung. Squalus acanthias (Deuticke, 1959).
+
 12. Kuratani, S. & Ahlberg, P. E. Evolution of the vertebrate neurocranium: problems of the 
 premandibular domain and the origin of the trabecula. Zool. Lett. 4, 1 (2018).
+
 13. De Beer, G. R. The Development of the Vertebrate Skull (Clarendon, 1937).
+
 14. Goujet, D. Les Poissons Placodermes du Spitsberg. Arthrodires Dolichothoraci de la 
 Formation de Wood Bay (Dévonien Inférieur) (Cahiers de Pale;ontologie) (Éditions du 
 CNRS, 1984).
+
 15. Janvier, P. Les Céphalaspides du Spitsberg. Anatomie, Phylogénie et Systématique des 
 Ostéostracés Siluro-dévoniens. Révision des Ostéostracés de la Formation de Wood Bay 
 (Dévonien Inférieur du Spitsberg) (Cahiers d e Paléontologie) (Éditions du CNRS, 1985).
+
 16. Giles, S., Friedman, M. & Brazeau, M. D. Osteichthyan-like cranial conditions in an Early 
 Devonian stem gnathostome. Nature 520, 82–175 (2015).
+
 17. Chevrinais, M., Morel, C., Renaud, C. B. & Cloutier, R. Ontogeny of Euphanerops longaevus
 from the Upper Devonian Miguasha Fossil–Fish–Lagerstätte and comparison with the 
 skeletogenesis of the sea lamprey Petromyzon marinus. Can. J. Earth Sci. 60, 35–365 (2023).
+
 18. Reeves, J. C., Wogelius, R. A., Keating, J. N. & Sansom, R. S. Lasanius, an exceptionally 
 preserved Silurian jawless fish from Scotland. Palaeontology 66, e12643 (2023).
+
 19. Stensiö, E. in Traité de Paléontologie (ed. Piveteau, J.) 96–383 (Masson, 1964).
+
 20. Halstead Tarlo, L. B. & Whiting, H. P. A new interpretation of the internal anatomy of the 
 Heterostraci (Agnatha). Nature 206, 148–150 (1965).
+
 21. Janvier, P. & Blieck, A. L. B. Halstead and the heterostracan controversy. Mod. Geol. 18, 
 89–105 (1993).
+
 22. Gai, Z., Zhu, M. & Donoghue, P. C. J. The circulatory system of Galeaspida (Vertebrata: 
 stem-gnathostomata) revealed by synchrotron X-ray tomographic microscopy. 
 Palaeoworld 28, 441–460 (2019).
+
 23. Gai, Z., Zhu, M., Ahlberg, P. E. & Donoghue, P. C. J. The evolution of the spiracular region 
 from jawless fishes to tetrapods. Front. Ecol. Evol. 10, 887172 (2022).
+
 24. Young, G. C. Ordovician microvertebrate remains from the Amadeus Basin, central 
 Australia. J. Vertebr. Paleontol. 17, 1–25 (1997).
+
 25. Eastman, C. R. Fossil fishes in the collection of the United States National Museum. Proc. 
 US Natl Mus. 52, 235–304 (1917).
+
 26. Bryant, W. L. A study of the oldest known vertebrates, Astraspis and Eriptychius. Proc. Am. 
 Phil. Soc. 76, 409–427 (1936).
+
 27. Ritchie, A. & Gilbert-Tomlinson, J. First Ordovician vertebrates from the Southern 
 Hemisphere. Alcheringa 1, 351–368 (1977).
+
 28. Lehtola, K. A. Articulated Ordovician fish from Cañon City, Colorado. J. Paleontol. 57, 
 605–607 (1983).
+
 29. Gagnier, P.-Y., Blieck, A. R. M. & Gabriela S, R. First Ordovician vertebrate from South 
 America. Geobios 19, 629–634 (1986).
+
 30. Elliott, D. K. A reassessment of Astraspis desiderata, the oldest North American 
 vertebrate. Science 237, 190–192 (1987).
+
 31. Gagnier, P. Sacabambaspis janvieri, vertebre Ordovicien de Bolivie. I. Analyse 
 morphologique. Ann. Paléontol. 79, 19–69 (1993).
+
 32. Gagnier, P. Sacabambaspis janvieri, vertebre Ordovicien de Bolivie. II. Analyse 
 phylogénétique. Ann. Paléontol. 79, 119–166 (1993).
+
 33. Sansom, I. J., Smith, M., Smith, M. M. & Turner, P. Astraspis the anatomy and histology of 
 an Ordovician fish. Palaeontology 40, 625–643 (1997).
+
 34. Pradel, A. et al. The tail of the Ordovician fish Sacabambaspis. Biol. Lett. 3, 73–76 (2007).
+
 35. Donoghue, P. C. J., Forey, P. L. & Aldridge, R. J. Conodont affinity and chordate phylogeny. 
 Biol. Rev. 75, 191–251 (2000).
+
 36. Wang, N., Donoghue, P. C. J., Smith, M. M., Sansom, I. J. & Nian-zhong, W. Histology 
 of the galeaspid dermoskeleton and endoskeleton and the origin and early evolution 
 of the vertebrate cranial endoskeleton. J. Vertebr. Paleontol. 25, 745–756 (2005).
+
 37. Ørvig, T. Pycnaspis splendens, new genus, new species, a new ostracoderm from the 
 Upper Ordovician of North America. Proc. US Natl Mus. 108, 1–23 (1958).
+
 38. Dean, M. N., Socha, J. J., Hall, B. K. & Summers, A. P. Canaliculi in the tessellated skeleton 
 of cartilaginous fishes. J. Appl. Ichthyol. 26, 263–267 (2010).
+
 39. Marconi, A., Hancock-Ronemus, A. & Gillis, J. A. Adult chondrogenesis and spontaneous 
 cartilage repair in the skate, Leucoraja erinacea. eLife 9, e53414 (2020).
+
 40. Pernègre, V. N. The genus Doryaspis White (Heterostraci) from the Lower Devonian of 
 Vestspitsbergen, Svalbard. J. Vertebr. Paleontol. 22, 735–746 (2003).
+
 41. Gross, W. Drepanaspis gemuendenensis Schlüter. Neuuntersuchung. Palaeontographica A
 121, 133–155 (1963).
+
 42. Hilliard, R. W., Potter, I. C. & Macey, D. J. The dentition and feeding mechanism in adults of 
 the Southern Hemisphere lamprey Geotria australis Gray. Acta Zool. 66, 159–170 (1985).
+
 43. Clark, A. J. & Summers, A. P. Morphology and kinematics of feeding in hagfish: possible 
 functional advantages of jaws. J. Exp. Biol. 210, 3897–3909 (2007).
+
 44. Heintz, A. in Problemes Actuels de Paléontologie (Évolution des Vertébrés) (ed. Lehman, J. P.) 
 13–29 (Éditions du CNRS, 1961).
+
 45. Miyashita, T. et al. Hagfish from the Cretaceous Tethys Sea and a reconciliation of the morphological–molecular conflict in early vertebrate phylogeny. Proc. Natl Acad. Sci. USA 116, 2146–2151 (2019).
+
 46. Miyashita, T., Gess, R. W., Tietjen, K. & Coates, M. I. Non-ammocoete larvae of Palaeozoic stem lampreys. Nature 591, 408–412 (2021).
+
 47. Blieck A. R. M. Les Hétérostracés Pteraspidiformes (Éditions du CNRS, 1984).
+
 48. Denison, R. H. The Cyathaspididae; a family of Silurian and Devonian jawless vertebrates. 
 Fieldiana 13, 311–473 (1964).
+
 49. Gabbott, S. E., Aldridge, R. J. & Theron, J. N. A giant conodont with preserved muscle 
 tissue from the Upper Ordovician of South Africa. Nature 374, 800–803 (1995).
+
 50. Janvier, P. & Arsenault, M. The anatomy of Euphanerops longaevus Woodward, 1900, 
 an anapsid-like vertebrate from the Upper Devonian of Miguasha, Quebec, Canada. 
 Geodiversitas 29, 143–216 (2007).
- Sansom, R. S., Freedman, K., Gabbott, S. E., Aldridge, R. J. & Purnell, M. A. Taphonomy 
+
+51 Sansom, R. S., Freedman, K., Gabbott, S. E., Aldridge, R. J. & Purnell, M. A. Taphonomy 
 and affinity of an enigmatic Silurian vertebrate, Jamoytius kerwoodi White. Palaeontology
 53, 1393–1409 (2010).
+
 52. Sugahara, F., Murakami, Y., Pascual-Anaya, J. & Kuratani, S. Forebrain architecture and 
 development in cyclostomes, with reference to the early morphology and evolution of 
 the vertebrate head. Brain Behav. Evol. 96, 305–317 (2022).
+
 53. Zhang, Y. et al. The first galeaspid fish (stem-gnathostomata) from the Silurian Xiushan 
 formation of Hunan Province, China. Hist. Biol. https://doi.org/10.1080/08912963.2023.22
 25083 (2023).
 
+
+
 56. Ørvig, T. Histologic studies of ostracoderms, placoderms and fossil elasmobranchs. 6. 
 Hard tissues of Ordovician vertebrates. Zoologica Scripta 18, 427–446 (1989).
+
 57. Smith, M. M. & Hall, B. K. Vertebrate skeletogenic and odontogenic tissues. Biological 
 Reviews 65, 277–373 (1990).
+
 58. Halstead, L. B. The Heterostracan Fishes. Biological Reviews 48, 279–332 (1973).
+
 59. Kiaer, J. The Downtonian and Devonian vertebrates of Spitsbergen IV Suborder 
 Cyathaspida. Skrifter om Svalbard og Ishavet (1932).
+
 60. Blieck, A. & Heintz, N. The cyathaspids of the Red Bay Group (Lower Devonian) of 
 Spitsbergen. Polar Research 1, 49–74 (1983).
+
 61. Keating, J. N., Marquart, C. L. & Donoghue, P. C. J. Histology of the heterostracan 
 dermal skeleton: Insight into the origin of the vertebrate mineralised skeleton. Journal of 
 Morphology 276, 657–680 (2015).
+
 62. Soehn, K.L. and Wilson, M.V.H. A complete, articulated heterostracan from Wenlockian 
 (Silurian) beds of the Delorme Group, Mackenzie Mountains, Northwest Territories, Canada. 
 Journal of Vertebrate Paleontology 10 405-419 (1990)
+
 63. White, E.I. The ostracoderm Pteraspis KNER and the relationships of the agnathous 
 vertebrates. Phil. Trans. Roy. Soc. Lon. B 225 381-456 (1935)
+
 64. Sansom, I.J., Donoghue, P.C.J., Albanesi, G. Histology and affinity of the earliest 
 armoured vertebrates. Biology Letters. 1 446-449 (2005
