@@ -727,7 +727,7 @@ however, the two types coexist in conodonts and some crown gnathostomes. So thes
 types should be treated separately as in alternative (b)."
 
 103. Tubular dentine: 0, absent; 1, present.
-> Conway Morris and Caron (2014), #80; modified by KD #84; Miyashita *et al*. (2019), Character 105; Miyashita *et al*. (2021), Character 103; Dearden *et al*. (2023), Character 103.
+> Conway Morris and Caron (2014), #80; modified by Keating and Donoghue (2016),  #84; Miyashita *et al*. (2019), Character 105; Miyashita *et al*. (2021), Character 103; Dearden *et al*. (2023), Character 103.
 
 > - Miyashita *et al*. (2019): "The original definition is modified to refer specifically to tubular dentine. Taxa lacking dentine 
 are coded as inapplicable."
@@ -840,7 +840,7 @@ strict consensus topology presented in Fig. S6. All taxa that lack dentine (#103
 were scored as inapplicable."
 
 113. Exoskeleton, organization of superficial layer: 0, spherical; 1, tubular; 2, lamellar.
-> Conway Morris and Caron (2014), #83; KD #78; definition modified; Miyashita *et al*. (2019), Character 115; Miyashita *et al*. (2021), Character 113; Dearden *et al*. (2023), Character 113.
+> Conway Morris and Caron (2014), #83; Keating and Donoghue (2016),  #78; definition modified; Miyashita *et al*. (2019), Character 115; Miyashita *et al*. (2021), Character 113; Dearden *et al*. (2023), Character 113.
 
 > - Miyashita *et al*. (2019): "The character is contingent on the presence of mineralized exoskeleton (#95, #112, this 
 analysis). All taxa lacking a mineralized exoskeleton are coded as inapplicable. The original 
@@ -873,7 +873,7 @@ character as having a superficial layer of spherical mineralization (237, 238). 
 placoderms is based on a survey of previous works (134, 239–241, 255)."
 
 114. Exoskeleton, vascular/cancellar layer of osteons: 0, absent; 1, present.
-> Conway Morris and Caron (2014), #83; modified by KD #79; Miyashita *et al*. (2019), Character 116; Miyashita *et al*. (2021), Character 114; Dearden *et al*. (2023), Character 114.
+> Conway Morris and Caron (2014), #83; modified by Keating and Donoghue (2016),  #79; Miyashita *et al*. (2019), Character 116; Miyashita *et al*. (2021), Character 114; Dearden *et al*. (2023), Character 114.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of mineralized exoskeletons (#112, this analysis). 
 Jamoytius conclusively lacks this layer (28), regardless of whether or not this animal had a 
@@ -882,7 +882,7 @@ histology has not been described for this lineage, their endoskeletal shields ar
 minute tubercles without any indication of a thick canncellar middle layer (187)."
 
 115. Exoskeleton, basal tissue: 0, basal lamella; 1, basal attachment.
-> Conway Morris and Caron (2014), #83; KD #80; definition modified; Miyashita *et al*. (2019), Character 117; Miyashita *et al*. (2021), Character 115; Dearden *et al*. (2023), Character 115.
+> Conway Morris and Caron (2014), #83; Keating and Donoghue (2016),  #80; definition modified; Miyashita *et al*. (2019), Character 117; Miyashita *et al*. (2021), Character 115; Dearden *et al*. (2023), Character 115.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of mineralized exoskeletons (#112, this analysis). 
 As in the superficial layer, the original definition by Keating and Donoghue (33) creates an 
@@ -912,30 +912,30 @@ presence of a mineralized integumentary skeleton (#112, this analysis)."
 > - Dearden *et al*. (2023): “Although in previous versions of this matrix they were scored present, oak-leaf shaped tubercles are absent in *Astraspis* (Elliott, 1987; Sansom et al., 1997). They are also absent in Eriptychius (Denison, 1967). We have scored both taxa absent for this character. At present the only taxon with this character present is *Sacabambaspis*, so the character is uninformative but is kept in to preserve the character number scheme."
 
 119. Triradiate postbranchial spines: 0, absent; 1, present.
-> KD #116; Miyashita *et al*. (2019), Character 121; Miyashita *et al*. (2021), Character 119; Dearden *et al*. (2023), Character 119.
+> Keating and Donoghue (2016),  #116; Miyashita *et al*. (2019), Character 121; Miyashita *et al*. (2021), Character 119; Dearden *et al*. (2023), Character 119.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of a mineralized integumentary skeleton in the 
 trunk (#113, this analysis)."
 
 120. Median dorsal ridge scales: 0, absent; 1, present.
-> KD #117; Miyashita *et al*. (2019), Character 122; Miyashita *et al*. (2021), Character 120; Dearden *et al*. (2023), Character 120.
+> Keating and Donoghue (2016),  #117; Miyashita *et al*. (2019), Character 122; Miyashita *et al*. (2021), Character 120; Dearden *et al*. (2023), Character 120.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of a mineralized integumentary skeleton in the 
 trunk (#113, this analysis)."
 
 121. Median dorsal ridge scales: 0, simple; 1, hooked.
-> KD #118; Miyashita *et al*. (2019), Character 123; Miyashita *et al*. (2021), Character 121; Dearden *et al*. (2023), Character 121.
+> Keating and Donoghue (2016),  #118; Miyashita *et al*. (2019), Character 123; Miyashita *et al*. (2021), Character 121; Dearden *et al*. (2023), Character 121.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of median dorsal ridge scales (#126, this analysis)."
 
 122. Vascular canal systems in integumentary skeleton: 0, absent; 1, present.
-> KD #119; Miyashita *et al*. (2019), Character 124; Miyashita *et al*. (2021), Character 122; Dearden *et al*. (2023), Character 122.
+> Keating and Donoghue (2016),  #119; Miyashita *et al*. (2019), Character 124; Miyashita *et al*. (2021), Character 122; Dearden *et al*. (2023), Character 122.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of a mineralized integumentary skeleton in the 
 trunk (#113, this analysis)."
 
 123. Scales: 0, without visceral ribs; 1, with visceral ribs.
-> KD #120; Miyashita *et al*. (2019), Character 125; Miyashita *et al*. (2021), Character 123; Dearden *et al*. (2023), Character 123.
+> Keating and Donoghue (2016),  #120; Miyashita *et al*. (2019), Character 125; Miyashita *et al*. (2021), Character 123; Dearden *et al*. (2023), Character 123.
 
 > - Miyashita *et al*. (2019): "This character is contingent on the presence of a mineralized integumentary skeleton in the 
 trunk (#112, this analysis)."
@@ -1211,13 +1211,7 @@ PR8472) is currently studied, and it appears to have nasohypophyseal barbels."
 157. Forked subnasal cartilage: 0, absent; 1, present.
 > GDS #112; coding modified; Miyashita *et al*. (2019), Character 158; Miyashita *et al*. (2021), Character 157; Dearden *et al*. (2023), Character 157.
 
-> - Miyashita *et al*. (2019): "This character is only applicable to those in which the posthypophyseal processes meet at the 
-midline. The presence/absence of subnasal cartilage is treated conservatively as a separate 
-character from the presence/absence of tectal cartilages. It could be argued that the 
-posthypophyseal processes forming a prominent oral roof in lampreys precludes rod-like 
-cartilages supporting sensory structures in principle, and the processes forming the floor of the 
-nasohypophyseal canal in hagfish also precludes tectal cartilages. However, this reasoning is 
-based solely on the two living forms of cyclostomes and is therefore circular."
+> - Miyashita *et al*. (2019): "This character is only applicable to those in which the posthypophyseal processes meet at the midline. The presence/absence of subnasal cartilage is treated conservatively as a separate character from the presence/absence of tectal cartilages. It could be argued that the posthypophyseal processes forming a prominent oral roof in lampreys precludes rod-like cartilages supporting sensory structures in principle, and the processes forming the floor of the nasohypophyseal canal in hagfish also precludes tectal cartilages. However, this reasoning is based solely on the two living forms of cyclostomes and is therefore circular."
 
 158. Tectal cartilages: 0, absent; 1, present.
 > MSL #117; coding modified; Miyashita *et al*. (2019), Character 159; Miyashita *et al*. (2021), Character 158; Dearden *et al*. (2023), Character 158.
@@ -1237,27 +1231,12 @@ modified; Miyashita *et al*. (2019), Character 160; Miyashita *et al*. (2021), C
 > Conway Morris and Caron (2014), 
 #98; coding modified; Miyashita *et al*. (2019), Character 161; Miyashita *et al*. (2021), Character 160; Dearden *et al*. (2023), Character 160.
 
-> - Miyashita *et al*. (2019): "Forward migration of the anterior myomeres occurs in hagfish. The character assumes the 
-absence of myomeres in the head and is therefore inapplicable to invertebrate chordates that 
-lack one or more of the key attributes to assess character states. Instead, taxa with clear 
-cephalization may be coded with the preservation of myomeric structures — these include 
-Metaspriggina and conodonts. The position and orientation of spinal nerves in galeaspids and 
-osteostracans indicate that the myomeres did not have anterior migration in a fashion similar to 
-cyclostomes."
+> - Miyashita *et al*. (2019): "Forward migration of the anterior myomeres occurs in hagfish. The character assumes the absence of myomeres in the head and is therefore inapplicable to invertebrate chordates that lack one or more of the key attributes to assess character states. Instead, taxa with clear cephalization may be coded with the preservation of myomeric structures — these include Metaspriggina and conodonts. The position and orientation of spinal nerves in galeaspids and osteostracans indicate that the myomeres did not have anterior migration in a fashion similar to cyclostomes."
 
 161. Inflected myomeres: 0, Z-shaped; 1, W-shaped.
 > GDS #110; Miyashita *et al*. (2019), Character 142; Miyashita *et al*. (2021), Character 161; Dearden *et al*. (2023), Character 161.
 
-> - Miyashita *et al*. (2019): "The taxa lacking myomeres or having simple myomeres are designated as inapplicable. 
-Haikouella is coded as Z-shaped myomeres (‘0’) for having a gentle inflection (94, 117). The 
-‘myomeres’ in Metapspriggina are interpreted as unusually thick myosepta, but this does not 
-affect identification of the state. W-sheped myomeres are observed in some specimens of 
-Gilpichthys and Pipiscius that are currently under study (e.g., FMNH PF8475, PF8346). The 
-putative myomeric structures of Tullimonstrum (36) seem to represent some kind of segment 
-boundaries (this does not preclude its potential place in arthropods) rather than segments 
-themselves. If myomeres were present in this animal, the preserved structured would be 
-myosepta. They only show minor inflection, if at all, despite the complex shape reconstructed 
-by McCoy and colleagues (36)."
+> - Miyashita *et al*. (2019): "The taxa lacking myomeres or having simple myomeres are designated as inapplicable. Haikouella is coded as Z-shaped myomeres (‘0’) for having a gentle inflection (94, 117). The ‘myomeres’ in Metapspriggina are interpreted as unusually thick myosepta, but this does not affect identification of the state. W-sheped myomeres are observed in some specimens of Gilpichthys and Pipiscius that are currently under study (e.g., FMNH PF8475, PF8346). The putative myomeric structures of Tullimonstrum (36) seem to represent some kind of segment boundaries (this does not preclude its potential place in arthropods) rather than segments themselves. If myomeres were present in this animal, the preserved structured would be myosepta. They only show minor inflection, if at all, despite the complex shape reconstructed by McCoy and colleagues (36)."
 
 162. Digestive tract: 0, follows pharynx; 1, passes (or loops) over branchial apparatus.
 > Miyashita *et al*. (2019), Character 163; Miyashita *et al*. (2021), Character 162; Dearden *et al*. (2023), Character 162.
@@ -1360,9 +1339,179 @@ by McCoy and colleagues (36)."
 
 33 Endodermal_gill_lamellae, 
 
-34 Gill_lamellae_with_filaments, 35 Mouth, 36 Oral_hood_, 37 Velum, 38 'Multi-chamber heart ', 39 Closed_pericardium, 40 Open_blood_system, 41 Paired_dorsal_aortae, 42 Large_lateral_head_vein_, 43 Lymphocytes, 44 Subaponeurotic_vascular_plexus_, 45 Dorsal_fin, 46 'Dorsal fin (position)', 47 Anal_fin_separate, 48 Fin_ray_supports, 49 'Paired antero-posterior skin folds ', 50 Constricted_pectoral_fins_with_endoskeletal_elements_, 51 'Pelvic fins/flap', 52 Tail_shape, 53 Chordal_disposition_relative_to_tail_development, 54 Preanal_median_fold_, 55 Ability_to_synthesise_creatine_phosphatase, 56 Visceral_arches_fused_to_the_neurocranium_, 57 Keratinous_teeth, 58 Circumoral_teeth_, 59 Circumoral_teeth_arranged_in_radiating_series, 60 Trematic_rings, 61 Arcualia_, 62 Piston_cartilage_and_apical_plate, 63 Midline_retractor_muscle_and_paired_protractor_muscles, 64 Transversely_biting_teeth_, 65 'Jaws (dorsoventral bite', 66 'Chondroitin 6-sulphate in cartilage', 67 Braincase_with_lateral_walls, 68 Neurocranium_entirely_closed_dorsally_and_covering_the_brain, 69 Occiput_enclosing_vagus_and_glossopharyngeal_nerves, 70 Annular_cartilage_, 71 Large_oral_disc, 72 Tentacle_cartilages, 73 Trunk_dermal_skeleton_, 74 Perichondral_bone_, 75 Calcified_cartilage, 76 Cartilage_composed_of_huge_clumped_chondrocytes, 77 Calcified_dermal_skeleton_, 78 Odontogenic_superficial_layer_of_dermal_skeleton, 79 Osteonal_vascular_middle_layer_of_the_dermal_skeleton, 80 Basal_laminated_layer_of_the_dermal_skeleton, 81 Isopedine, 82 Cellular_bone, 83 Dentine_, 84 Tubular_dentine, 85 'Tubular dentine present as mesodentine = 0, orthodentine = 1', 86 Enameloid, 87 'Cancellar layer in exoskeleton, with honeycomb-shaped cavities', 88 Scale_shape, 89 Costulate_tubercles, 90 'Oak-leaf-shaped tubercles', 91 Oral_plates, 92 Denticles_in_pharynx_, 93 Dermal_head_covering_in_adult_state_, 94 Large_unpaired_ventral_and_dorsal_dermal_plates_on_head, 95 Pineal_plate, 96 Massive_endoskeletal_head_shield_covering_the_gills_dorsally, 97 Sclerotic_ossicles_, 98 Ossified_endoskeletal_sclera_encapsulating_the_eyeCharacter_96, 99 High_blood_pressure, 100 Hyperosmoregulation, 101 Male_gametes_shed_directly_through_the_coelom, 102 Forward_migration_of_postotic_myomeres, 103 Larval_phase, 104 Pineal_opening, 105 External_nasal_opening, 106 Number_of_semicircular_canals_, 107 Neuromasts_in_sensory_lines_, 108 Relative_position_of_atrium_and_ventricle_of_heart, 109 Lymphocytes_antigen_receptors_, 110 'Paired antero-posterior skin folds extend along the trunk', 111 Ventral_arcualia, 112 Odontodes, 113 Head_skeleton, 114 'Inflected myomeres present in post-larval stage ', 115 Complex_myomere_shape, 116 Triradiate_postbranchial_spine, 117 Median_Dorsal_ridge_scales, 118 Hook_shaped_median_dorsal_ridge_scales, 119 Vascular_canal_system_in_dermal_scales_and_plates, 120 Scales_with_visceral_ribs ; 
+34 Gill_lamellae_with_filaments, 
 
-## Characters of Conway Morris and Caron (2014) deleted in Miyashita *et al*. (2019) and the follow-up datasets
+35 Mouth, 36 Oral_hood_, 
+
+37 Velum, 
+
+38 'Multi-chamber heart ', 
+
+39 Closed_pericardium, 
+
+40 Open_blood_system, 
+
+41 Paired_dorsal_aortae, 
+
+42 Large_lateral_head_vein_, 
+
+43 Lymphocytes, 
+
+44 Subaponeurotic_vascular_plexus_, 
+
+45 Dorsal_fin, 
+
+46 'Dorsal fin (position)', 
+
+47 Anal_fin_separate, 
+
+48 Fin_ray_supports, 
+
+49 'Paired antero-posterior skin folds ', 
+
+50 Constricted_pectoral_fins_with_endoskeletal_elements_, 
+
+51 'Pelvic fins/flap', 
+
+52 Tail_shape, 
+
+53 Chordal_disposition_relative_to_tail_development, 
+
+54 Preanal_median_fold_, 
+
+55 Ability_to_synthesise_creatine_phosphatase, 
+
+56 Visceral_arches_fused_to_the_neurocranium_, 
+
+57 Keratinous_teeth, 
+
+58 Circumoral_teeth_, 
+
+59 Circumoral_teeth_arranged_in_radiating_series, 
+
+60 Trematic_rings, 
+
+61 Arcualia_, 
+
+62 Piston_cartilage_and_apical_plate, 
+
+63 Midline_retractor_muscle_and_paired_protractor_muscles, 
+
+64 Transversely_biting_teeth_, 
+
+65 'Jaws (dorsoventral bite', 
+
+66 'Chondroitin 6-sulphate in cartilage', 
+
+67 Braincase_with_lateral_walls, 
+
+68 Neurocranium_entirely_closed_dorsally_and_covering_the_brain, 
+
+69 Occiput_enclosing_vagus_and_glossopharyngeal_nerves, 
+
+70 Annular_cartilage_, 
+
+71 Large_oral_disc, 
+
+72 Tentacle_cartilages, 
+
+73 Trunk_dermal_skeleton_, 
+
+74 Perichondral_bone_, 
+
+75 Calcified_cartilage, 
+
+76 Cartilage_composed_of_huge_clumped_chondrocytes, 
+
+77 Calcified_dermal_skeleton_, 
+
+78 Odontogenic_superficial_layer_of_dermal_skeleton, 
+
+79 Osteonal_vascular_middle_layer_of_the_dermal_skeleton, 
+
+80 Basal_laminated_layer_of_the_dermal_skeleton, 
+
+81 Isopedine, 
+
+82 Cellular_bone, 
+
+83 Dentine_, 
+
+84 Tubular_dentine, 
+
+85 'Tubular dentine present as mesodentine = 0, orthodentine = 1', 
+
+86 Enameloid, 
+
+87 'Cancellar layer in exoskeleton, with honeycomb-shaped cavities', 
+
+88 Scale_shape, 
+
+89 Costulate_tubercles, 
+
+90 'Oak-leaf-shaped tubercles', 
+
+91 Oral_plates, 
+
+92 Denticles_in_pharynx_, 
+
+93 Dermal_head_covering_in_adult_state_, 
+
+94 Large_unpaired_ventral_and_dorsal_dermal_plates_on_head, 
+
+95 Pineal_plate, 
+
+96 Massive_endoskeletal_head_shield_covering_the_gills_dorsally, 
+
+97 Sclerotic_ossicles_, 
+
+98 Ossified_endoskeletal_sclera_encapsulating_the_eyeCharacter_96, 
+
+99 High_blood_pressure, 
+
+100 Hyperosmoregulation, 
+
+101 Male_gametes_shed_directly_through_the_coelom, 
+
+102 Forward_migration_of_postotic_myomeres, 
+
+103 Larval_phase, 
+
+104 Pineal_opening, 
+
+105 External_nasal_opening, 
+
+106 Number_of_semicircular_canals_, 
+
+107 Neuromasts_in_sensory_lines_, 
+
+108 Relative_position_of_atrium_and_ventricle_of_heart, 
+
+109 Lymphocytes_antigen_receptors_, 
+
+110 'Paired antero-posterior skin folds extend along the trunk', 
+
+111 Ventral_arcualia, 
+
+112 Odontodes, 
+
+113 Head_skeleton, 
+
+114 'Inflected myomeres present in post-larval stage ', 
+
+115 Complex_myomere_shape, 
+
+116 Triradiate_postbranchial_spine, 
+
+117 Median_Dorsal_ridge_scales, 
+
+118 Hook_shaped_median_dorsal_ridge_scales, 
+
+119 Vascular_canal_system_in_dermal_scales_and_plates, 
+
+120 Scales_with_visceral_ribs ; 
+
+### Characters of Conway Morris and Caron (2014) deleted in Miyashita *et al*. (2019) and the follow-up datasets
 #5 (adenohypophysis, simple versus complex): parsimony-uninformative. 
 
 #6 (optic tectum, absent or present): parsimony-uninformative.
