@@ -1185,12 +1185,12 @@ Gabbott et al. (2016) #72 (dermal skeleton in trunk, absent or present) is large
 
 Gabbott et al. (2016) #109 (inflected myomeres in post-larval stage, absent or present): parsimonyuninformative after re-coding.
 
-
-
-**References**
+## References
 Blom H. 2012 New birkeniid anaspid from the Lower Devonian of Scotland and its phylogenetic implications. Palaeontology 55, 641– 652. (doi:10.1111/j.1475-4983.2012.01142.x
 
 Conway-Morris S, Caron J-B. 2014 A primitive fish from the Cambrian of North America. Nature 512, 419– 422. (doi:10.1038/nature13414)
+
+De Beer, G. R. The Development of the Vertebrate Skull (Clarendon, 1937).
 
 Denison, R. H. Ordovician vertebrates from Western United States. Fieldiana 16, 131–192 (1967)
 
@@ -1200,9 +1200,31 @@ Donoghue PCJ, Forey PL, Aldridge RJ. 2000. Conodont affinity and chordate phylog
 
 Elliott, D. K. A reassessment of Astraspis desiderata, the oldest North American vertebrate. Science 237, 190–192 (1987).
 
+Gai, Z., Donoghue, P. C. J., Zhu, M., Janvier, P. & Stampanoni, M. Fossil jawless fish from China foreshadows early jawed vertebrate anatomy. Nature 476, 324–327 (2011).
+
 Gagnier, P. *Sacabambaspis janvieri*, vertebre Ordovicien de Bolivie. I. Analyse morphologique. Ann. Paléontol. 79, 19–69 (1993).
 
+Gans, C. in The Skull Vol. 2 (eds. Hanken, J. & Hall, B. K.) 1–35 (Chicago Univ. Press, 1993).
+
+Giles, S., Friedman, M. & Brazeau, M. D. Osteichthyan-like cranial conditions in an Early Devonian stem gnathostome. Nature 520, 82–175 (2015).
+
+Goujet, D. Les Poissons Placodermes du Spitsberg. Arthrodires Dolichothoraci de la Formation de Wood Bay (Dévonien Inférieur) (Cahiers de Paléontologie) (Éditions du CNRS, 1984).
+
+Janvier, P. Les Céphalaspides du Spitsberg. Anatomie, Phylogénie et Systématique des Ostéostracés Siluro-dévoniens. Révision des Ostéostracés de la Formation de Wood Bay (Dévonien Inférieur du Spitsberg) (Cahiers de Paléontologie) (Éditions du CNRS, 1985).
+
+Janvier, P. in The Skull Vol. 2 (eds. Hanken, J. & Hall, B. K.) 131–188 (Chicago Univ. Press, 1993).
+
 Janvier, P. Early Vertebrates (Clarendon, 1996).
+
+Janvier, P. Vertebrate characters and the Cambrian vertebrates. C.R. Palevol 2, 523–531 (2003).
+
+Kuratani, S. & Ahlberg, P. E. Evolution of the vertebrate neurocranium: problems of the premandibular domain and the origin of the trabecula. Zool. Lett. 4, 1 (2018).
+
+Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbeltiere. I. Lieferung. *Lampetra fluviatilis* (Deuticke, 1954).
+
+Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbeltiere. II. Lieferung. *Myxine glutinosa* (Deuticke, 1956).
+
+Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbeltiere. III. Lieferung. *Squalus acanthias* (Deuticke, 1959).
 
 Miyashita, T. et al. Hagfish from the Cretaceous Tethys Sea and a reconciliation of the morphological–molecular conflict in early vertebrate phylogeny. Proc. Natl Acad. Sci. USA 116, 2146–2151 (2019).
 
@@ -1212,58 +1234,45 @@ Sansom, I. J., Smith, M., Smith, M. M. & Turner, P. *Astraspis* the anatomy and 
 
 Sansom RS, Freedman K, Gabbott SE, Aldridge RJ, Purnell MA. 2010 Taphonomy and affinity of an enigmatic Silurian vertebrate, Jamoytius kerwoodi White. Palaeontology 53, 1393 – 1409. (doi:10.1111/j.1475-4983.2010.01019.x
 
+Shu, D.-G. et al. Head and backbone of the Early Cambrian vertebrate *Haikouichthys*. Nature 421, 775–778 (2003).
+
 Soehn, K.L. and Wilson, M.V.H. A complete, articulated heterostracan from Wenlockian (Silurian) beds of the Delorme Group, Mackenzie Mountains, Northwest Territories, Canada. Journal of Vertebrate Paleontology 10 405-419 (1990)
 
 Zhang, Y. et al. The first galeaspid fish (stem-gnathostomata) from the Silurian Xiushan formation of Hunan Province, China. Hist. Biol. https://doi.org/10.1080/08912963.2023.22 25083 (2023)
 
 
-Gans, C. in The Skull Vol. 2 (eds. Hanken, J. & Hall, B. K.) 1–35 (Chicago Univ. Press, 
-1993).
+
+1. Gans, C. in The Skull Vol. 2 (eds. Hanken, J. & Hall, B. K.) 1–35 (Chicago Univ. Press, 1993).
 
 2. Janvier, P. Early Vertebrates (Clarendon, 1996).
 
-3. Janvier, P. in The Skull Vol. 2 (eds. Hanken, J. & Hall, B. K.) 131–188 (Chicago Univ. Press, 
-1993).
+3. Janvier, P. in The Skull Vol. 2 (eds. Hanken, J. & Hall, B. K.) 131–188 (Chicago Univ. Press, 1993).
 
-4. Shu, D.-G. et al. Head and backbone of the Early Cambrian vertebrate Haikouichthys. 
-Nature 421, 775–778 (2003).
+4. Shu, D.-G. et al. Head and backbone of the Early Cambrian vertebrate *Haikouichthys*. Nature 421, 775–778 (2003).
 
-5. Morris, S. C. & Caron, J. A primitive fish from the Cambrian of North America. Nature 512, 
-419–422 (2014).
+5. Conway-Morris, S. & Caron, J. A primitive fish from the Cambrian of North America. Nature 512, 419–422 (2014).
 
-6. Janvier, P. Vertebrate characters and the Cambrian vertebrates. C.R. Palevol 2, 523–531 
-(2003).
+6. Janvier, P. Vertebrate characters and the Cambrian vertebrates. C.R. Palevol 2, 523–531 (2003).
 
-7. Gai, Z., Donoghue, P. C. J., Zhu, M., Janvier, P. & Stampanoni, M. Fossil jawless fish from 
-China foreshadows early jawed vertebrate anatomy. Nature 476, 324–327 (2011).
+7. Gai, Z., Donoghue, P. C. J., Zhu, M., Janvier, P. & Stampanoni, M. Fossil jawless fish from China foreshadows early jawed vertebrate anatomy. Nature 476, 324–327 (2011).
 
-8. Denison, R. H. Ordovician vertebrates from Western United States. Fieldiana 16, 131–192 
-(1967)
+8. Denison, R. H. Ordovician vertebrates from Western United States. Fieldiana 16, 131–192 (1967).
 
-9. Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbeltiere. I. 
-Lieferung. Lampetra fluviatilis (Deuticke, 1954).
+9. Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbeltiere. I. Lieferung. *Lampetra fluviatilis* (Deuticke, 1954).
 
-10. Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbeltiere. II. 
-Lieferung. Myxine glutinosa (Deuticke, 1956).
+10. Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbeltiere. II. Lieferung. *Myxine glutinosa* (Deuticke, 1956).
 
-11. Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbeltiere. III. 
-Lieferung. Squalus acanthias (Deuticke, 1959).
+11. Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbeltiere. III. Lieferung. *Squalus acanthias* (Deuticke, 1959).
 
-12. Kuratani, S. & Ahlberg, P. E. Evolution of the vertebrate neurocranium: problems of the 
-premandibular domain and the origin of the trabecula. Zool. Lett. 4, 1 (2018).
+12. Kuratani, S. & Ahlberg, P. E. Evolution of the vertebrate neurocranium: problems of the premandibular domain and the origin of the trabecula. Zool. Lett. 4, 1 (2018).
 
 13. De Beer, G. R. The Development of the Vertebrate Skull (Clarendon, 1937).
 
-14. Goujet, D. Les Poissons Placodermes du Spitsberg. Arthrodires Dolichothoraci de la 
-Formation de Wood Bay (Dévonien Inférieur) (Cahiers de Pale;ontologie) (Éditions du 
-CNRS, 1984).
+14. Goujet, D. Les Poissons Placodermes du Spitsberg. Arthrodires Dolichothoraci de la Formation de Wood Bay (Dévonien Inférieur) (Cahiers de Paléontologie) (Éditions du CNRS, 1984).
 
-15. Janvier, P. Les Céphalaspides du Spitsberg. Anatomie, Phylogénie et Systématique des 
-Ostéostracés Siluro-dévoniens. Révision des Ostéostracés de la Formation de Wood Bay 
-(Dévonien Inférieur du Spitsberg) (Cahiers d e Paléontologie) (Éditions du CNRS, 1985).
+15. Janvier, P. Les Céphalaspides du Spitsberg. Anatomie, Phylogénie et Systématique des Ostéostracés Siluro-dévoniens. Révision des Ostéostracés de la Formation de Wood Bay (Dévonien Inférieur du Spitsberg) (Cahiers de Paléontologie) (Éditions du CNRS, 1985).
 
-16. Giles, S., Friedman, M. & Brazeau, M. D. Osteichthyan-like cranial conditions in an Early 
-Devonian stem gnathostome. Nature 520, 82–175 (2015).
+16. Giles, S., Friedman, M. & Brazeau, M. D. Osteichthyan-like cranial conditions in an Early Devonian stem gnathostome. Nature 520, 82–175 (2015).
 
 17. Chevrinais, M., Morel, C., Renaud, C. B. & Cloutier, R. Ontogeny of Euphanerops longaevus
 from the Upper Devonian Miguasha Fossil–Fish–Lagerstätte and comparison with the 
