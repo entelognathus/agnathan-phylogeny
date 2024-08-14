@@ -1292,6 +1292,8 @@ Reeves, J. C., Wogelius, R. A., Keating, J. N. & Sansom, R. S. *Lasanius*, an ex
 
 Ritchie, A. & Gilbert-Tomlinson, J. First Ordovician vertebrates from the Southern Hemisphere. Alcheringa 1, 351–368 (1977).
 
+Sansom, I.J., Donoghue, P.C.J., Albanesi, G. Histology and affinity of the earliest armoured vertebrates. Biology Letters. 1 446-449 (2005).
+
 Sansom, I. J., Smith, M., Smith, M. M. & Turner, P. *Astraspis* the anatomy and histology of an Ordovician fish. Palaeontology 40, 625–643 (1997).
 
 Sansom, R. S., Freedman, K., Gabbott, S. E., Aldridge, R. J. & Purnell, M. A. Taphonomy and affinity of an enigmatic Silurian vertebrate, *Jamoytius kerwoodi* White. Palaeontology 53, 1393–1409 (2010).
@@ -1443,5 +1445,4 @@ Zhang, Y. et al. The first galeaspid fish (stem-gnathostomata) from the Silurian
 
 63. White, E.I. The ostracoderm Pteraspis KNER and the relationships of the agnathous vertebrates. Phil. Trans. Roy. Soc. Lon. B 225 381-456 (1935)
 
-64. Sansom, I.J., Donoghue, P.C.J., Albanesi, G. Histology and affinity of the earliest 
-armoured vertebrates. Biology Letters. 1 446-449 (2005
+64. Sansom, I.J., Donoghue, P.C.J., Albanesi, G. Histology and affinity of the earliest armoured vertebrates. Biology Letters. 1 446-449 (2005).
