@@ -1220,6 +1220,8 @@ Elliott, D. K. A reassessment of *Astraspis desiderata*, the oldest North Americ
 
 Gabbott, S. E., Aldridge, R. J. & Theron, J. N. A giant conodont with preserved muscle tissue from the Upper Ordovician of South Africa. Nature 374, 800–803 (1995).
 
+Gabbott SE, et al. (2016) Pigmented anatomy in Carboniferous cyclostomes and the evolution of the vertebrate eye. Proc R Soc B 283(1836):20161151.
+
 Gai, Z., Donoghue, P. C. J., Zhu, M., Janvier, P. & Stampanoni, M. Fossil jawless fish from China foreshadows early jawed vertebrate anatomy. Nature 476, 324–327 (2011).
 
 Gai, Z., Zhu, M. & Donoghue, P. C. J. The circulatory system of Galeaspida (Vertebrata: stem-gnathostomata) revealed by synchrotron X-ray tomographic microscopy. Palaeoworld 28, 441–460 (2019).
@@ -1234,6 +1236,8 @@ Gagnier, P.-Y., Blieck, A. R. M. & Gabriela S, R. First Ordovician vertebrate fr
 
 Gans, C. in The Skull Vol. 2 (eds. Hanken, J. & Hall, B. K.) 1–35 (Chicago Univ. Press, 1993).
 
+Gess RW, Coates MI, Rubidge BS (2006) A lamprey from the Devonian period of South Africa. Nature 443(7114):981–984.
+
 Giles, S., Friedman, M. & Brazeau, M. D. Osteichthyan-like cranial conditions in an Early Devonian stem gnathostome. Nature 520, 82–175 (2015).
 
 Goujet, D. Les Poissons Placodermes du Spitsberg. Arthrodires Dolichothoraci de la Formation de Wood Bay (Dévonien Inférieur) (Cahiers de Paléontologie) (Éditions du CNRS, 1984).
@@ -1243,6 +1247,8 @@ Gross, W. *Drepanaspis gemuendenensis* Schlüter. Neuuntersuchung. Palaeontograp
 Halstead, L. B. The Heterostracan Fishes. Biological Reviews 48, 279–332 (1973).
 
 Halstead Tarlo, L. B. & Whiting, H. P. A new interpretation of the internal anatomy of the Heterostraci (Agnatha). Nature 206, 148–150 (1965).
+
+Heimberg AM, Cowper-Sal·lari R, Sémon M, Donoghue PCJ, Peterson KJ (2010) microRNAs reveal the interrelationships of hagfish, lampreys, and gnathostomes and the nature of the ancestral vertebrate. Proc Natl Acad Sci 107(45):19379–19383.
 
 Heintz, A. in Problemes Actuels de Paléontologie (Évolution des Vertébrés) (ed. Lehman, J. P.) 13–29 (Éditions du CNRS, 1961).
 
@@ -1262,11 +1268,15 @@ Janvier, P. & Blieck, A. L. B. Halstead and the heterostracan controversy. Mod. 
 
 Keating, J. N., Marquart, C. L. & Donoghue, P. C. J. Histology of the heterostracan dermal skeleton: Insight into the origin of the vertebrate mineralised skeleton. Journal of Morphology 276, 657–680 (2015).
 
+Khonsari RH, Li B, Vernier P, Northcutt RG, Janvier P (2009) Agnathan brain anatomy and craniate phylogeny. Acta Zool 90:52–68.
+
 Kiaer, J. The Downtonian and Devonian vertebrates of Spitsbergen IV Suborder Cyathaspida. Skrifter om Svalbard og Ishavet (1932).
 
 Kuratani, S. & Ahlberg, P. E. Evolution of the vertebrate neurocranium: problems of the premandibular domain and the origin of the trabecula. Zool. Lett. 4, 1 (2018).
 
 Lehtola, K. A. Articulated Ordovician fish from Cañon City, Colorado. J. Paleontol. 57, 605–607 (1983).
+
+Mallatt J, Holland N (2013) *Pikaia gracilens* Walcott: Stem chordate, or already specialized in the Cambrian? J Exp Zool B Mol Dev Evol 320(4):247–271.
 
 Marconi, A., Hancock-Ronemus, A. & Gillis, J. A. Adult chondrogenesis and spontaneous cartilage repair in the skate, *Leucoraja erinacea*. eLife 9, e53414 (2020).
 
@@ -1275,6 +1285,8 @@ Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbelti
 Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbeltiere. II. Lieferung. *Myxine glutinosa* (Deuticke, 1956).
 
 Marinelli, W. & Strenger, A. Vergleichende Anatomie und Morphologie der Wirbeltiere. III. Lieferung. *Squalus acanthias* (Deuticke, 1959).
+
+McCoy VE, et al. (2016) The ‘Tully monster’ is a vertebrate. Nature 532(7600):496–499.
 
 Miyashita, T. et al. Hagfish from the Cretaceous Tethys Sea and a reconciliation of the morphological–molecular conflict in early vertebrate phylogeny. Proc. Natl Acad. Sci. USA 116, 2146–2151 (2019).
 
